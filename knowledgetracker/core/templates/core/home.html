@@ -36,6 +36,8 @@
       </a>
     </p>
   </li>
+  {% empty %}
+  {{ search_results.message }}
   {% endfor %}
 </ol>
 {% endif %}

@@ -35,5 +35,12 @@ class KnowledgeTrackerForm(forms.Form):
         else:
             results['success'] = False
             if response.status_code == 404:  # NOT FOUND
-                results['message'] = 'No entry found for "%s"' % q
+                results['message'] = 'No entry found for <strong>%s</strong> \
+                in the last <strong>%s</strong>!' % (q, timeframe)
+            elif response.status_code == 502:  # BAD GATEWAY
+                results['message'] = 'KnowledgeTracker is down for maintenance.'
+            elif response.status_code == 429:  # TOO MANY REQUESTS
+                results['message'] = 'Too many requests! Try again soon.'
+            elif response.status_code == 403:  # FORBIDDEN
+                results['message'] = 'You are not authorized to make this request.'
         return results
