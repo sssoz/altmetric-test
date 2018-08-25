@@ -1,0 +1,2740 @@
+{
+  "query": {
+    "total": 26,
+    "page": 1,
+    "num_results": 25
+  },
+  "results": [
+    {
+      "title": "Drinking responsibly is bad news for the alcohol industry – here's why",
+      "tq": [
+        "More than 75% of alcohol sold in England is drunk by 25% of adults who exceeded the UK drinking guidelines",
+        "Nice clear summary of the findings and argument of our new paper",
+        "@ComandantVimes Te puede interesar. (Vía @Dalek_fan)",
+        "Drinking responsibly is bad news for the alcohol industry 4% heaviest drinkers account for 23% of alcohol industry revenue. Voluntary schemes will never ween industry off its dependence on dependent drinkers. Bans on promotion, minimum pricing etc needed",
+        "The bulk of the alcohol industry's revenue comes from heavy drinkers."
+      ],
+      "uri": "http://theconversation.com/drinking-responsibly-is-bad-news-for-the-alcohol-industry-heres-why-101854",
+      "altmetric_jid": "theconversation",
+      "journal": "The Conversation",
+      "cohorts": {
+        "pub": 78,
+        "sci": 22,
+        "com": 5,
+        "doc": 12
+      },
+      "abstract": "The bulk of the alcohol industry's revenue comes from heavy drinkers.",
+      "context": {
+        "all": {
+          "count": 11655161,
+          "mean": 7.4285434940277,
+          "rank": 135779,
+          "pct": 98,
+          "higher_than": 11519455
+        },
+        "journal": {
+          "count": 62209,
+          "mean": 69.382700810185,
+          "rank": 14972,
+          "pct": 75,
+          "higher_than": 47228
+        },
+        "similar_age_3m": {
+          "count": 111644,
+          "mean": 12.263203013176,
+          "rank": 2821,
+          "pct": 97,
+          "higher_than": 108822
+        },
+        "similar_age_journal_3m": {
+          "count": 2109,
+          "mean": 72.873972485769,
+          "rank": 531,
+          "pct": 74,
+          "higher_than": 1577
+        }
+      },
+      "authors": [
+        "Colin Angus"
+      ],
+      "type": "news",
+      "altmetric_id": 46861417,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_msm_count": 1,
+      "cited_by_posts_count": 124,
+      "cited_by_tweeters_count": 117,
+      "cited_by_accounts_count": 118,
+      "last_updated": 1535203512,
+      "score": 90.8,
+      "history": {
+        "1y": 90.8,
+        "6m": 90.8,
+        "3m": 90.8,
+        "1m": 90.8,
+        "1w": 90.8,
+        "6d": 90.8,
+        "5d": 90.8,
+        "4d": 90.8,
+        "3d": 90.8,
+        "2d": 74.5,
+        "1d": 16.6,
+        "at": 90.8
+      },
+      "url": "https://theconversation.com/drinking-responsibly-is-bad-news-for-the-alcohol-industry-heres-why-101854",
+      "added_on": 1535020591,
+      "published_on": 1534982400,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=91&types=mttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=91&types=mttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=91&types=mttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46861417"
+    },
+    {
+      "title": "Alcohol a Leading Risk Factor for Premature Death",
+      "doi": "10.1056/nejm-jw.fw114508",
+      "tq": [
+        "There is no safe or beneficial level of #alcohol consumption. #medED",
+        "Afterall health is not the abscence of disease but a State of complete physical, mental, and social well being- what better way than a glass of wine or a beer with friends and family then!! Cheers!",
+        "I am curious how many times will the approach to safe alcohol dose change in my lifetime 😆",
+        "#Alcohol is a leading risk factor for premature death. The researchers conclude that the safest level of drinking is none.",
+        "Interesting study but, in my opinion, there are some risks worth taking and drinking a glass of good wine or a beer with friends or relatives is one I am not giving up."
+      ],
+      "issns": [
+        "9999-9999"
+      ],
+      "journal": "NEJM Journal Watch",
+      "cohorts": {
+        "pub": 10,
+        "sci": 4,
+        "doc": 5
+      },
+      "type": "article",
+      "altmetric_id": 46884731,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 19,
+      "cited_by_tweeters_count": 19,
+      "cited_by_accounts_count": 19,
+      "last_updated": 1535201425,
+      "score": 13.65,
+      "history": {
+        "1y": 13.65,
+        "6m": 13.65,
+        "3m": 13.65,
+        "1m": 13.65,
+        "1w": 13.65,
+        "6d": 13.65,
+        "5d": 13.65,
+        "4d": 13.65,
+        "3d": 13.65,
+        "2d": 13.65,
+        "1d": 13.4,
+        "at": 13.65
+      },
+      "url": "http://dx.doi.org/10.1056/nejm-jw.fw114508",
+      "added_on": 1535067426,
+      "published_on": 1535068800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=14&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=14&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=14&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46884731"
+    },
+    {
+      "title": "Are the \"Best Buys\" for Alcohol Control Still Valid? An Update on the Comparative Cost-Effectiveness of Alcohol Control Strategies at the Global Level.",
+      "pmid": "30079865",
+      "tq": [
+        "The answer for more casual readers is 'yes'. #SavedYouAClick",
+        "Spot on #bestbuysforsocialjustice",
+        "Yep, The 3As certainly worked wonders in #TobaccoControl, nailing: A #Affordability A #Acceptability A #Availability @ASH_LDN @CRUK_Policy @ASHScotland @alcoholpolicyuk",
+        "RT globalgapa: RT petticrewmark: Thanks for asking. I'll go with (i) restrictions on alcohol availability, (ii) restrictions on alcohol marketing, and (iii) increasing excise taxes on alcohol #BestBuysForReducingAlcoholHarm",
+        "RT IOGTInt: RT petticrewmark: Thanks for asking. I'll go with (i) restrictions on alcohol availability, (ii) restrictions on alcohol marketing, and (iii) increasing excise taxes on alcohol #BestBuysForReducingAlcoholHarm"
+      ],
+      "isbns": [],
+      "altmetric_jid": "4f6fa4f63cf058f610002f43",
+      "issns": [
+        "1938-4114"
+      ],
+      "journal": "Journal of Studies on Alcohol & Drugs",
+      "cohorts": {
+        "sci": 7,
+        "doc": 6,
+        "pub": 18
+      },
+      "abstract": "Evidence on the comparative cost-effectiveness of alcohol control strategies is a relevant input into public policy and resource allocation. At the global level, this evidence has been used to identify so-called best buys for noncommunicable disease prevention and control. This article uses global evidence on alcohol use exposures and risk relations, as well as on intervention costs and impacts, to re-examine the comparative cost-effectiveness of a range of alcohol control strategies.\nA \"generalized\" approach to cost-effectiveness analysis was adopted. A new modeling tool (OneHealth) was used to estimate the population-level effects of interventions. Interventions that reduce the harmful use of alcohol included brief psychosocial interventions, excise taxes, and the enactment as well as enforcement of restrictions on alcohol marketing, availability, and drink-driving laws. Costs were estimated in international dollars for the year 2010 and effects expressed in healthy life years gained. Analysis was carried out for 16 countries spanning low-, middle-, and high-income settings.\nIncreasing excise taxes has a low cost (<I$0.10 per capita) and a highly favorable ratio of costs to effects (<I$100 per healthy life year gained in both low- and high-income settings). Availability and marketing restrictions are also highly cost effective (<I$100 in low-income settings and <I$500 in high-income settings). Enforcement of drink-driving laws and blood alcohol concentration limits via sobriety checkpoints had cost-effectiveness ratios in the range of I$1,500-3,000. Brief psychosocial treatments were <I$150 and <I$1,500 in low- and high-income settings, respectively.\nMore than a decade after an initial global analysis, the findings of this study indicate pricing policies and restrictions to alcohol availability and marketing continue to represent a highly cost-effective use of resources.",
+      "context": {
+        "all": {
+          "count": 11655161,
+          "mean": 7.4285434940277,
+          "rank": 623594,
+          "pct": 94,
+          "higher_than": 11030952
+        },
+        "journal": {
+          "count": 524,
+          "mean": 23.231755258126,
+          "rank": 76,
+          "pct": 85,
+          "higher_than": 448
+        },
+        "similar_age_3m": {
+          "count": 158654,
+          "mean": 12.281390884509,
+          "rank": 15478,
+          "pct": 90,
+          "higher_than": 143144
+        },
+        "similar_age_journal_3m": {
+          "count": 4,
+          "mean": 41.6,
+          "rank": 2,
+          "pct": 50,
+          "higher_than": 2
+        }
+      },
+      "authors": [
+        "Chisholm, Dan",
+        "Moro, Daniela",
+        "Bertram, Melanie",
+        "Pretorius, Carel",
+        "Gmel, Gerrit",
+        "Shield, Kevin",
+        "Rehm, Jürgen"
+      ],
+      "type": "article",
+      "handles": [],
+      "altmetric_id": 46279235,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Public Health And Health Services",
+          "scheme": "era"
+        },
+        {
+          "name": "Psychology",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_posts_count": 37,
+      "cited_by_tweeters_count": 31,
+      "cited_by_accounts_count": 31,
+      "last_updated": 1535201772,
+      "score": 19.15,
+      "history": {
+        "1y": 19.15,
+        "6m": 19.15,
+        "3m": 19.15,
+        "1m": 19.15,
+        "1w": 14.8,
+        "6d": 14.8,
+        "5d": 14.8,
+        "4d": 14.8,
+        "3d": 14.8,
+        "2d": 14.8,
+        "1d": 12.35,
+        "at": 19.15
+      },
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/30079865",
+      "added_on": 1533747145,
+      "published_on": 1530403200,
+      "subjects": [
+        "substancerelateddisorders"
+      ],
+      "scopus_subjects": [
+        "Health Sciences",
+        "Life Sciences",
+        "Pharmacology, Toxicology and Pharmaceutics",
+        "Social Sciences",
+        "Medicine"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=20&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=20&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=20&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46279235"
+    },
+    {
+      "title": "The Relationship between Alcohol Consumption and Cortisol Secretion in an Aging Cohort",
+      "doi": "10.1210/jc.2007-0737",
+      "pmid": "18073316",
+      "pmc": "PMC2266962",
+      "tq": [
+        "The relationship between cortisol and alcohol"
+      ],
+      "altmetric_jid": "4f6fa6223cf058f610007be1",
+      "issns": [
+        "0021-972X",
+        "1945-7197"
+      ],
+      "journal": "The Journal of Clinical Endocrinology & Metabolism",
+      "cohorts": {
+        "pub": 1
+      },
+      "abstract": "Evidence for an association between alcohol consumption and activity of the hypothalamic-pituitary-adrenal (HPA) axis is inconclusive.\nOur objective was to assess the relationship between indices of alcohol consumption and salivary cortisol concentration.\nThis was a cross-sectional study of alcohol consumption and cortisol secretion from phase 7 (2002-2004) of the Whitehall II study.\nAn occupational cohort originally recruited in 1985-1987 was included in the study.\nA total of 2693 men and 977 women had information on cortisol levels and alcohol consumption.\nSaliva samples were taken on waking, waking+0.5, 2.5, 8, and 12 h, and bedtime for the assessment of cortisol.\nIn men there was a positive association between cortisol and units of alcohol intake per week (3% increase in cortisol per unit of alcohol consumed; P=0.010). The slope of cortisol decline over the day in heavy drinkers was reduced (heavy drinkers beta=-0.155, moderate drinkers beta=-0.151), indicating reduced control of the HPA axis in heavy drinkers. In women the cortisol awakening response was greater in heavy drinkers 14.15 nmol/liter (9.12-19.17) compared with moderate drinkers 8.69 nmol/liter (7.72-9.67) (P=0.037).\nThis study suggests that alcohol consumption is associated with activation of the HPA axis. These results are not due to alcohol consumption on the day, suggesting chronic changes of the HPA axis in heavy drinking groups.",
+      "context": {
+        "all": {
+          "count": 11643422,
+          "mean": 7.4223149558752,
+          "rank": 408197,
+          "pct": 96,
+          "higher_than": 11234643
+        },
+        "journal": {
+          "count": 10279,
+          "mean": 8.3090231562561,
+          "rank": 399,
+          "pct": 96,
+          "higher_than": 9880
+        },
+        "similar_age_3m": {
+          "count": 228856,
+          "mean": 8.7795457123508,
+          "rank": 11627,
+          "pct": 94,
+          "higher_than": 217205
+        },
+        "similar_age_journal_3m": {
+          "count": 90,
+          "mean": 12.104112359551,
+          "rank": 9,
+          "pct": 90,
+          "higher_than": 81
+        }
+      },
+      "authors": [
+        "Ellena Badrick",
+        "Martin Bobak",
+        "Annie Britton",
+        "Clemens Kirschbaum",
+        "Michael Marmot",
+        "Meena Kumari"
+      ],
+      "type": "article",
+      "altmetric_id": 4099880,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Clinical Sciences",
+          "scheme": "era"
+        },
+        {
+          "name": "Paediatrics And Reproductive Medicine",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_fbwalls_count": 2,
+      "cited_by_feeds_count": 1,
+      "cited_by_msm_count": 3,
+      "cited_by_posts_count": 10,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 7,
+      "last_updated": 1535101292,
+      "score": 30.5,
+      "history": {
+        "1y": 10,
+        "6m": 10,
+        "3m": 10,
+        "1m": 10,
+        "1w": 10,
+        "6d": 10,
+        "5d": 10,
+        "4d": 10,
+        "3d": 10,
+        "2d": 10,
+        "1d": 10,
+        "at": 30.5
+      },
+      "url": "http://dx.doi.org/10.1210/jc.2007-0737",
+      "added_on": 1433519881,
+      "published_on": 1204329600,
+      "subjects": [
+        "endocrinology",
+        "metabolism"
+      ],
+      "scopus_subjects": [
+        "Biochemistry, Genetics and Molecular Biology",
+        "Health Sciences",
+        "Life Sciences",
+        "Medicine"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 77,
+        "connotea": 0
+      },
+      "readers_count": 77,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=31&types=mmmbbtff",
+        "medium": "https://badges.altmetric.com/?size=100&score=31&types=mmmbbtff",
+        "large": "https://badges.altmetric.com/?size=180&score=31&types=mmmbbtff"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=4099880"
+    },
+    {
+      "title": "The association between alcohol use, alcohol use disorders and tuberculosis (TB). A systematic review",
+      "doi": "10.1186/1471-2458-9-450",
+      "pmid": "19961618",
+      "pmc": "PMC2796667",
+      "tq": [
+        "Association between Alcohol and TB"
+      ],
+      "uri": "http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-34596",
+      "altmetric_jid": "4f6fa4d03cf058f6100007d8",
+      "issns": [
+        "1471-2458"
+      ],
+      "journal": "BMC Public Health",
+      "cohorts": {
+        "pub": 1
+      },
+      "abstract": "In 2004, tuberculosis (TB) was responsible for 2.5% of global mortality (among men 3.1%; among women 1.8%) and 2.2% of global burden of disease (men 2.7%; women 1.7%). The present work portrays accumulated evidence on the association between alcohol consumption and TB with the aim to clarify the nature of the relationship.\nA systematic review of existing scientific data on the association between alcohol consumption and TB, and on studies relevant for clarification of causality was undertaken.\nThere is a strong association between heavy alcohol use/alcohol use disorders (AUD) and TB. A meta-analysis on the risk of TB for these factors yielded a pooled relative risk of 2.94 (95% CI: 1.89-4.59). Numerous studies show pathogenic impact of alcohol on the immune system causing susceptibility to TB among heavy drinkers. In addition, there are potential social pathways linking AUD and TB. Heavy alcohol use strongly influences both the incidence and the outcome of the disease and was found to be linked to altered pharmacokinetics of medicines used in treatment of TB, social marginalization and drift, higher rate of re-infection, higher rate of treatment defaults and development of drug-resistant forms of TB. Based on the available data, about 10% of the TB cases globally were estimated to be attributable to alcohol.\nThe epidemiological and other evidence presented indicates that heavy alcohol use/AUD constitute a risk factor for incidence and re-infection of TB. Consequences for prevention and clinical interventions are discussed.",
+      "context": {
+        "all": {
+          "count": 11652554,
+          "mean": 7.4272210125842,
+          "rank": 627217,
+          "pct": 94,
+          "higher_than": 11020668
+        },
+        "journal": {
+          "count": 8014,
+          "mean": 10.249769125172,
+          "rank": 698,
+          "pct": 91,
+          "higher_than": 7313
+        },
+        "similar_age_3m": {
+          "count": 187116,
+          "mean": 7.8454161985947,
+          "rank": 13038,
+          "pct": 92,
+          "higher_than": 174012
+        },
+        "similar_age_journal_3m": {
+          "count": 297,
+          "mean": 9.9904864864865,
+          "rank": 30,
+          "pct": 89,
+          "higher_than": 267
+        }
+      },
+      "authors": [
+        "Jürgen Rehm",
+        "Andriy V Samokhvalov",
+        "Manuela G Neuman",
+        "Robin Room",
+        "Charles Parry",
+        "Knut Lönnroth",
+        "Jayadeep Patra",
+        "Vladimir Poznyak",
+        "Svetlana Popova",
+        "Rehm, Jürgen",
+        "Samokhvalov, Andriy V",
+        "Neuman, Manuela G",
+        "Room, Robin",
+        "Parry, Charles",
+        "Lönnroth, Knut",
+        "Patra, Jayadeep",
+        "Poznyak, Vladimir",
+        "Popova, Svetlana"
+      ],
+      "type": "article",
+      "altmetric_id": 2459825,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Biostatistics",
+          "scheme": "springer"
+        },
+        {
+          "name": "Environmental Health",
+          "scheme": "springer"
+        },
+        {
+          "name": "Epidemiology",
+          "scheme": "springer"
+        },
+        {
+          "name": "Medicine & Public Health",
+          "scheme": "springer"
+        },
+        {
+          "name": "Medicine/Public Health, general",
+          "scheme": "springer"
+        },
+        {
+          "name": "Public Health/Gesundheitswesen",
+          "scheme": "springer"
+        },
+        {
+          "name": "Vaccine",
+          "scheme": "springer"
+        },
+        {
+          "name": "Public Health And Health Services",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_msm_count": 1,
+      "cited_by_policies_count": 2,
+      "cited_by_posts_count": 5,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 4,
+      "last_updated": 1535135114,
+      "score": 19,
+      "history": {
+        "1y": 13,
+        "6m": 13,
+        "3m": 10,
+        "1m": 10,
+        "1w": 10,
+        "6d": 10,
+        "5d": 10,
+        "4d": 10,
+        "3d": 10,
+        "2d": 10,
+        "1d": 10,
+        "at": 19
+      },
+      "url": "http://dx.doi.org/10.1186/1471-2458-9-450",
+      "added_on": 1403595077,
+      "published_on": 1230768000,
+      "subjects": [
+        "publichealth"
+      ],
+      "scopus_subjects": [
+        "Medicine",
+        "Health Sciences"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 178,
+        "connotea": 2
+      },
+      "readers_count": 180,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=19&types=mmttdddd",
+        "medium": "https://badges.altmetric.com/?size=100&score=19&types=mmttdddd",
+        "large": "https://badges.altmetric.com/?size=180&score=19&types=mmttdddd"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=2459825"
+    },
+    {
+      "title": "Beneficial effects of moderate alcohol use-a case for Occam's razor?",
+      "doi": "10.1111/add.13550",
+      "pmid": "27653451",
+      "tq": [
+        "Polémico asunto: nuevo estudio que dice que el consumo moderado de alcohol es saludable",
+        "Alcohol is not nutritive and is absolutely a toxin, which is why it triggers beneficial hormesis effects in low doses. It's a biological stressor, like exercise. I suspect a big reason for ongoing debate is because low dosage differs among different people life stages.",
+        "The health promoting effects of moderate alcohol drinking remain strong and ride out any methodological criticism.",
+        "@TaraMcCarthy_14 commentary showing the simplest case---beneficial effect for modern alcohol consumption"
+      ],
+      "uri": "http://doi.wiley.com/10.1111/add.13550",
+      "altmetric_jid": "4f6fa4e93cf058f61000243b",
+      "issns": [
+        "1360-0443",
+        "09652140",
+        "0965-2140"
+      ],
+      "journal": "British Journal of Addiction (to Alcohol & Other Drugs)",
+      "cohorts": {
+        "sci": 2,
+        "doc": 4,
+        "pub": 25,
+        "com": 1
+      },
+      "context": {
+        "all": {
+          "count": 11652960,
+          "mean": 7.4274868963199,
+          "rank": 233911,
+          "pct": 97,
+          "higher_than": 11418854
+        },
+        "journal": {
+          "count": 4021,
+          "mean": 16.926346268657,
+          "rank": 248,
+          "pct": 93,
+          "higher_than": 3772
+        },
+        "similar_age_3m": {
+          "count": 258871,
+          "mean": 13.044308069687,
+          "rank": 11399,
+          "pct": 95,
+          "higher_than": 247458
+        },
+        "similar_age_journal_3m": {
+          "count": 40,
+          "mean": 36.819384615385,
+          "rank": 6,
+          "pct": 85,
+          "higher_than": 34
+        }
+      },
+      "authors": [
+        "Gmel, Gerhard",
+        "Gerhard Gmel"
+      ],
+      "type": "article",
+      "altmetric_id": 12712263,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Medical And Health Sciences",
+          "scheme": "era"
+        },
+        {
+          "name": "Psychology And Cognitive Sciences",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_posts_count": 38,
+      "cited_by_msm_count": 4,
+      "cited_by_tweeters_count": 32,
+      "cited_by_accounts_count": 36,
+      "last_updated": 1535140682,
+      "score": 55.5,
+      "history": {
+        "1y": 9.85,
+        "6m": 9.85,
+        "3m": 9.85,
+        "1m": 9.85,
+        "1w": 9.85,
+        "6d": 9.85,
+        "5d": 9.85,
+        "4d": 9.85,
+        "3d": 9.85,
+        "2d": 9.85,
+        "1d": 9.85,
+        "at": 55.5
+      },
+      "url": "http://dx.doi.org/10.1111/add.13550",
+      "added_on": 1476794733,
+      "published_on": 1474416000,
+      "subjects": [
+        "substancerelateddisorders"
+      ],
+      "scopus_subjects": [
+        "Medicine",
+        "Health Sciences"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 2,
+        "connotea": 0
+      },
+      "readers_count": 2,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=56&types=mttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=56&types=mttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=56&types=mttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=12712263"
+    },
+    {
+      "title": "Profiles of Recovery from Alcohol Use Disorder at Three Years Following Treatment: Can the Definition of Recovery be Extended to Include High Functioning Heavy Drinkers?",
+      "doi": "10.1111/add.14403",
+      "pmid": "30063267",
+      "tq": [
+        "Meidän tulisi laajentaa käsitystämme siitä miten hoidon hyötyjä mitataan. #päihdelääketiede #alkoholi #elämälaatu",
+        "Friend and all-star addiction scientist/clinician Dr @KatieWitkiewitz shares the science.",
+        "Our new paper found occasional heavy drinkers are similar to alcohol abstainers with respect to functioning and life satisfaction. Can we broaden the definition of recovery to encompass harm reduction outcomes? @maiasz @BrookeM_Feldman",
+        "Interesting study of different profiles of non-abstinent recovery from alcohol use issues: Recovery from Alcohol Use Disorder at 3 Years Following Treatment: Can the Definition of Recovery Extended to Include High Functioning Heavy Drinkers?",
+        "Kiinnostava #tutkimusartikkeli alkoholiriippuvuuden hoidosta: #Raittius ei ole ainoa parempaa hoitotulosta määrittelevä asia. #tutkimus #alkoholi #päihdelääketiede"
+      ],
+      "isbns": [],
+      "altmetric_jid": "4f6fa4e93cf058f61000243b",
+      "issns": [
+        "0965-2140",
+        "1360-0443"
+      ],
+      "journal": "British Journal of Addiction (to Alcohol & Other Drugs)",
+      "cohorts": {
+        "doc": 3,
+        "pub": 6,
+        "sci": 3,
+        "com": 1
+      },
+      "abstract": "Recovery from alcohol use disorder (AUD) is often narrowly defined by abstinence from alcohol and improvements in functioning (e.g., mental health, social functioning, employment). This study used latent profile analysis to examine variability in recovery outcomes, defined by alcohol use, alcohol-related problems, and psychosocial functioning at three years following treatment. Secondary analysis investigated pre-treatment, post-treatment, and one- and three-year post-treatment covariate predictors of the latent profiles.\nSecondary analysis of data from a randomized clinical trial.\nUSA PARTICIPANTS: We used data from the outpatient arm of Project MATCH (n=805; 29.7% female, 22.2% non-White).\nRecovery was defined by latent profile analyses including measures of psychosocial functioning and life satisfaction (Psychosocial Functioning Inventory), unemployment and mental health (Addiction Severity Index), alcohol and other drug use (Form 90), and alcohol-related consequences (Drinker Inventory of Consequences) three years following treatment. Mixture modeling was used to examine correlates of profiles.\nWe identified four profiles at three years following treatment: 1) poor functioning frequent heavy drinkers, 2) poor functioning infrequent heavy drinkers, 3) high functioning occasional heavy drinkers, and 4) high functioning infrequent non-heavy drinkers. There were relatively few differences on indicators of functioning and treatment-related variables between the high functioning infrequent non-heavy drinkers and the high functioning occasional heavy drinkers, other than high functioning occasional heavy drinkers having lower alcohol dependence severity (OR=0.94, 95% CI: 0.90, 0.98), fewer post-treatment coping skills (OR=0.54, 95% CI: 0.27, 0.81), and lower three-year post-treatment abstinence self-efficacy (OR=0.37, 95% CI: 0.27, 0.47), and AA involvement (OR=0.87, 95% CI: 0.74, 0.99). The two high functioning profiles showed the greatest improvements in functioning from baseline through the 3-year follow-up, whereas the low functioning profiles showed the least amount of improvement. High functioning occasional heavy drinkers had higher purpose in life than the poor functioning profiles.\nSome individuals who engage in heavy drinking following treatment for alcohol use disorder may function as well as those who are mostly abstinent with respect to psychosocial functioning, employment, life satisfaction, and mental health.",
+      "context": {
+        "all": {
+          "count": 11654827,
+          "mean": 7.4291514898501,
+          "rank": 1048447,
+          "pct": 90,
+          "higher_than": 10605019
+        },
+        "journal": {
+          "count": 4022,
+          "mean": 16.890486446158,
+          "rank": 960,
+          "pct": 76,
+          "higher_than": 3061
+        },
+        "similar_age_3m": {
+          "count": 171640,
+          "mean": 12.545664085668,
+          "rank": 25705,
+          "pct": 84,
+          "higher_than": 145865
+        },
+        "similar_age_journal_3m": {
+          "count": 34,
+          "mean": 63.905151515152,
+          "rank": 21,
+          "pct": 38,
+          "higher_than": 13
+        }
+      },
+      "authors": [
+        "Katie Witkiewitz",
+        "Adam D. Wilson",
+        "Matthew R. Pearson",
+        "Kevin S. Montes",
+        "Megan Kirouac",
+        "Corey R. Roos",
+        "Kevin A. Hallgren",
+        "Stephen A. Maisto"
+      ],
+      "type": "article",
+      "handles": [],
+      "altmetric_id": 45909470,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Medical And Health Sciences",
+          "scheme": "era"
+        },
+        {
+          "name": "Psychology And Cognitive Sciences",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_posts_count": 15,
+      "cited_by_tweeters_count": 13,
+      "cited_by_accounts_count": 13,
+      "last_updated": 1535215849,
+      "score": 11.3,
+      "history": {
+        "1y": 11.3,
+        "6m": 11.3,
+        "3m": 11.3,
+        "1m": 11.3,
+        "1w": 5.4,
+        "6d": 5.4,
+        "5d": 5.4,
+        "4d": 5.4,
+        "3d": 5.4,
+        "2d": 5.4,
+        "1d": 5.4,
+        "at": 11.3
+      },
+      "url": "http://dx.doi.org/10.1111/add.14403",
+      "added_on": 1533226253,
+      "published_on": 1532995200,
+      "subjects": [
+        "substancerelateddisorders"
+      ],
+      "scopus_subjects": [
+        "Medicine",
+        "Health Sciences"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=12&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=12&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=12&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=45909470"
+    },
+    {
+      "title": "Sobriety tags: how alcohol monitoring could become the new norm",
+      "tq": [
+        "Check out my new article in The Conversation #sobriety #alcoholbracelets #AAMR #violence #innovation 👇🏻",
+        "Alcohol anklets could become a regular part of the UK justice system's toolkit",
+        "In the UK, a new innovative way to prevent drunk driving and alcohol-related deaths is being used by using devices that test body temperature and alcohol content in perspiration",
+        "Sobriety tags: how #alcohol monitoring could become the new norm @QLDCAA @StevenJMiles @Natashafyles @DoctorBoffa",
+        "Sobriety tags: how alcohol monitoring could become the new norm I'm currently doing a Cost Benefit Analysis of these for MOPAC"
+      ],
+      "uri": "http://theconversation.com/sobriety-tags-how-alcohol-monitoring-could-become-the-new-norm-98975",
+      "altmetric_jid": "theconversation",
+      "journal": "The Conversation",
+      "cohorts": {
+        "doc": 6,
+        "com": 4,
+        "pub": 44,
+        "sci": 7
+      },
+      "abstract": "Sobriety tags monitor how much alcohol a person drinks – can they work to reduce crime?",
+      "context": {
+        "all": {
+          "count": 11652554,
+          "mean": 7.4272210125842,
+          "rank": 257013,
+          "pct": 97,
+          "higher_than": 11395629
+        },
+        "journal": {
+          "count": 62205,
+          "mean": 69.369946498617,
+          "rank": 26584,
+          "pct": 57,
+          "higher_than": 35606
+        },
+        "similar_age_3m": {
+          "count": 110974,
+          "mean": 12.190931686086,
+          "rank": 4982,
+          "pct": 95,
+          "higher_than": 105990
+        },
+        "similar_age_journal_3m": {
+          "count": 2138,
+          "mean": 72.056155357979,
+          "rank": 1021,
+          "pct": 52,
+          "higher_than": 1116
+        }
+      },
+      "authors": [
+        "Laura Bainbridge"
+      ],
+      "type": "news",
+      "altmetric_id": 46768649,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_msm_count": 1,
+      "cited_by_posts_count": 67,
+      "cited_by_tweeters_count": 61,
+      "cited_by_accounts_count": 62,
+      "last_updated": 1535136654,
+      "score": 50.55,
+      "history": {
+        "1y": 50.55,
+        "6m": 50.55,
+        "3m": 50.55,
+        "1m": 50.55,
+        "1w": 50.55,
+        "6d": 50.55,
+        "5d": 50.55,
+        "4d": 50.55,
+        "3d": 36.25,
+        "2d": 15.75,
+        "1d": 3.7,
+        "at": 50.55
+      },
+      "url": "http://theconversation.com/sobriety-tags-how-alcohol-monitoring-could-become-the-new-norm-98975",
+      "added_on": 1534837971,
+      "published_on": 1534809600,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=51&types=mttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=51&types=mttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=51&types=mttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46768649"
+    },
+    {
+      "title": "Alcohol Metabolism in American Indians and Whites",
+      "doi": "10.1056/nejm197601012940103",
+      "tq": [
+        "Myth: Racial differences in the rate of alcohol metabolism among American Indians and whites",
+        "@CamaroWRX @levigutt @khaleesi_britt @joerogan I have also posted to these studies as well, all of which help to understand the myth of natives being genetically inclined to alcoholism the myth that there is a racial difference in the way natives metabolize alcohol.",
+        "@DebraSSchneider @johnniejae @prezthentonow @joerogan Here it is.",
+        "Native people do not metabolize alcohol any differently than white people. When studied, the average rate of alcohol metabolism is virtually identical between Native and white people. #NativesToldYouSo"
+      ],
+      "altmetric_jid": "4f6fa50e3cf058f6100031c4",
+      "issns": [
+        "0028-4793",
+        "1533-4406"
+      ],
+      "journal": "New England Journal of Medicine",
+      "cohorts": {
+        "pub": 8
+      },
+      "context": {
+        "all": {
+          "count": 11652768,
+          "mean": 7.4273650517383,
+          "rank": 537490,
+          "pct": 95,
+          "higher_than": 11114100
+        },
+        "journal": {
+          "count": 23920,
+          "mean": 55.008503699987,
+          "rank": 6923,
+          "pct": 71,
+          "higher_than": 16993
+        },
+        "similar_age_3m": {
+          "count": 254876,
+          "mean": 8.5263759176068,
+          "rank": 16025,
+          "pct": 93,
+          "higher_than": 238815
+        },
+        "similar_age_journal_3m": {
+          "count": 360,
+          "mean": 64.627119777159,
+          "rank": 145,
+          "pct": 59,
+          "higher_than": 215
+        }
+      },
+      "authors": [
+        "Lynn J. Bennion",
+        "Ting-Kai Li"
+      ],
+      "type": "article",
+      "altmetric_id": 3340854,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Medical And Health Sciences",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_fbwalls_count": 1,
+      "cited_by_msm_count": 1,
+      "cited_by_policies_count": 1,
+      "cited_by_posts_count": 15,
+      "cited_by_tweeters_count": 8,
+      "cited_by_wikipedia_count": 1,
+      "cited_by_accounts_count": 12,
+      "last_updated": 1535137491,
+      "score": 22.5,
+      "history": {
+        "1y": 3.7,
+        "6m": 3.7,
+        "3m": 3.7,
+        "1m": 3.7,
+        "1w": 3.7,
+        "6d": 3.7,
+        "5d": 3.7,
+        "4d": 3.7,
+        "3d": 3.7,
+        "2d": 3.7,
+        "1d": 3.7,
+        "at": 22.5
+      },
+      "url": "http://dx.doi.org/10.1056/nejm197601012940103",
+      "added_on": 1423138582,
+      "published_on": 189302400,
+      "subjects": [
+        "medicine"
+      ],
+      "scopus_subjects": [
+        "Medicine",
+        "Health Sciences"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 5,
+        "connotea": 0
+      },
+      "readers_count": 5,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=23&types=mttttwfd",
+        "medium": "https://badges.altmetric.com/?size=100&score=23&types=mttttwfd",
+        "large": "https://badges.altmetric.com/?size=180&score=23&types=mttttwfd"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=3340854"
+    },
+    {
+      "title": "The development of children's intentions to use alcohol: Direct and indirect effects of parent alcohol use and parenting behaviors.",
+      "doi": "10.1037/0893-164x.22.3.326",
+      "pmid": "18778126",
+      "pmc": "PMC2596584",
+      "isbns": [],
+      "altmetric_jid": "4f6fa6023cf058f6100063b7",
+      "issns": [
+        "0893-164X",
+        "1939-1501"
+      ],
+      "journal": "Psychology of Addictive Behaviors",
+      "cohorts": {
+        "pub": 4
+      },
+      "abstract": "The purpose of this study was to explore the effect of parent alcohol use and parenting behavior on the development of children's intentions to use alcohol in Grades 1 through 8. The authors hypothesized that the effect of parent alcohol use on children's intention to use alcohol would be mediated through parenting behavior, specifically monitoring/supervision, positive parenting, and inconsistent discipline. Using cohort-sequential latent growth modeling (LGM), the authors tested 3 models examining the effect of the development of parent alcohol use on the development of children's intentions to use alcohol, as mediated by the development of each of the 3 parenting behaviors. Multiple group analyses were used to explore gender differences. The effect of growth in parent alcohol use on growth in children's intentions was mediated only by parent monitoring/supervision and was significant only for girls. The effect of inconsistent discipline was directly related to growth in intentions for both boys and girls. Although parent alcohol use was related to less positive parenting, positive parenting was unrelated to children's intentions to use alcohol.",
+      "context": {
+        "all": {
+          "count": 11649004,
+          "mean": 7.4254037623518,
+          "rank": 2991557,
+          "pct": 74,
+          "higher_than": 8652662
+        },
+        "journal": {
+          "count": 1105,
+          "mean": 4.0896956521739,
+          "rank": 226,
+          "pct": 79,
+          "higher_than": 879
+        },
+        "similar_age_3m": {
+          "count": 259538,
+          "mean": 12.741394830024,
+          "rank": 79549,
+          "pct": 69,
+          "higher_than": 179777
+        },
+        "similar_age_journal_3m": {
+          "count": 2,
+          "mean": 2,
+          "rank": 1,
+          "pct": 50,
+          "higher_than": 1
+        }
+      },
+      "authors": [
+        "Tildesley EA",
+        "Andrews JA",
+        "Elizabeth A. Tildesley",
+        "Judy A. Andrews"
+      ],
+      "type": "article",
+      "handles": [],
+      "altmetric_id": 11841944,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Psychology",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_posts_count": 6,
+      "cited_by_tweeters_count": 4,
+      "cited_by_peer_review_sites_count": 1,
+      "cited_by_accounts_count": 5,
+      "last_updated": 1535092346,
+      "score": 3.8,
+      "history": {
+        "1y": 2.8,
+        "6m": 2.8,
+        "3m": 2.8,
+        "1m": 2.8,
+        "1w": 2.8,
+        "6d": 2.8,
+        "5d": 2.8,
+        "4d": 2.8,
+        "3d": 2.8,
+        "2d": 2.8,
+        "1d": 2.8,
+        "at": 3.8
+      },
+      "url": "http://dx.doi.org/10.1037/0893-164x.22.3.326",
+      "added_on": 1473166663,
+      "published_on": 1220227200,
+      "subjects": [
+        "substancerelateddisorders",
+        "psychology"
+      ],
+      "scopus_subjects": [
+        "Health Sciences",
+        "Social Sciences",
+        "Psychology",
+        "Medicine"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 21,
+        "connotea": 0
+      },
+      "readers_count": 21,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=4&types=eetttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=4&types=eetttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=4&types=eetttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=11841944"
+    },
+    {
+      "title": "Improvement of Acute Respiratory Distress Syndrome with Ethyl Alcohol Infusion into the Airway: A Case Report",
+      "doi": "10.4172/2161-105x.1000464",
+      "tq": [
+        "Improvement of Acute Respiratory Distress Syndrome with Ethyl Alcohol Infusion into the Airway Case Report by Dr. Takahashi and Dr. Endo, Iwate Medical University, Japan #ARDS #RespiratorySyndrome #PulmonaryAlveoli"
+      ],
+      "issns": [
+        "2161-105X"
+      ],
+      "journal": "Journal of Pulmonary & Respiratory Medicine",
+      "cohorts": {
+        "com": 1,
+        "pub": 2,
+        "sci": 1
+      },
+      "authors": [
+        "Takahashi G",
+        "Endo S"
+      ],
+      "type": "article",
+      "altmetric_id": 46816473,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 5,
+      "cited_by_tweeters_count": 4,
+      "cited_by_accounts_count": 4,
+      "last_updated": 1535117393,
+      "score": 3.35,
+      "history": {
+        "1y": 3.35,
+        "6m": 3.35,
+        "3m": 3.35,
+        "1m": 3.35,
+        "1w": 3.35,
+        "6d": 3.35,
+        "5d": 3.35,
+        "4d": 3.35,
+        "3d": 3.35,
+        "2d": 2.35,
+        "1d": 2.35,
+        "at": 3.35
+      },
+      "url": "http://dx.doi.org/10.4172/2161-105x.1000464",
+      "added_on": 1534926626,
+      "published_on": 1514764800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=4&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=4&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=4&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46816473"
+    },
+    {
+      "title": "Drink, drank, drunk: what happens when we drink alcohol in four short videos",
+      "tq": [
+        "What happens at the different stages of intoxication? See three more videos on alcohol's effects on the body here",
+        "Great article and videos. 🍻 Check it out! #alcohol #drinking #sober #animation",
+        "Drink, drank, drunk: what happens when we drink alcohol in four short videos #alcohol #beer #wine #spirits #health #awareness",
+        "Alcohol - what happens when we drink it?",
+        "Great videos on how alcohol affect our bodies."
+      ],
+      "uri": "http://theconversation.com/drink-drank-drunk-what-happens-when-we-drink-alcohol-in-four-short-videos-100206",
+      "altmetric_jid": "theconversation",
+      "journal": "The Conversation",
+      "cohorts": {
+        "pub": 106,
+        "com": 17,
+        "doc": 12,
+        "sci": 21
+      },
+      "abstract": "What is it that makes us feel drunk when we drink? And why do we keep drinking if it can make us feel so terrible?",
+      "context": {
+        "all": {
+          "count": 11648643,
+          "mean": 7.4250452634603,
+          "rank": 76911,
+          "pct": 99,
+          "higher_than": 11571841
+        },
+        "journal": {
+          "count": 62162,
+          "mean": 69.358560576567,
+          "rank": 7588,
+          "pct": 87,
+          "higher_than": 54569
+        },
+        "similar_age_3m": {
+          "count": 168288,
+          "mean": 12.444280817888,
+          "rank": 2585,
+          "pct": 98,
+          "higher_than": 165702
+        },
+        "similar_age_journal_3m": {
+          "count": 3052,
+          "mean": 75.571993444772,
+          "rank": 408,
+          "pct": 86,
+          "higher_than": 2643
+        }
+      },
+      "authors": [
+        "Emil Jeyaratnam",
+        "Wes Mountain"
+      ],
+      "type": "news",
+      "altmetric_id": 45920439,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_fbwalls_count": 9,
+      "cited_by_gplus_count": 4,
+      "cited_by_msm_count": 3,
+      "cited_by_posts_count": 196,
+      "cited_by_rdts_count": 1,
+      "cited_by_tweeters_count": 156,
+      "cited_by_accounts_count": 173,
+      "last_updated": 1535077485,
+      "score": 144.1,
+      "history": {
+        "1y": 144.1,
+        "6m": 144.1,
+        "3m": 144.1,
+        "1m": 144.1,
+        "1w": 2.45,
+        "6d": 2.45,
+        "5d": 2.45,
+        "4d": 2.45,
+        "3d": 1.95,
+        "2d": 1.95,
+        "1d": 1.95,
+        "at": 144.1
+      },
+      "url": "http://theconversation.com/drink-drank-drunk-what-happens-when-we-drink-alcohol-in-four-short-videos-100206?utm_source=twitter&utm_medium=twitterbutton",
+      "added_on": 1533242278,
+      "published_on": 1533168000,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=145&types=mrttttfg",
+        "medium": "https://badges.altmetric.com/?size=100&score=145&types=mrttttfg",
+        "large": "https://badges.altmetric.com/?size=180&score=145&types=mrttttfg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=45920439"
+    },
+    {
+      "title": "Alcohol and the risk of pneumonia: a systematic review and meta-analysis",
+      "doi": "10.1136/bmjopen-2018-022344",
+      "pmid": "30135186",
+      "tq": [
+        "(BMJ Open) El consumo de alcohol ↑riesgo de sufrir una NAC Rev Sist y MA",
+        "El consumo de Alcohol y el riesgo de neumonía adquirida en la comunidad. a systematic review and meta-analysis",
+        "(BMJ) Revisión y MA: El consumo de alcohol aumenta el riesgo de NAC. #alcohol #NAC"
+      ],
+      "isbns": [],
+      "altmetric_jid": "4f6fa60e3cf058f610006cc0",
+      "issns": [
+        "2044-6055"
+      ],
+      "journal": "BMJ Open",
+      "cohorts": {
+        "pub": 13,
+        "doc": 2
+      },
+      "abstract": "A systematic review and meta-analysis to estimate the magnitude of the association between alcohol consumption and the risk of community-acquired pneumonia (CAP) in adults was undertaken.\nSystematic review and meta-analysis.\nComprehensive searches of Medline, Embase and Web of Science were carried out to identify comparative studies of the association between alcohol intake and CAP between 1985 and 2017. Reference lists were also screened. A random-effects meta-analysis was used to estimate pooled effect sizes. A dose-response meta-analysis was also performed.\nWe found 17 papers eligible for inclusion in the review, of which 14 provided results which could be pooled. Meta-analysis of these 14 studies identified an 83% increased risk of CAP among people who consumed alcohol or in higher amounts, relative to those who consumed no or lower amounts of alcohol, respectively (relative risk=1.83, 95% CI 1.30 to 2.57). There was substantial between-study heterogeneity, which was attributable in part to differences in study continent, adjustment for confounders and pneumonia diagnosis (clinical vs death). Dose-response analysis found that for every 10-20 g higher alcohol intake per day, there was an 8% increase in the risk of CAP.\nThe findings suggest that alcohol consumption increases the risk of CAP. Therefore, strengthening policies to reduce alcohol intake would be likely to reduce the incidence of CAP.",
+      "context": {
+        "all": {
+          "count": 11654343,
+          "mean": 7.4285403414319,
+          "rank": 1832749,
+          "pct": 84,
+          "higher_than": 9817334
+        },
+        "journal": {
+          "count": 8895,
+          "mean": 17.893975713964,
+          "rank": 3124,
+          "pct": 64,
+          "higher_than": 5759
+        },
+        "similar_age_3m": {
+          "count": 111455,
+          "mean": 12.256413587669,
+          "rank": 26398,
+          "pct": 76,
+          "higher_than": 84973
+        },
+        "similar_age_journal_3m": {
+          "count": 69,
+          "mean": 10.837852941176,
+          "rank": 23,
+          "pct": 66,
+          "higher_than": 46
+        }
+      },
+      "authors": [
+        "Evangelia Simou",
+        "John Britton",
+        "Jo Leonardi-Bee"
+      ],
+      "type": "article",
+      "handles": [],
+      "altmetric_id": 46853266,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_fbwalls_count": 1,
+      "cited_by_posts_count": 17,
+      "cited_by_tweeters_count": 15,
+      "cited_by_accounts_count": 16,
+      "last_updated": 1535191278,
+      "score": 6.95,
+      "history": {
+        "1y": 6.95,
+        "6m": 6.95,
+        "3m": 6.95,
+        "1m": 6.95,
+        "1w": 6.95,
+        "6d": 6.95,
+        "5d": 6.95,
+        "4d": 6.95,
+        "3d": 6.95,
+        "2d": 4.35,
+        "1d": 1.1,
+        "at": 6.95
+      },
+      "url": "http://dx.doi.org/10.1136/bmjopen-2018-022344",
+      "added_on": 1535006195,
+      "published_on": 1534896000,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=7&types=tttttttf",
+        "medium": "https://badges.altmetric.com/?size=100&score=7&types=tttttttf",
+        "large": "https://badges.altmetric.com/?size=180&score=7&types=tttttttf"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46853266"
+    },
+    {
+      "title": "Adolescent brain development and underage drinking in the United States: identifying risks of alcohol use in college populations.",
+      "doi": "10.3109/10673229.2012.714642",
+      "pmid": "22894728",
+      "tq": [
+        "Adolescent brain development and underage drinking in the US identifying risks of alcohol use in college pop."
+      ],
+      "isbns": [],
+      "altmetric_jid": "4f6fa5253cf058f610003d12",
+      "issns": [
+        "1465-7309",
+        "1067-3229"
+      ],
+      "journal": "Harvard Review of Psychiatry",
+      "cohorts": {
+        "pub": 2
+      },
+      "abstract": "Alcohol use typically is initiated during adolescence, a period that coincides with critical structural and functional maturation of the brain. Brain maturation and associated improvements in decision making continue into the third decade of life, reaching a plateau within the period referred to as emerging adulthood (18-24 years). This particular period covers that of traditionally aged college students, and includes the age (21 years) when alcohol consumption becomes legal in the United States. This review highlights neurobiological evidence indicating the vulnerabilities of the emerging-adult brain to the effects of alcohol. Factors increasing the risks associated with underage alcohol use include the age group's reduced sensitivity to alcohol sedation and increased sensitivity to alcohol-related disruptions in memory. On the individual level, factors increasing those risks are a positive family history of alcoholism, which has a demonstrated effect on brain structure and function, and emerging comorbid psychiatric conditions. These vulnerabilities-of the age group, in general, as well as of particular individuals-likely contribute to excessive and unsupervised drinking in college students. Discouraging alcohol consumption until neurobiological adulthood is reached is important for minimizing alcohol-related disruptions in brain development and decision-making capacity, and for reducing the negative behavioral consequences associated with underage alcohol use.",
+      "abstract_source": "pubmed",
+      "context": {
+        "all": {
+          "count": 11655218,
+          "mean": 7.4288288420415,
+          "rank": 2755690,
+          "pct": 76,
+          "higher_than": 8880801
+        },
+        "journal": {
+          "count": 367,
+          "mean": 13.027010928962,
+          "rank": 142,
+          "pct": 60,
+          "higher_than": 223
+        },
+        "similar_age_3m": {
+          "count": 115026,
+          "mean": 6.2636138404695,
+          "rank": 25209,
+          "pct": 77,
+          "higher_than": 89498
+        },
+        "similar_age_journal_3m": {
+          "count": 3,
+          "mean": 0.875,
+          "rank": 1,
+          "pct": 66,
+          "higher_than": 2
+        }
+      },
+      "authors": [
+        "Marisa M. Silveri"
+      ],
+      "type": "article",
+      "handles": [],
+      "altmetric_id": 893163,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Clinical Sciences",
+          "scheme": "era"
+        },
+        {
+          "name": "Cognitive Science",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_posts_count": 4,
+      "cited_by_qna_count": 1,
+      "cited_by_tweeters_count": 2,
+      "cited_by_accounts_count": 3,
+      "last_updated": 1535211308,
+      "score": 4.5,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 4.5
+      },
+      "url": "http://dx.doi.org/10.3109/10673229.2012.714642",
+      "added_on": 1345255882,
+      "published_on": 1341100800,
+      "subjects": [
+        "psychiatry"
+      ],
+      "scopus_subjects": [
+        "Medicine",
+        "Health Sciences"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 62,
+        "connotea": 0
+      },
+      "readers_count": 62,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=5&types=qqqttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=5&types=qqqttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=5&types=qqqttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=893163"
+    },
+    {
+      "title": "Extent of alcohol prohibition in civil policy in Muslim majority countries: the impact of globalization.",
+      "doi": "10.1111/add.13159",
+      "pmid": "26508526",
+      "tq": [
+        "Interesting overview of alcohol policy in Muslim countries (tho not sure about lessons for other parts of the world) ht…",
+        "Extent of alcohol prohibition in civil policy in Muslim majority countries",
+        "Interesting overview of alcohol policy in Muslim countries (tho not sure about lessons for other parts of the world)"
+      ],
+      "isbns": [],
+      "altmetric_jid": "4f6fa4e93cf058f61000243b",
+      "issns": [
+        "1360-0443",
+        "09652140",
+        "0965-2140"
+      ],
+      "journal": "British Journal of Addiction (to Alcohol & Other Drugs)",
+      "cohorts": {
+        "pub": 7
+      },
+      "abstract": "Many policies have been introduced to reduce alcohol harm in different countries. However, Muslim majority countries (MMCs), where the major religion (Islam) prohibits alcohol consumption, have less well-developed civil alcohol policies. Overall, MMCs have low prevalence of alcohol consumption, although recently most MMCs have been undergoing transition, which has sometimes increased pressure for alcohol availability and impacted on social practices, alcohol policies and broader public health. Globalization, the influence of the global alcohol industry, recent governmental transition or political instability and the presence of immigrants from non-Muslim countries can all affect civil alcohol policy. In this context, consumption overall has increased compared with two decades ago. This paper presents an overview of current civil alcohol policy, with regard to the presence or absence of alcohol prohibition, and provides an insight into the legal availability of alcohol in MMCs and the challenges facing policymakers.\nEnglish, Arabic and Persian language sources were examined, using PubMed, government websites for each country and the World Health Organization (WHO). Some of the challenges MMCs may face in developing alcohol policies are explored, including the need to interact with the global economy and the potential influence of the alcohol industry.\nMuslim majority countries have adopted a range of civil alcohol policies in recent decades. There is a pressing need for better data and to support Muslim majority countries in alcohol policy development. Lessons from Muslim majority countries can help to inform other parts of the world.",
+      "context": {
+        "all": {
+          "count": 11653957,
+          "mean": 7.4279711816189,
+          "rank": 1621628,
+          "pct": 86,
+          "higher_than": 10028831
+        },
+        "journal": {
+          "count": 4021,
+          "mean": 16.946970149254,
+          "rank": 1288,
+          "pct": 67,
+          "higher_than": 2731
+        },
+        "similar_age_3m": {
+          "count": 249587,
+          "mean": 10.082850408276,
+          "rank": 44441,
+          "pct": 82,
+          "higher_than": 205047
+        },
+        "similar_age_journal_3m": {
+          "count": 70,
+          "mean": 26.036434782609,
+          "rank": 30,
+          "pct": 55,
+          "higher_than": 39
+        }
+      },
+      "authors": [
+        "Al‐Ansari, Basma",
+        "Thow, Anne‐Marie",
+        "Day, Carolyn A.",
+        "Conigrave, Katherine M.",
+        "Al-Ansari, Basma",
+        "Thow, Anne-Marie",
+        "Day, Carolyn A",
+        "Conigrave, Katherine M",
+        "Basma Al-Ansari",
+        "Anne-Marie Thow",
+        "Carolyn A. Day",
+        "Katherine M. Conigrave",
+        "Basma Al‐Ansari",
+        "Anne‐Marie Thow"
+      ],
+      "type": "article",
+      "handles": [],
+      "altmetric_id": 4682853,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Medical And Health Sciences",
+          "scheme": "era"
+        },
+        {
+          "name": "Psychology And Cognitive Sciences",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_posts_count": 8,
+      "cited_by_policies_count": 1,
+      "cited_by_tweeters_count": 7,
+      "cited_by_accounts_count": 8,
+      "last_updated": 1535165569,
+      "score": 7.85,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 7.85
+      },
+      "url": "http://dx.doi.org/10.1111/add.13159",
+      "added_on": 1446020921,
+      "published_on": 1445990400,
+      "subjects": [
+        "substancerelateddisorders"
+      ],
+      "scopus_subjects": [
+        "Medicine",
+        "Health Sciences"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 17,
+        "connotea": 0
+      },
+      "readers_count": 17,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=8&types=tttttttd",
+        "medium": "https://badges.altmetric.com/?size=100&score=8&types=tttttttd",
+        "large": "https://badges.altmetric.com/?size=180&score=8&types=tttttttd"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=4682853"
+    },
+    {
+      "title": "A practice change intervention to improve antenatal care addressing alcohol consumption by women during pregnancy: research protocol for a randomised stepped-wedge cluster trial",
+      "doi": "10.1186/s13012-018-0806-x",
+      "pmid": "30126437",
+      "tq": [
+        "A practice change intervention to improve #antenatal care addressing #alcohol consumption by women during #pregnancy: research protocol for a randomised stepped-wedge cluster trial @ImplementSci @LukeWolfenden #impsci",
+        "Practice change intervention to improve antenatal care addressing alcohol consumption by women during pregnancy",
+        "Practice change intervention to improve antenatal care addressing alcohol consumption by women during pregnancy #impsci"
+      ],
+      "isbns": [],
+      "altmetric_jid": "4f6fa4d03cf058f610000834",
+      "issns": [
+        "1748-5908"
+      ],
+      "journal": "Implementation Science",
+      "cohorts": {
+        "com": 2,
+        "doc": 1,
+        "sci": 1
+      },
+      "abstract": "Despite clinical guideline recommendations, implementation of antenatal care addressing alcohol consumption by pregnant women is limited. Implementation strategies addressing barriers to such care may be effective in increasing care provision. The aim of this study is to examine the effectiveness, cost and cost-effectiveness of a multi-strategy practice change intervention in increasing antenatal care addressing the consumption of alcohol by pregnant women.\nThe study will be a randomised, stepped-wedge controlled trial conducted in three sectors in a health district in New South Wales, Australia. Stepped implementation of a practice change intervention will be delivered to sectors in a random order to support the introduction of a model of care for addressing alcohol consumption by pregnant women. A staged process was undertaken to develop the implementation strategies, which comprise of: leadership support, local clinical practice guidelines, electronic prompts and reminders, opinion leaders, academic detailing (audit and feedback), educational meetings and educational materials, and performance monitoring. Repeated cross-sectional outcome data will be gathered weekly across all sectors for the study duration. The primary outcome measures are the proportion of antenatal appointments at 'booking in', 27-28 weeks gestation and 35-36 weeks gestation for which women report (1) being assessed for alcohol consumption, (2) being provided with brief advice related to alcohol consumption during pregnancy, (3) receiving relevant care for addressing alcohol consumption during pregnancy, and (4) being assessed for alcohol consumption and receiving relevant care. Data on resources expended during intervention development and implementation will be collected. The proportion of women who report consuming alcohol since knowing they were pregnant will be measured as a secondary outcome.\nThis will be the first randomised controlled trial to evaluate the effectiveness, cost and cost-effectiveness of implementation strategies in improving antenatal care that addresses alcohol consumption by pregnant women. If positive changes in clinical practice are found, this evidence will support health service adoption of implementation strategies to support improved antenatal care for this recognised risk to the health and wellbeing of the mother and child.\nAustralian and New Zealand Clinical Trials Registry, No. ACTRN12617000882325 (date registered: 16/06/2017).",
+      "context": {
+        "all": {
+          "count": 11649816,
+          "mean": 7.4259324241503,
+          "rank": 6965959,
+          "pct": 38,
+          "higher_than": 4427952
+        },
+        "journal": {
+          "count": 1239,
+          "mean": 12.459584814216,
+          "rank": 1059,
+          "pct": 11,
+          "higher_than": 147
+        },
+        "similar_age_3m": {
+          "count": 112416,
+          "mean": 12.176365805275,
+          "rank": 57178,
+          "pct": 45,
+          "higher_than": 50943
+        },
+        "similar_age_journal_3m": {
+          "count": 24,
+          "mean": 25.9,
+          "rank": 20,
+          "pct": 12,
+          "higher_than": 3
+        }
+      },
+      "authors": [
+        "Melanie Kingsland",
+        "Emma Doherty",
+        "Amy E. Anderson",
+        "Kristy Crooks",
+        "Belinda Tully",
+        "Danika Tremain",
+        "Tracey W. Tsang",
+        "John Attia",
+        "Luke Wolfenden",
+        "Adrian J. Dunlop",
+        "Nicole Bennett",
+        "Mandy Hunter",
+        "Sarah Ward",
+        "Penny Reeves",
+        "Ian Symonds",
+        "Chris Rissel",
+        "Carol Azzopardi",
+        "Andrew Searles",
+        "Karen Gillham",
+        "Elizabeth J. Elliott",
+        "John Wiggers"
+      ],
+      "type": "article",
+      "handles": [],
+      "altmetric_id": 46753061,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Medical And Health Sciences",
+          "scheme": "era"
+        },
+        {
+          "name": "Information And Computing Sciences",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_posts_count": 7,
+      "cited_by_tweeters_count": 4,
+      "cited_by_accounts_count": 4,
+      "last_updated": 1535107743,
+      "score": 1.25,
+      "history": {
+        "1y": 1.25,
+        "6m": 1.25,
+        "3m": 1.25,
+        "1m": 1.25,
+        "1w": 1.25,
+        "6d": 1.25,
+        "5d": 1.25,
+        "4d": 1.25,
+        "3d": 1.25,
+        "2d": 1.25,
+        "1d": 1,
+        "at": 1.25
+      },
+      "url": "http://dx.doi.org/10.1186/s13012-018-0806-x",
+      "added_on": 1534799918,
+      "published_on": 1534723200,
+      "subjects": [
+        "healthservicesresearch"
+      ],
+      "scopus_subjects": [
+        "Medicine",
+        "Health Sciences"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=2&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=2&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=2&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46753061"
+    },
+    {
+      "title": "Nalmefene: a new approach to the treatment of alcohol dependence.",
+      "doi": "10.2147/sar.s45666",
+      "pmid": "25187751",
+      "altmetric_jid": "4f6fa90f3cf058f61000cc23",
+      "issns": [
+        "1179-8467",
+        ""
+      ],
+      "journal": "Substance abuse and rehabilitation",
+      "cohorts": {
+        "pub": 2
+      },
+      "abstract": "Reduction of alcohol consumption is not yet a widely accepted treatment objective for alcohol-dependent patients, as abstinence is often considered to be the only possible objective in this situation. However, various studies have demonstrated the value of proposing these two options to such patients. Firstly, reduction of alcohol consumption very significantly reduces the risk of alcohol-related damage, and also modifies the patient's and the doctor's perception of the disease, resulting in improved access to care and better patient adherence with the proposed treatment objective and consequently better clinical results. Recent studies have shown that some medicinal products can help patients reduce their alcohol consumption. One such product, nalmefene, has been granted European marketing authorization and is now being released onto the market in various countries. The ESENSE 1 and 2 studies in alcohol-dependent patients showed that, in combination with BRENDA, a psychosocial intervention focusing on reinforcement of motivation and treatment adherence, nalmefene significantly reduced the number of heavy drinking days and mean daily total alcohol consumption versus placebo. This reduction was more marked in the marketing authorization target population, ie, patients with a high or very high drinking risk level according to World Health Organization criteria. Another original feature of this molecule is that it can be used as needed if the patient perceives a risk of drinking, which is a more flexible approach and more likely to ensure the patient's active involvement in the treatment of his/her disease. This molecule opens up interesting and original therapeutic prospects in the treatment of alcohol dependence.",
+      "abstract_source": "pubmed",
+      "context": {
+        "all": {
+          "count": 11651311,
+          "mean": 7.4264538193433,
+          "rank": 696460,
+          "pct": 93,
+          "higher_than": 10948526
+        },
+        "journal": {
+          "count": 85,
+          "mean": 18.032976190476,
+          "rank": 13,
+          "pct": 84,
+          "higher_than": 72
+        },
+        "similar_age_3m": {
+          "count": 198099,
+          "mean": 8.1096313440825,
+          "rank": 15271,
+          "pct": 92,
+          "higher_than": 182688
+        },
+        "similar_age_journal_3m": {
+          "count": 3,
+          "mean": 3.425,
+          "rank": 1,
+          "pct": 66,
+          "higher_than": 2
+        }
+      },
+      "authors": [
+        "François Paille",
+        "Hervé Martini"
+      ],
+      "type": "article",
+      "altmetric_id": 2660297,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Pharmacology And Pharmaceutical Sciences",
+          "scheme": "era"
+        },
+        {
+          "name": "Clinical Sciences",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_msm_count": 1,
+      "cited_by_posts_count": 4,
+      "cited_by_tweeters_count": 2,
+      "cited_by_wikipedia_count": 1,
+      "cited_by_accounts_count": 4,
+      "last_updated": 1535119436,
+      "score": 17,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 17
+      },
+      "url": "http://dx.doi.org/10.2147/sar.s45666",
+      "added_on": 1409962149,
+      "published_on": 1407452400,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 26,
+        "connotea": 0
+      },
+      "readers_count": 26,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=17&types=mmttttww",
+        "medium": "https://badges.altmetric.com/?size=100&score=17&types=mmttttww",
+        "large": "https://badges.altmetric.com/?size=180&score=17&types=mmttttww"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=2660297"
+    },
+    {
+      "title": "Alcohol consumption as a risk factor for tuberculosis: meta-analyses and burden of disease",
+      "doi": "10.1183/13993003.00216-2017",
+      "pmid": "28705945",
+      "pmc": "PMC5540679",
+      "tq": [
+        "Alcohol use, alcohol dosage and alcohol-related problems are associated with an increased risk of tuberculosis",
+        "Excessive consumption of Alcohol increases the risks of Tuberculosis",
+        "RT globalgapa: RT tb_pai: Hi GlobalFund, given what we know about alcohol TB, please explain the rationale for partnering with an alcohol company!",
+        "RT IOGTInt: RT tb_pai: Hi GlobalFund, given what we know about alcohol TB, please explain the rationale for partnering with an alcohol company!",
+        "RT IOGTInt: RT paimadhu: Alcohol use, alcohol dosage and alcohol-related problems are associated with an increased risk of tuberculosis via ERSTalk ERSpublications"
+      ],
+      "isbns": [],
+      "altmetric_jid": "4f6fa6173cf058f610007384",
+      "issns": [
+        "1399-3003",
+        "0903-1936"
+      ],
+      "journal": "European Respiratory Journal",
+      "cohorts": {
+        "doc": 7,
+        "sci": 5,
+        "pub": 48,
+        "com": 3
+      },
+      "abstract": "Meta-analyses of alcohol use, alcohol dosage and alcohol-related problems as risk factors for tuberculosis incidence were undertaken. The global alcohol-attributable tuberculosis burden of disease was also re-estimated.Systematic searches were conducted, reference lists were reviewed and expert consultations were held to identify studies. Cohort and case-control studies were included if there were no temporal violations of exposure and outcome. Risk relations (RRs) were pooled by using categorical and dose-response meta-analyses. The alcohol-attributable tuberculosis burden of disease was estimated by using alcohol-attributable fractions.36 of 1108 studies were included. RRs for alcohol use and alcohol-related problems were 1.35 (95% CI 1.09-1.68; I(2): 83%) and 3.33 (95% CI 2.14-5.19; 87%), respectively. Concerning alcohol dosage, tuberculosis risk rose as ethanol intake increased, with evidence of a threshold effect. Alcohol consumption caused 22.02 incident cases (95% CI 19.70-40.77) and 2.35 deaths (95% CI 2.05-4.79) per 100 000 people from tuberculosis in 2014. Alcohol-attributable tuberculosis incidence increased between 2000 and 2014 in most high tuberculosis burden countries, whereas mortality decreased.Alcohol consumption was associated with an increased risk of tuberculosis in all meta-analyses. It was consequently a major contributor to the tuberculosis burden of disease.",
+      "context": {
+        "all": {
+          "count": 11655218,
+          "mean": 7.4288288420415,
+          "rank": 143033,
+          "pct": 98,
+          "higher_than": 11511753
+        },
+        "journal": {
+          "count": 5200,
+          "mean": 8.214875552991,
+          "rank": 59,
+          "pct": 98,
+          "higher_than": 5141
+        },
+        "similar_age_3m": {
+          "count": 262399,
+          "mean": 13.362941325772,
+          "rank": 7946,
+          "pct": 96,
+          "higher_than": 254453
+        },
+        "similar_age_journal_3m": {
+          "count": 155,
+          "mean": 20.170142857143,
+          "rank": 7,
+          "pct": 95,
+          "higher_than": 148
+        }
+      },
+      "authors": [
+        "Sameer Imtiaz",
+        "Kevin D. Shield",
+        "Michael Roerecke",
+        "Andriy V. Samokhvalov",
+        "Knut Lönnroth",
+        "Jürgen Rehm",
+        "Imtiaz, Sameer",
+        "Shield, Kevin D.",
+        "Roerecke, Michael",
+        "Samokhvalov, Andriy V.",
+        "Lönnroth, Knut",
+        "Rehm, Jürgen"
+      ],
+      "type": "article",
+      "handles": [],
+      "altmetric_id": 21841779,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Medical And Health Sciences",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_posts_count": 86,
+      "cited_by_msm_count": 6,
+      "cited_by_tweeters_count": 63,
+      "cited_by_gplus_count": 1,
+      "cited_by_accounts_count": 70,
+      "last_updated": 1535212373,
+      "score": 86.95,
+      "history": {
+        "1y": 72.9,
+        "6m": 55.7,
+        "3m": 44,
+        "1m": 11,
+        "1w": 2,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 86.95
+      },
+      "url": "http://dx.doi.org/10.1183/13993003.00216-2017",
+      "added_on": 1499944356,
+      "published_on": 1498867200,
+      "subjects": [
+        "pulmonarymedicine"
+      ],
+      "scopus_subjects": [
+        "Medicine",
+        "Health Sciences"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 16,
+        "connotea": 0
+      },
+      "readers_count": 16,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=87&types=mttttttg",
+        "medium": "https://badges.altmetric.com/?size=100&score=87&types=mttttttg",
+        "large": "https://badges.altmetric.com/?size=180&score=87&types=mttttttg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=21841779"
+    },
+    {
+      "title": "Disrupted Ventromedial Prefrontal Function, Alcohol Craving, and Subsequent Relapse RiskDisrupted vmPFC Function and Alcohol Relapse RiskDisrupted vmPFC Function and Alcohol Relapse Risk",
+      "doi": "10.1001/jamapsychiatry.2013.762",
+      "pmid": "23636842",
+      "tq": [
+        "Disrupted Ventromedial Prefrontal Function, Alcohol Craving, and Subsequent Relapse Risk.",
+        "Disrupted vmPFC Function and Alcohol Relapse Risk",
+        "Disrupted vmPFC Function and Alcohol Relapse Risk #SubstanceAbuse #Alcoholism",
+        "Preclinical Study Shows #Heroin #Vaccine Blocks #Relapse #Rebound #xa"
+      ],
+      "uri": "http://archpsyc.jamanetwork.com/article.aspx?doi=10.1001/jamapsychiatry.2013.762",
+      "isbns": [],
+      "altmetric_jid": "53bd372b2a83eef6128b456d",
+      "issns": [
+        "2168-6238",
+        "2168-622X"
+      ],
+      "journal": "JAMA Psychiatry",
+      "cohorts": {
+        "doc": 2,
+        "pub": 3,
+        "com": 1
+      },
+      "abstract": "Alcohol dependence is a chronic relapsing illness; stress, alcohol-related cues, and neutral-relaxing states significantly influence craving and relapse risk. However, neural mechanisms underlying the association between these states and alcohol craving and relapse risk remain unclear.",
+      "abstract_source": "pubmed",
+      "context": {
+        "all": {
+          "count": 11652960,
+          "mean": 7.4274868963199,
+          "rank": 222718,
+          "pct": 98,
+          "higher_than": 11430399
+        },
+        "journal": {
+          "count": 1422,
+          "mean": 84.529926812104,
+          "rank": 461,
+          "pct": 67,
+          "higher_than": 961
+        },
+        "similar_age_3m": {
+          "count": 133186,
+          "mean": 7.2167948342532,
+          "rank": 2622,
+          "pct": 98,
+          "higher_than": 130564
+        },
+        "similar_age_journal_3m": {
+          "count": 25,
+          "mean": 39.887833333333,
+          "rank": 6,
+          "pct": 76,
+          "higher_than": 19
+        }
+      },
+      "authors": [
+        "Dongju Seo",
+        "Cheryl M. Lacadie",
+        "Keri Tuit",
+        "Kwang-Ik Hong",
+        "R. Todd Constable",
+        "Rajita Sinha"
+      ],
+      "type": "article",
+      "handles": [],
+      "altmetric_id": 1434027,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_fbwalls_count": 2,
+      "cited_by_feeds_count": 3,
+      "cited_by_msm_count": 4,
+      "cited_by_posts_count": 17,
+      "cited_by_tweeters_count": 6,
+      "cited_by_accounts_count": 15,
+      "last_updated": 1535142717,
+      "score": 58.226,
+      "history": {
+        "1y": 13.264,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 58.226
+      },
+      "url": "http://dx.doi.org/10.1001/jamapsychiatry.2013.762",
+      "added_on": 1367606484,
+      "published_on": 1372636800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 111,
+        "connotea": 0
+      },
+      "readers_count": 111,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=59&types=mmbbtttf",
+        "medium": "https://badges.altmetric.com/?size=100&score=59&types=mmbbtttf",
+        "large": "https://badges.altmetric.com/?size=180&score=59&types=mmbbtttf"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=1434027"
+    },
+    {
+      "title": "Public awareness of the link between alcohol and cancer in England in 2015: a population-based survey",
+      "doi": "10.1186/s12889-016-3855-6",
+      "pmid": "27899099",
+      "tq": [
+        "ICYMI 2: Public awareness of the alcohol and cancer link in England. New paper in BMC Public Health",
+        "New SARG paper: Public awareness of the link between alcohol and cancer",
+        "New paper: Public awareness of the link between alcohol and cancer",
+        "Very excited about our new paper in BMC PH #cancer #alcohol",
+        "Greater awareness of alcohol and breast cancer relationship in NE England through @BalanceNE mass media campaigns"
+      ],
+      "uri": "http://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-016-3855-6",
+      "altmetric_jid": "4f6fa4d03cf058f6100007d8",
+      "issns": [
+        "1471-2458"
+      ],
+      "journal": "BMC Public Health",
+      "cohorts": {
+        "pub": 41,
+        "doc": 13,
+        "com": 3,
+        "sci": 9
+      },
+      "abstract": "Public knowledge of the association between alcohol and cancer is reported to be low. We aimed to provide up-to-date evidence for England regarding awareness of the link between alcohol and different cancers and to determine whether awareness differs by demographic characteristics, alcohol use, and geographic region.\nA representative sample of 2100 adults completed an online survey in July 2015. Respondents were asked to identify which health outcomes, including specific cancers, may be caused by alcohol consumption. Logistic regressions explored whether demographic, alcohol use, and geographic characteristics predicted correctly identifying alcohol-related cancer risk.\nUnprompted, 12.9% of respondents identified cancer as a potential health outcome of alcohol consumption. This rose to 47% when prompted (compared to 95% for liver disease and 73% for heart disease). Knowledge of the link between alcohol and specific cancers varied between 18% (breast) and 80% (liver). Respondents identified the following cancers as alcohol-related where no such evidence exists: bladder (54%), brain (32%), ovarian (17%). Significant predictors of awareness of the link between alcohol and cancer were being female, more highly educated, and living in North-East England.\nThere is generally low awareness of the relationship between alcohol consumption and cancer, particularly breast cancer. Greater awareness of the relationship between alcohol and breast cancer in North-East England, where a mass media campaign highlighted this relationship, suggests that population awareness can be influenced by social marketing.",
+      "context": {
+        "all": {
+          "count": 11654003,
+          "mean": 7.4283662503106,
+          "rank": 244350,
+          "pct": 97,
+          "higher_than": 11409688
+        },
+        "journal": {
+          "count": 8015,
+          "mean": 10.244523833292,
+          "rank": 215,
+          "pct": 97,
+          "higher_than": 7800
+        },
+        "similar_age_3m": {
+          "count": 325281,
+          "mean": 11.581141637973,
+          "rank": 12644,
+          "pct": 96,
+          "higher_than": 312637
+        },
+        "similar_age_journal_3m": {
+          "count": 199,
+          "mean": 9.1360505050505,
+          "rank": 7,
+          "pct": 96,
+          "higher_than": 192
+        }
+      },
+      "authors": [
+        "Penny Buykx",
+        "Jessica Li",
+        "Lucy Gavens",
+        "Lucie Hooper",
+        "Melanie Lovatt",
+        "Elena Gomes de Matos",
+        "Petra Meier",
+        "John Holmes",
+        "Buykx, Penny",
+        "Li, Jessica",
+        "Gavens, Lucy",
+        "Hooper, Lucie",
+        "Lovatt, Melanie",
+        "Gomes de Matos, Elena",
+        "Meier, Petra",
+        "Holmes, John"
+      ],
+      "type": "article",
+      "handles": [
+        "1893/24617"
+      ],
+      "handle": "1893/24617",
+      "altmetric_id": 14187387,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Biostatistics",
+          "scheme": "springer"
+        },
+        {
+          "name": "Environmental Health",
+          "scheme": "springer"
+        },
+        {
+          "name": "Epidemiology",
+          "scheme": "springer"
+        },
+        {
+          "name": "Medicine & Public Health",
+          "scheme": "springer"
+        },
+        {
+          "name": "Medicine/Public Health, general",
+          "scheme": "springer"
+        },
+        {
+          "name": "Public Health",
+          "scheme": "springer"
+        },
+        {
+          "name": "Vaccine",
+          "scheme": "springer"
+        },
+        {
+          "name": "Public Health And Health Services",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_posts_count": 84,
+      "cited_by_feeds_count": 1,
+      "cited_by_tweeters_count": 66,
+      "cited_by_fbwalls_count": 1,
+      "cited_by_accounts_count": 68,
+      "last_updated": 1535181458,
+      "score": 53.186,
+      "history": {
+        "1y": 10.65,
+        "6m": 10.65,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 53.186
+      },
+      "url": "http://dx.doi.org/10.1186/s12889-016-3855-6",
+      "added_on": 1480514475,
+      "published_on": 1480464000,
+      "subjects": [
+        "publichealth"
+      ],
+      "scopus_subjects": [
+        "Medicine",
+        "Health Sciences"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 27,
+        "connotea": 0
+      },
+      "readers_count": 27,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=54&types=bttttttf",
+        "medium": "https://badges.altmetric.com/?size=100&score=54&types=bttttttf",
+        "large": "https://badges.altmetric.com/?size=180&score=54&types=bttttttf"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=14187387"
+    },
+    {
+      "title": "A qualitative exploration of Thai alcohol policy in regulating availability and access",
+      "doi": "10.1016/j.drugpo.2018.04.012",
+      "pmid": "29730440",
+      "isbns": [],
+      "altmetric_jid": "4f6fa4ed3cf058f610002b41",
+      "issns": [
+        "09553959",
+        "1873-4758",
+        "0955-3959"
+      ],
+      "journal": "International Journal of Drug Policy",
+      "cohorts": {
+        "com": 1
+      },
+      "abstract": "Despite abundant alcohol control regulations and measures in Thailand, prevalence of alcohol consumption has been relatively steady for the past decade and alcohol-related harm remains high. This study aims to explore, through the perspectives of key public health stakeholders, the current performance of regulations controlling alcohol availability and access, and the future directions for the implementation of Thai alcohol policy.\nSemi-structured interviews were conducted with public health stakeholders from three sectors; the government, academia and civil society. Their perceptions about the current alcohol situation, gaps in the current policies, and future directions of alcohol policy were discussed. Audio data were transcribed verbatim, systematically coded and analysed.\nThe three key concerning issues were physical availability, economic availability and commercial access, which referred to outlet density, taxation and pricing, and compliance to stipulated regulations, respectively. First, Thailand failed to control the number of alcohol outlets. The availability problem was exacerbated by the increased numbers of liquor licences issued, without delineating the need for the outlets. Second, alcohol tax rates, albeit occasionally adjusted, are disproportionate to the economic dynamic, and there is yet a minimum pricing. Finally, compliance to age and time restrictions was challenging.\nThe lack of robustness of enforcement and disintegration of government agencies in regulating availability and access hampers effectiveness of alcohol policy. Comprehensive regulations for the control of availability of and access to alcohol are required to strengthen alcohol policy. Consistent monitoring and surveillance of the compliances are recommended to prevent significant effects of the regulations diminish over time.",
+      "context": {
+        "all": {
+          "count": 11653629,
+          "mean": 7.4277153341305,
+          "rank": 9317902,
+          "pct": 11,
+          "higher_than": 1318198
+        },
+        "journal": {
+          "count": 1465,
+          "mean": 12.486281420765,
+          "rank": 1358,
+          "pct": 3,
+          "higher_than": 45
+        },
+        "similar_age_3m": {
+          "count": 249068,
+          "mean": 13.51117350753,
+          "rank": 182494,
+          "pct": 16,
+          "higher_than": 40608
+        },
+        "similar_age_journal_3m": {
+          "count": 64,
+          "mean": 9.3111111111111,
+          "rank": 58,
+          "pct": 7,
+          "higher_than": 5
+        }
+      },
+      "authors": [
+        "Ratchakorn Kaewpramkusol",
+        "Kate Senior",
+        "Richard Chenhall",
+        "Sutham Nanthamongkolchai",
+        "Surasak Chaiyasong"
+      ],
+      "type": "article",
+      "handles": [],
+      "altmetric_id": 42741694,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Medical And Health Sciences",
+          "scheme": "era"
+        },
+        {
+          "name": "Psychology And Cognitive Sciences",
+          "scheme": "era"
+        },
+        {
+          "name": "Studies In Human Society",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_posts_count": 2,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535158171,
+      "score": 0.5,
+      "history": {
+        "1y": 0.5,
+        "6m": 0.5,
+        "3m": 0.5,
+        "1m": 0.5,
+        "1w": 0.5,
+        "6d": 0.5,
+        "5d": 0.5,
+        "4d": 0.5,
+        "3d": 0.5,
+        "2d": 0.5,
+        "1d": 0.5,
+        "at": 0.5
+      },
+      "url": "http://dx.doi.org/10.1016/j.drugpo.2018.04.012",
+      "added_on": 1527434063,
+      "published_on": 1525305600,
+      "subjects": [
+        "substancerelateddisorders",
+        "publichealth"
+      ],
+      "scopus_subjects": [
+        "Medicine",
+        "Health Sciences"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 2,
+        "connotea": 0
+      },
+      "readers_count": 2,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=42741694"
+    },
+    {
+      "title": "The psychological benefits of moderate alcohol consumption: a review of the literature.",
+      "doi": "10.1016/0376-8716(85)90008-0",
+      "pmid": "4053968",
+      "isbns": [],
+      "altmetric_jid": "4f6fa4eb3cf058f610002732",
+      "issns": [
+        "0376-8716",
+        "03768716"
+      ],
+      "journal": "Drug & Alcohol Dependence",
+      "cohorts": {
+        "pub": 1,
+        "sci": 1
+      },
+      "abstract": "A review of the literature on the positive psychological benefits of light and moderate alcohol consumption suggests the following: (1) Alcohol in moderate amounts is effective in reducing stress. This has been found in both physiologic and self-report measures. (2) Low and moderate doses of alcohol have been reported to increase overall affective expression, happiness, euphoria, conviviality and pleasant and carefree feelings. Tension, depression and self-consciousness have been reported to decrease with equal doses. (3) Low alcohol doses have been found to improve certain types of cognitive performance. Included here are problem-solving and short-term memory. (4) Heavy drinkers and abstainers have higher rates of clinical depression than do regular moderate drinkers. (5) Alcohol in low and moderate doses has been effective in the treatment of geropsychiatric problems. As indicated in the text, results from many of the studies reviewed suggest that light or moderate drinking may be beneficial to psychological well-being. Liber (N. Engl. J. Med., 310(13) (1984) 846) has commented that the subject of control of alcohol intake evokes strong emotional responses, which can overshadow a logical assessment of whether or not to include 'healthy' drinking in a dietary plan. It is hoped that this review of data from available research can help provide a basis for making such an assessment.",
+      "context": {
+        "all": {
+          "count": 11653506,
+          "mean": 7.4278402655555,
+          "rank": 304427,
+          "pct": 97,
+          "higher_than": 11348772
+        },
+        "journal": {
+          "count": 3598,
+          "mean": 11.560321934946,
+          "rank": 176,
+          "pct": 95,
+          "higher_than": 3421
+        },
+        "similar_age_3m": {
+          "count": 285861,
+          "mean": 11.518217931854,
+          "rank": 13677,
+          "pct": 95,
+          "higher_than": 272173
+        },
+        "similar_age_journal_3m": {
+          "count": 118,
+          "mean": 14.528871794872,
+          "rank": 8,
+          "pct": 93,
+          "higher_than": 110
+        }
+      },
+      "authors": [
+        "Baum-Baicker, C",
+        "Cynthia Baum-Baicker"
+      ],
+      "type": "article",
+      "handles": [],
+      "altmetric_id": 6265474,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Medical And Health Sciences",
+          "scheme": "era"
+        },
+        {
+          "name": "Psychology And Cognitive Sciences",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_posts_count": 9,
+      "cited_by_msm_count": 4,
+      "cited_by_feeds_count": 1,
+      "cited_by_policies_count": 1,
+      "cited_by_tweeters_count": 2,
+      "cited_by_videos_count": 1,
+      "cited_by_accounts_count": 9,
+      "last_updated": "1535142314",
+      "score": 42.25,
+      "history": {
+        "1y": 7.25,
+        "6m": 0.25,
+        "3m": 0.25,
+        "1m": 0.25,
+        "1w": 0.25,
+        "6d": 0.25,
+        "5d": 0.25,
+        "4d": 0.25,
+        "3d": 0.25,
+        "2d": 0.25,
+        "1d": 0.25,
+        "at": 42.25
+      },
+      "url": "http://dx.doi.org/10.1016/0376-8716(85)90008-0",
+      "added_on": 1458687848,
+      "published_on": 491702400,
+      "subjects": [
+        "substancerelateddisorders"
+      ],
+      "scopus_subjects": [
+        "Health Sciences",
+        "Pharmacology, Toxicology and Pharmaceutics",
+        "Life Sciences",
+        "Medicine"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 15,
+        "connotea": 0
+      },
+      "readers_count": 15,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=43&types=mmmbvttd",
+        "medium": "https://badges.altmetric.com/?size=100&score=43&types=mmmbvttd",
+        "large": "https://badges.altmetric.com/?size=180&score=43&types=mmmbvttd"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=6265474"
+    },
+    {
+      "title": "Generation of silent synapses in dentate gyrus correlates with development of alcohol addiction",
+      "doi": "10.1038/s41386-018-0119-4",
+      "pmid": "29967367",
+      "pmc": "PMC6098144",
+      "tq": [
+        "Incredibly proud of #AnnaBeroun who heroically researched on silent synapses in addiction and moved neuroscience forward. Neuropsychopharmacology @ Nature Publishing Group.",
+        "Paper of the day: an excellent (and heroic) NPP paper of Kasia Radwanska lab on the correlation between the generation of silent synapses in dentate gyrus and 'alcohol addiction' score in an innovative model developed by her lab."
+      ],
+      "isbns": [],
+      "altmetric_jid": "4f6fa50d3cf058f6100031a7",
+      "issns": [
+        "0893-133X",
+        "1740-634X"
+      ],
+      "journal": "Neuropsychopharmacology",
+      "cohorts": {
+        "doc": 1,
+        "sci": 3,
+        "pub": 13
+      },
+      "abstract": "The brain circuits and synaptic processes that underlie alcohol addiction are currently the subject of intensive research. Here we focus on hippocampal circuitry and show that chemogenetic inhibition of dentate gyrus (DG) during presentation of alcohol-associated cues has long-lasting effects on mice behavior. DG inhibition enhances alcohol seeking and drinking, suggesting that DG regulates addiction-related behaviors. To test this hypothesis, we perform whole-cell patch-clamp recordings from the granule cells of DG and look for electrophysiological correlates of alcohol addiction. We observe that presentation of alcohol-associated cue light that induces relapse to alcohol-seeking results in generation of silent synapses, that lack functional AMPA receptors. Furthermore, using human criteria of addiction, we differentiate mice controlling their alcohol consumption from those that undergo transition to addiction to discover that the levels of silent synapses induced by alcohol cues are specifically increased in the addicted mice. As the total level of dendritic spines that harbor synapses is constant at this time point, our data indicate that synapses of perforant path to DG are weakened during cue relapse. Finally we demonstrate that, acamprosate, a drug that limits alcohol drinking and seeking in addicts, prevents generation of silent synapses in DG upon presentation of alcohol-associated cues. Altogether, our data suggest that weakening of DG synapses upon cue relapse contributes to persistent alcohol addiction-related behaviors.",
+      "context": {
+        "all": {
+          "count": 11653881,
+          "mean": 7.4279310794216,
+          "rank": 1226719,
+          "pct": 89,
+          "higher_than": 10418960
+        },
+        "journal": {
+          "count": 1617,
+          "mean": 14.257815594059,
+          "rank": 472,
+          "pct": 70,
+          "higher_than": 1135
+        },
+        "similar_age_3m": {
+          "count": 244963,
+          "mean": 13.508382173561,
+          "rank": 44270,
+          "pct": 81,
+          "higher_than": 200435
+        },
+        "similar_age_journal_3m": {
+          "count": 87,
+          "mean": 10.416534883721,
+          "rank": 27,
+          "pct": 68,
+          "higher_than": 60
+        }
+      },
+      "authors": [
+        "Anna Beroun",
+        "Maria Nalberczak-Skóra",
+        "Zofia Harda",
+        "Małgorzata Piechota",
+        "Magdalena Ziółkowska",
+        "Anna Cały",
+        "Roberto Pagano",
+        "Kasia Radwanska",
+        "A Beroun",
+        "M Nalberczak-Skóra",
+        "Z Harda",
+        "M Piechota",
+        "M Ziółkowska",
+        "A Cały",
+        "R Pagano",
+        "K Radwanska"
+      ],
+      "type": "article",
+      "handles": [],
+      "altmetric_id": 43726097,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Medical And Health Sciences",
+          "scheme": "era"
+        },
+        {
+          "name": "Psychology And Cognitive Sciences",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_posts_count": 17,
+      "cited_by_tweeters_count": 17,
+      "cited_by_accounts_count": 17,
+      "last_updated": 1535163760,
+      "score": 9.75,
+      "history": {
+        "1y": 9.75,
+        "6m": 9.75,
+        "3m": 9.75,
+        "1m": 1.25,
+        "1w": 0.25,
+        "6d": 0.25,
+        "5d": 0.25,
+        "4d": 0.25,
+        "3d": 0.25,
+        "2d": 0.25,
+        "1d": 0.25,
+        "at": 9.75
+      },
+      "url": "http://dx.doi.org/10.1038/s41386-018-0119-4",
+      "added_on": 1529031098,
+      "published_on": 1529020800,
+      "subjects": [
+        "neurology",
+        "psychopharmacology"
+      ],
+      "scopus_subjects": [
+        "Medicine",
+        "Health Sciences"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 5,
+        "connotea": 0
+      },
+      "readers_count": 5,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=10&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=10&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=10&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=43726097"
+    },
+    {
+      "title": "Associations Between Socioeconomic Factors and Alcohol Outcomes.",
+      "pmid": "27159815",
+      "tq": [
+        "@Rml99 @rincondesisifo Aquí tienes info para poder basarte en datos en ese sentido",
+        "People in more prosperous neighbourhoods engage in more frequent and heavier drinking",
+        "Although people with lower SES drink less alcohol,they're more negatively affected by its effects. #FPMU40WINTER"
+      ],
+      "issns": [
+        "2168-3492"
+      ],
+      "journal": "Alcohol research : current reviews",
+      "cohorts": {
+        "pub": 2
+      },
+      "abstract": "Socioeconomic status (SES) is one of the many factors influencing a person's alcohol use and related outcomes. Findings have indicated that people with higher SES may consume similar or greater amounts of alcohol compared with people with lower SES, although the latter group seems to bear a disproportionate burden of negative alcohol-related consequences. These associations are further complicated by a variety of moderating factors, such as race, ethnicity, and gender. Thus, among individuals with lower SES, members of further marginalized communities, such as racial and ethnic minorities and homeless individuals, experience greater alcohol-related consequences. Future studies are needed to more fully explore the underlying mechanisms of the relationship between SES and alcohol outcomes. This knowledge should be applied toward the development of multilevel interventions that address not only individual-level risks but also economic disparities that have precipitated and maintained a disproportionate level of alcohol-related consequences among more marginalized and vulnerable populations.",
+      "authors": [
+        "Collins, Susan E",
+        "Susan E. Collins"
+      ],
+      "type": "article",
+      "altmetric_id": 16139109,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 2,
+      "cited_by_tweeters_count": 2,
+      "cited_by_accounts_count": 2,
+      "last_updated": 1535102468,
+      "score": 1.25,
+      "history": {
+        "1y": 0.25,
+        "6m": 0.25,
+        "3m": 0.25,
+        "1m": 0.25,
+        "1w": 0.25,
+        "6d": 0.25,
+        "5d": 0.25,
+        "4d": 0.25,
+        "3d": 0.25,
+        "2d": 0.25,
+        "1d": 0.25,
+        "at": 1.25
+      },
+      "url": "https://www.ncbi.nlm.nih.gov/m/pubmed/27159815/?i=6&from=socioeconomic%20disparities%20and%20substance%20abuse",
+      "added_on": 1486281263,
+      "published_on": 1459468800,
+      "subjects": [
+        "substancerelateddisorders"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 93,
+        "connotea": 0
+      },
+      "readers_count": 93,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=2&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=2&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=2&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=16139109"
+    },
+    {
+      "title": "Testosterone increases in men after a low dose of alcohol.",
+      "doi": "10.1097/01.alc.0000060526.43976.68",
+      "pmid": "12711931",
+      "tq": [
+        "Mild intake of alcohol increased testosterone levels by 17% 2 hours after ingestion in this study."
+      ],
+      "altmetric_jid": "4f6fa4e83cf058f6100021cc",
+      "issns": [
+        "0145-6008"
+      ],
+      "journal": "Alcoholism: Clinical & Experimental Research",
+      "cohorts": {
+        "doc": 2,
+        "pub": 3,
+        "sci": 1
+      },
+      "abstract": "Heavy acute alcohol drinking decreases blood testosterone in men due to an effect on the testicular level. An acute increase in blood testosterone levels after a low alcohol dose has, however, recently been reported in women. The objective of this investigation was to study the effect of a low alcohol dose on testosterone in men and further elucidate the mechanism behind the effect by using 4-methylpyrazole, an inhibitor of alcohol metabolism.",
+      "abstract_source": "pubmed",
+      "context": {
+        "all": {
+          "count": 11653506,
+          "mean": 7.4278402655555,
+          "rank": 654835,
+          "pct": 94,
+          "higher_than": 10998052
+        },
+        "journal": {
+          "count": 2440,
+          "mean": 10.970507585076,
+          "rank": 242,
+          "pct": 90,
+          "higher_than": 2198
+        },
+        "similar_age_3m": {
+          "count": 136973,
+          "mean": 7.2467802178549,
+          "rank": 9039,
+          "pct": 93,
+          "higher_than": 127921
+        },
+        "similar_age_journal_3m": {
+          "count": 16,
+          "mean": 18.8552,
+          "rank": 4,
+          "pct": 75,
+          "higher_than": 12
+        }
+      },
+      "authors": [
+        "Sarkola, Taisto",
+        "Eriksson, C J Peter",
+        "Eriksson, C. J. Peter"
+      ],
+      "type": "article",
+      "altmetric_id": 1554153,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Clinical Sciences",
+          "scheme": "era"
+        },
+        {
+          "name": "Psychology",
+          "scheme": "era"
+        },
+        {
+          "name": "Neurosciences",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_msm_count": 1,
+      "cited_by_posts_count": 12,
+      "cited_by_tweeters_count": 6,
+      "cited_by_videos_count": 5,
+      "cited_by_accounts_count": 12,
+      "last_updated": "1535142314",
+      "score": 18.15,
+      "history": {
+        "1y": 0.75,
+        "6m": 0.75,
+        "3m": 0.75,
+        "1m": 0.25,
+        "1w": 0.25,
+        "6d": 0.25,
+        "5d": 0.25,
+        "4d": 0.25,
+        "3d": 0.25,
+        "2d": 0.25,
+        "1d": 0.25,
+        "at": 18.15
+      },
+      "url": "http://dx.doi.org/10.1097/01.alc.0000060526.43976.68",
+      "added_on": 1371136824,
+      "published_on": 1049155200,
+      "subjects": [
+        "substancerelateddisorders"
+      ],
+      "scopus_subjects": [
+        "Health Sciences",
+        "Pharmacology, Toxicology and Pharmaceutics",
+        "Life Sciences",
+        "Medicine"
+      ],
+      "readers": {
+        "citeulike": 2,
+        "mendeley": 22,
+        "connotea": 0
+      },
+      "readers_count": 24,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=19&types=mvvvtttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=19&types=mvvvtttt",
+        "large": "https://badges.altmetric.com/?size=180&score=19&types=mvvvtttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=1554153"
+    }
+  ]
+}

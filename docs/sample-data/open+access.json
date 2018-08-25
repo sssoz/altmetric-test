@@ -1,0 +1,1451 @@
+{
+  "query": {
+    "total": 46,
+    "page": 1,
+    "num_results": 25
+  },
+  "results": [
+    {
+      "title": "The Usage of Polygraph Method in Bulgaria",
+      "doi": "10.4172/2157-7145.1000334",
+      "altmetric_jid": "56dd9b702a83ee7d288b45d6",
+      "issns": [
+        "2157-7145"
+      ],
+      "journal": "Forensic Sciences Research",
+      "cohorts": {
+        "com": 1,
+        "pub": 2
+      },
+      "context": {
+        "all": {
+          "count": 11651834,
+          "mean": 7.4266543059666,
+          "rank": 6414365,
+          "pct": 44,
+          "higher_than": 5128370
+        },
+        "journal": {
+          "count": 125,
+          "mean": 1.5596774193548,
+          "rank": 30,
+          "pct": 73,
+          "higher_than": 92
+        },
+        "similar_age_3m": {
+          "count": 107332,
+          "mean": 12.093423186218,
+          "rank": 46409,
+          "pct": 55,
+          "higher_than": 59246
+        },
+        "similar_age_journal_3m": {
+          "count": 1,
+          "mean": 0,
+          "rank": 1,
+          "pct": 1,
+          "higher_than": 0
+        }
+      },
+      "authors": [
+        "Todor Todorov"
+      ],
+      "type": "article",
+      "altmetric_id": 46892412,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 3,
+      "cited_by_tweeters_count": 3,
+      "cited_by_accounts_count": 3,
+      "last_updated": 1535126505,
+      "score": 1.85,
+      "history": {
+        "1y": 1.85,
+        "6m": 1.85,
+        "3m": 1.85,
+        "1m": 1.85,
+        "1w": 1.85,
+        "6d": 1.85,
+        "5d": 1.85,
+        "4d": 1.85,
+        "3d": 1.85,
+        "2d": 1.85,
+        "1d": 1.85,
+        "at": 1.85
+      },
+      "url": "http://dx.doi.org/10.4172/2157-7145.1000334",
+      "added_on": 1535085080,
+      "published_on": 1451606400,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=2&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=2&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=2&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46892412"
+    },
+    {
+      "title": "ArXiv and the REF open access policy",
+      "arxiv_id": "1804.06648",
+      "tq": [
+        "ArXiv and the REF open access policy @dannykay68 @katieshamash @arxiv #REF2021",
+        "important: #preprints are the future #oa",
+        "ArXiv and the UK REF #openaccess policy.",
+        "This is an excellent and timely paper for anyone involved in UK open access policy implementation.",
+        "Is there a view yet as to whether submissions to ArXiv will meet REF requirements? CC: @yvonnenobis"
+      ],
+      "altmetric_jid": "arxiv",
+      "journal": "arXiv",
+      "cohorts": {
+        "pub": 27,
+        "sci": 10,
+        "com": 12,
+        "doc": 1
+      },
+      "context": {
+        "all": {
+          "count": 11654789,
+          "mean": 7.428407875446,
+          "rank": 256764,
+          "pct": 97,
+          "higher_than": 11398156
+        },
+        "journal": {
+          "count": 584673,
+          "mean": 2.9715053602704,
+          "rank": 3731,
+          "pct": 99,
+          "higher_than": 580937
+        },
+        "similar_age_3m": {
+          "count": 255888,
+          "mean": 13.958730971092,
+          "rank": 13252,
+          "pct": 94,
+          "higher_than": 242636
+        },
+        "similar_age_journal_3m": {
+          "count": 33048,
+          "mean": 3.8270649075559,
+          "rank": 332,
+          "pct": 98,
+          "higher_than": 32716
+        }
+      },
+      "authors": [
+        "Katie Shamash",
+        "Dr Danny Kingsley"
+      ],
+      "type": "article",
+      "altmetric_id": 38108094,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 64,
+      "cited_by_feeds_count": 3,
+      "cited_by_tweeters_count": 50,
+      "cited_by_gplus_count": 2,
+      "cited_by_accounts_count": 55,
+      "last_updated": 1535197361,
+      "score": 50.638,
+      "history": {
+        "1y": 50.638,
+        "6m": 50.638,
+        "3m": 20.888,
+        "1m": 14.058,
+        "1w": 4.95,
+        "6d": 4.95,
+        "5d": 4.95,
+        "4d": 4.95,
+        "3d": 4.95,
+        "2d": 4.95,
+        "1d": 1.1,
+        "at": 50.638
+      },
+      "url": "https://arxiv.org/abs/1804.06648",
+      "added_on": 1524099684,
+      "published_on": 1524048679,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 6,
+        "connotea": 0
+      },
+      "readers_count": 6,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=51&types=bttttttg",
+        "medium": "https://badges.altmetric.com/?size=100&score=51&types=bttttttg",
+        "large": "https://badges.altmetric.com/?size=180&score=51&types=bttttttg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=38108094"
+    },
+    {
+      "title": "Expression Alteration of Disrupted in Schizophrenia 1 (DISC1) Gene, a Potential Peripheral Marker for Schizophrenia and Paranoid Personality Disorder",
+      "doi": "10.4172/2161-1041.1000188",
+      "issns": [
+        "2161-1041"
+      ],
+      "journal": "Hereditary Genetics: Current Research",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "Jalal Rostampour",
+        "Arvin Haghighatfard",
+        "Masoume Ghasemzadeh Qazvini",
+        "Talie Karimi",
+        "Elham Rastegarimoghaddam",
+        "Atieh Alizadenik",
+        "Zahrasadat Hosseini"
+      ],
+      "type": "article",
+      "altmetric_id": 47067856,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535191880,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2161-1041.1000188",
+      "added_on": 1535191892,
+      "published_on": 1483228800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47067856"
+    },
+    {
+      "title": "The Determinants of Currency Hedging in Indian IT Firms",
+      "doi": "10.4172/2167-0234.1000125",
+      "issns": [
+        "2167-0234"
+      ],
+      "journal": "Journal of Business & Financial Affairs",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "Raghavendra RH",
+        "Velmurugan PS"
+      ],
+      "type": "article",
+      "altmetric_id": 47067780,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 2,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535192856,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2167-0234.1000125",
+      "added_on": 1535191717,
+      "published_on": 1388534400,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47067780"
+    },
+    {
+      "title": "A Randomized Open Comparative Clinical Trial on the Effectiveness, Safety and Tolerability of a Homeopathic Medicinal Product for the Treatment of Painful Teething in Children",
+      "doi": "10.4172/2327-5162.1000178",
+      "issns": [
+        "2327-5162"
+      ],
+      "journal": "Alternative & Integrative Medicine",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "Miek C Jong",
+        "Cynthia Verwer",
+        "Lucy van de Vijver",
+        "Petra Klement",
+        "Julia Burkart",
+        "Erik Baars"
+      ],
+      "type": "article",
+      "altmetric_id": 47067742,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535191597,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2327-5162.1000178",
+      "added_on": 1535191611,
+      "published_on": 1420070400,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47067742"
+    },
+    {
+      "title": "Topiramate for the Treatment of Methamphetamine Addiction: A Meta-Analysis",
+      "doi": "10.4172/2329-6488.1000314",
+      "issns": [
+        "2329-6488"
+      ],
+      "journal": "Journal of Alcoholism & Drug Dependence",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "Vida Margarette de Vera Andal",
+        "Nikolai Gil Diwa Reyes",
+        "Carissa Paz Dioquino Maligaso"
+      ],
+      "type": "article",
+      "altmetric_id": 47066957,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535189863,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2329-6488.1000314",
+      "added_on": 1535189874,
+      "published_on": 1514764800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47066957"
+    },
+    {
+      "title": "Dialogue for Quality Improvement and Ã¢Â€ÂœJust CultureÃ¢Â€Â",
+      "doi": "10.4172/2573-0347.1000127",
+      "issns": [
+        "ISSN 2573-0347"
+      ],
+      "journal": "Advanced Practices in Nursing",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "Barton-Gooden A",
+        "Leger RR"
+      ],
+      "type": "article",
+      "altmetric_id": 47066500,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535188725,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2573-0347.1000127",
+      "added_on": 1535188769,
+      "published_on": 1480377600,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47066500"
+    },
+    {
+      "title": "Spiritual Intelligence and Mindfulness as Moderators of Relationship between Psychological Well-Being and Psychosocial Adjustment of Pregnant Women",
+      "doi": "10.4172/2167-0420.1000435",
+      "issns": [
+        "2167-0420"
+      ],
+      "journal": "Journal of Women's Health Care",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "Ajele Kenni Wojujutari",
+        "Oladejo Teslim Alabi",
+        "Aborisade Temitope Emmanuel",
+        "Olasupo Matthew Olugbenga"
+      ],
+      "type": "article",
+      "altmetric_id": 47066457,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535188642,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2167-0420.1000435",
+      "added_on": 1535188653,
+      "published_on": 1514764800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47066457"
+    },
+    {
+      "title": "Myelodysplastic Syndrome in Patients with Acute Radiation Syndrome Following the Chornobyl Nuclear Power Plant Accident",
+      "doi": "10.4172/2329-6917.1000206",
+      "issns": [
+        "2329-6917"
+      ],
+      "journal": "Journal of Leukemia",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "Tetiana F Liubarets",
+        "Olex",
+        "er M Kovalenko",
+        "Volodymyr G Bebeshko",
+        "David O Belyi",
+        "Maria A Pilinska",
+        "Irina M Ilyenko",
+        "Galina V Dubrovina",
+        "Dimitry A Bazyka"
+      ],
+      "type": "article",
+      "altmetric_id": 47066150,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535188291,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2329-6917.1000206",
+      "added_on": 1535187946,
+      "published_on": 1451606400,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47066150"
+    },
+    {
+      "title": "Membrane Stabilizing Effects of Calcium in Salt-induced Hypertensive Pregnancy",
+      "doi": "10.4172/2161-0940.1000294",
+      "issns": [
+        "2161-0940"
+      ],
+      "journal": "Anatomy & Physiology: Current Research",
+      "cohorts": {
+        "com": 1
+      },
+      "authors": [
+        "Aigbiremolen AA",
+        "Odigie OM",
+        "Iribhogbe IO",
+        "Aloamaka CP"
+      ],
+      "type": "article",
+      "altmetric_id": 47056238,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535180414,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2161-0940.1000294",
+      "added_on": 1535180425,
+      "published_on": 1514764800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47056238"
+    },
+    {
+      "title": "Philosophy of Ecological Economics",
+      "doi": "10.4172/2162-6359.1000366",
+      "issns": [
+        "2162-6359"
+      ],
+      "journal": "International Journal of Economics & Management Sciences",
+      "cohorts": {
+        "com": 1
+      },
+      "authors": [
+        "Manfred Max-Neef"
+      ],
+      "type": "article",
+      "altmetric_id": 47050892,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535177042,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2162-6359.1000366",
+      "added_on": 1535177055,
+      "published_on": 1451606400,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47050892"
+    },
+    {
+      "title": "Psychiatric and Mental Health Core Capabilities and Learning Outcomes Developed in Nurse Practitioner Programmes in Australia and the United States of America",
+      "doi": "10.4172/2472-095x.1000102",
+      "journal": "Clinical Neuropsychology: Open Access",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "Andrew Cashin",
+        "Roger Green",
+        "Thomas Buckley"
+      ],
+      "type": "article",
+      "altmetric_id": 47050228,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535176595,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2472-095x.1000102",
+      "added_on": 1535176637,
+      "published_on": 1447977600,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47050228"
+    },
+    {
+      "title": "Marijuana Toxicity: Heavy Metal Exposure Through State-Sponsored Access to Ã¢ÂÂla Fee VerteÃ¢ÂÂ",
+      "doi": "10.4172/2167-7689.1000202",
+      "issns": [
+        "2167-7689"
+      ],
+      "journal": "Pharmaceutical Regulatory Affairs: Open Access",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "David V Gauvin",
+        "Zachary J Zimmermann",
+        "Joshua Yoder",
+        "Rachel Tapp"
+      ],
+      "type": "article",
+      "altmetric_id": 47047666,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535174986,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2167-7689.1000202",
+      "added_on": 1535175028,
+      "published_on": 1522540800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47047666"
+    },
+    {
+      "title": "Regulatory Challenges of Brain Delivered Therapies: A Combination Product Perspective",
+      "doi": "10.4172/2167-7689.1000201",
+      "issns": [
+        "2167-7689"
+      ],
+      "journal": "Pharmaceutical Regulatory Affairs: Open Access",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "Catherine Gauthier-Campbell",
+        "Thomas Lester",
+        "Victoria Sluzky"
+      ],
+      "type": "article",
+      "altmetric_id": 47046116,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535174021,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2167-7689.1000201",
+      "added_on": 1535174033,
+      "published_on": 1514764800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47046116"
+    },
+    {
+      "title": "Strategies and Steps for the Accomplishment of Bioequivalence Regulations in Chile",
+      "doi": "10.4172/2167-7689.1000204",
+      "issns": [
+        "2167-7689"
+      ],
+      "journal": "Pharmaceutical Regulatory Affairs: Open Access",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "Valenzuela MT",
+        "Aceituno A"
+      ],
+      "type": "article",
+      "altmetric_id": 47045121,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535173378,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2167-7689.1000204",
+      "added_on": 1535173390,
+      "published_on": 1514764800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47045121"
+    },
+    {
+      "title": "GLPs, Human Error, and Deviations: When Are Quality and Integrity Compromised?",
+      "doi": "10.4172/2167-7689.1000205",
+      "issns": [
+        "2167-7689"
+      ],
+      "journal": "Pharmaceutical Regulatory Affairs: Open Access",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "David V. Gauvin",
+        "Scott E. Boley",
+        "Noel D. Horton",
+        "Theodore J. Baird"
+      ],
+      "type": "article",
+      "altmetric_id": 47044887,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535173266,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2167-7689.1000205",
+      "added_on": 1535173278,
+      "published_on": 1514764800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47044887"
+    },
+    {
+      "title": "Clostridium difficile and Probiotics",
+      "doi": "10.4172/2329-8901.1000196",
+      "issns": [
+        "2329-8901"
+      ],
+      "journal": "Journal of Probiotics & Health",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "Vincent Oko Obinna "
+      ],
+      "type": "article",
+      "altmetric_id": 47042181,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535171630,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2329-8901.1000196",
+      "added_on": 1535171642,
+      "published_on": 1514764800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47042181"
+    },
+    {
+      "title": "Making the Nation: The Myth of Mestizajes",
+      "doi": "10.4172/2332-0915.1000186",
+      "issns": [
+        "2332-0915",
+        "ISSN 2332-0915"
+      ],
+      "journal": "Anthropology ",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "Linnete Manrique"
+      ],
+      "type": "article",
+      "altmetric_id": 47027480,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535161619,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2332-0915.1000186",
+      "added_on": 1535161632,
+      "published_on": 1483228800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47027480"
+    },
+    {
+      "title": "Proteomics and Biological Systems: Application in Oxidative Stress, Nutrition and Prenatal Development",
+      "doi": "10.4172/2329-6577.1000e110",
+      "issns": [
+        "2329-6577"
+      ],
+      "journal": "Biological Systems: Open Access",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "Kaïs H Al-Gubory"
+      ],
+      "type": "article",
+      "altmetric_id": 46944951,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535111608,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2329-6577.1000e110",
+      "added_on": 1535111620,
+      "published_on": 1388534400,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46944951"
+    },
+    {
+      "title": "Anti-doping Awareness among British and Japanese Judo Coaches",
+      "doi": "10.4172/2161-0673.1000191",
+      "issns": [
+        "2161-0673"
+      ],
+      "journal": "Journal of Sports Medicine & Doping Studies",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "Yoko Tanabe",
+        "Colin Mclver",
+        "Joyce Heron",
+        "Satomi Suzuki",
+        "Takao Akama"
+      ],
+      "type": "article",
+      "altmetric_id": 46935141,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535109166,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2161-0673.1000191",
+      "added_on": 1535109179,
+      "published_on": 1483228800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46935141"
+    },
+    {
+      "title": "Decreased Urine Output and Vomiting in a 4 Year Old Boy",
+      "doi": "10.4172/2572-0775.1000137",
+      "journal": "Clinical Pediatrics: Open Access",
+      "cohorts": {
+        "pub": 1
+      },
+      "type": "article",
+      "altmetric_id": 46918908,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535104976,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2572-0775.1000137",
+      "added_on": 1535104988,
+      "published_on": 1535068800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46918908"
+    },
+    {
+      "title": "Assessment of the Prevalence of Anemia and Its Associated Factors among Pregnant Women in Bahir Dar City Administration, North-West Ethiopia",
+      "doi": "10.4172/2376-127x.1000367",
+      "issns": [
+        "2376-127X"
+      ],
+      "journal": "Journal of Pregnancy and Child Health",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "Desalegn Getaneh ",
+        "Abera Bayeh ",
+        "Bezabih Belay ",
+        "Tewabe Tsehaye ",
+        "Zeleke Mekonnen "
+      ],
+      "type": "article",
+      "altmetric_id": 46902310,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535098728,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2376-127x.1000367",
+      "added_on": 1535098740,
+      "published_on": 1514764800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46902310"
+    },
+    {
+      "title": "The Necessity of Human Kidney and Artificial Kidneys for the Human Health",
+      "doi": "10.4172/2472-1220.1000166",
+      "issns": [
+        "2472-1220"
+      ],
+      "journal": "Journal of Kidney",
+      "cohorts": {
+        "com": 1
+      },
+      "authors": [
+        "Pati P",
+        "Rathore SK"
+      ],
+      "type": "article",
+      "altmetric_id": 46893192,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535087452,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2472-1220.1000166",
+      "added_on": 1535087464,
+      "published_on": 1514764800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46893192"
+    },
+    {
+      "title": "Infrared Laser Excitation to Study Transitions in Fullerene (C60) Molecule",
+      "doi": "10.4172/2469-410x.1000189",
+      "issns": [
+        "2469-410X"
+      ],
+      "journal": "Journal of Lasers, Optics & Photonics",
+      "cohorts": {
+        "pub": 1
+      },
+      "authors": [
+        "Subramaniam TY",
+        "Premanand P"
+      ],
+      "type": "article",
+      "altmetric_id": 46892353,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1,
+      "cited_by_tweeters_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535084886,
+      "score": 1,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 1
+      },
+      "url": "http://dx.doi.org/10.4172/2469-410x.1000189",
+      "added_on": 1535084898,
+      "published_on": 1530662400,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=1&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=1&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46892353"
+    },
+    {
+      "title": "Open Access",
+      "tq": [
+        "Celebrate #OpenAccessWeek with Peter Suber's Open Access",
+        "#bla60 - here's the link to the book",
+        "Want to learn more about #openaccess? Peter Suber's book 'Open Access' is a great starting point",
+        "Just read Chapter 1 of Open Access by Peter Suber - excellent.",
+        "I recommend you download this FREE Book: Open Access, By Peter Suber - The MIT Press"
+      ],
+      "uri": "http://books.google.com/books?id=oaUJngEACAAJ&hl=&source=gbs_api",
+      "hlom_id": "013251293-9",
+      "hollis_id": "013251293",
+      "isbns": [
+        "9780262517638",
+        "9780262302524",
+        "9780262300988"
+      ],
+      "issns": [],
+      "cohorts": {
+        "com": 27,
+        "pub": 75,
+        "sci": 6
+      },
+      "authors": [
+        "Peter Suber",
+        "Suber, Peter"
+      ],
+      "authors_or_editors": [
+        "Peter Suber"
+      ],
+      "type": "book",
+      "attribution": "HLOM",
+      "handles": [],
+      "altmetric_id": 4618287,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 237,
+      "cited_by_msm_count": 2,
+      "cited_by_feeds_count": 21,
+      "cited_by_policies_count": 1,
+      "cited_by_tweeters_count": 108,
+      "cited_by_fbwalls_count": 4,
+      "cited_by_gplus_count": 3,
+      "cited_by_syllabi_count": 19,
+      "cited_by_accounts_count": 158,
+      "last_updated": 1535070806,
+      "score": 226.416,
+      "history": {
+        "1y": 38.214,
+        "6m": 23,
+        "3m": 1.5,
+        "1m": 1.5,
+        "1w": 1.5,
+        "6d": 1.5,
+        "5d": 1.5,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 226.416
+      },
+      "url": "http://mitpress.mit.edu/books/open-access",
+      "added_on": 1444741127,
+      "published_on": 1341100800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=227&types=mbyttfdg",
+        "medium": "https://badges.altmetric.com/?size=100&score=227&types=mbyttfdg",
+        "large": "https://badges.altmetric.com/?size=180&score=227&types=mbyttfdg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=4618287"
+    }
+  ]
+}

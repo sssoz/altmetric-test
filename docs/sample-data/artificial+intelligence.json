@@ -1,0 +1,2320 @@
+{
+  "query": {
+    "total": 26,
+    "page": 1,
+    "num_results": 25
+  },
+  "results": [
+    {
+      "title": "Lip-reading artificial intelligence could help the deaf—or spies",
+      "doi": "10.1126/science.aau9601",
+      "tq": [
+        "New #MachineLearning program outshines professional lip readers, a promising development for those who are hard of hearing.",
+        "A new #AI program is using #MachineLearning to read lips and pave the way for a mobile translator for the hard of hearing.",
+        "New #MachineLearning program outshines professional lip readers, a promising development for those who are hard of hearing. #ODSC #DataScience",
+        "Lip-reading #AI could help the deaf - or spies v/ @ScienceCareers #neuralnetworks #MEDTECH",
+        "Researchers are reporting a new #AI program that outperformed professional lip readers and the best AI to date"
+      ],
+      "altmetric_jid": "sciencenews",
+      "issns": [
+        "0036-8075",
+        "1095-9203"
+      ],
+      "journal": "Science (AAAS) News",
+      "cohorts": {
+        "pub": 420,
+        "com": 15,
+        "sci": 46,
+        "doc": 5
+      },
+      "context": {
+        "all": {
+          "count": 11655083,
+          "mean": 7.4292539664545,
+          "rank": 20616,
+          "pct": 99,
+          "higher_than": 11634542
+        },
+        "journal": {
+          "count": 12018,
+          "mean": 54.455852875094,
+          "rank": 290,
+          "pct": 97,
+          "higher_than": 11728
+        },
+        "similar_age_3m": {
+          "count": 172659,
+          "mean": 12.519751624599,
+          "rank": 680,
+          "pct": 99,
+          "higher_than": 171979
+        },
+        "similar_age_journal_3m": {
+          "count": 239,
+          "mean": 194.74520168067,
+          "rank": 21,
+          "pct": 91,
+          "higher_than": 218
+        }
+      },
+      "authors": [
+        "Matthew Hutson"
+      ],
+      "type": "news",
+      "altmetric_id": 45829028,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_fbwalls_count": 9,
+      "cited_by_feeds_count": 2,
+      "cited_by_gplus_count": 12,
+      "cited_by_posts_count": 657,
+      "cited_by_tweeters_count": 486,
+      "cited_by_accounts_count": 509,
+      "last_updated": 1535222271,
+      "score": 392.742,
+      "history": {
+        "1y": 392.742,
+        "6m": 392.742,
+        "3m": 392.742,
+        "1m": 392.742,
+        "1w": 48.8,
+        "6d": 47.8,
+        "5d": 46.8,
+        "4d": 38.65,
+        "3d": 31.3,
+        "2d": 23.3,
+        "1d": 21.45,
+        "at": 392.742
+      },
+      "url": "http://dx.doi.org/10.1126/science.aau9601",
+      "added_on": 1533064714,
+      "published_on": 1533064505,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=393&types=btttttfg",
+        "medium": "https://badges.altmetric.com/?size=100&score=393&types=btttttfg",
+        "large": "https://badges.altmetric.com/?size=180&score=393&types=btttttfg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=45829028"
+    },
+    {
+      "title": "Keeping Artificial Intelligence Accountable to Humans",
+      "tq": [
+        "We are creating intelligence in our own image. And that's not a compliment. —",
+        "Accountability begins with human oversight when #ArtificialIntelligence is making sensitive decisions. RAND's",
+        "Occasionally, #ArtificialIntelligence systems can come down with a bad case of food poisoning, says RAND's @OsondeOsoba. We have to be careful what we feed our algorithms.",
+        "#ArtificialIntelligence systems are often only as intelligent — and as fair — as the data used to train them. Algorithms need to be carefully designed to account for historical biases, says RAND's",
+        ".@OsondeOsoba: To realize an #ArtificialIntelligence that can free humans from bias (instead of reinforcing it) will require experts and regulators to think more deeply not only about what #AI can do, but what it *should* do — and then teach it how."
+      ],
+      "uri": "https://www.rand.org/blog/2018/08/keeping-artificial-intelligence-accountable-to-humans.html",
+      "altmetric_jid": "wwwrandorg",
+      "journal": "RAND Corporation",
+      "cohorts": {
+        "pub": 80,
+        "sci": 12,
+        "com": 2
+      },
+      "context": {
+        "all": {
+          "count": 11654965,
+          "mean": 7.4292027355765,
+          "rank": 206715,
+          "pct": 98,
+          "higher_than": 11448207
+        },
+        "journal": {
+          "count": 7590,
+          "mean": 34.766374489392,
+          "rank": 952,
+          "pct": 87,
+          "higher_than": 6638
+        },
+        "similar_age_3m": {
+          "count": 112785,
+          "mean": 12.237516828628,
+          "rank": 4169,
+          "pct": 96,
+          "higher_than": 108614
+        },
+        "similar_age_journal_3m": {
+          "count": 130,
+          "mean": 36.617581395349,
+          "rank": 25,
+          "pct": 80,
+          "higher_than": 105
+        }
+      },
+      "authors": [
+        "Osoba, Osonde A."
+      ],
+      "type": "article",
+      "altmetric_id": 46759236,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 124,
+      "cited_by_tweeters_count": 94,
+      "cited_by_accounts_count": 94,
+      "last_updated": 1535217429,
+      "score": 62.6,
+      "history": {
+        "1y": 62.6,
+        "6m": 62.6,
+        "3m": 62.6,
+        "1m": 62.6,
+        "1w": 62.6,
+        "6d": 62.6,
+        "5d": 62.6,
+        "4d": 50.1,
+        "3d": 30.8,
+        "2d": 25.4,
+        "1d": 14.85,
+        "at": 62.6
+      },
+      "url": "https://www.rand.org/blog/2018/08/keeping-artificial-intelligence-accountable-to-humans.html",
+      "added_on": 1534815371,
+      "published_on": 1534723200,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=63&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=63&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=63&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46759236"
+    },
+    {
+      "title": "Learn to Program Self-Driving Cars (and Help Duckies Commute) With Duckietown",
+      "tq": [
+        "MIT's Duckietown is an affordable, modular, scalable, duckie-filled introduction to autonomous vehicles.",
+        "I think we can all agree that",
+        "Learn to Program Self-Driving Cars (and Help Duckies Commute) With Duckietown - IEEE Spectrum #Cars #CarNews",
+        "As quackers as it sounds, MIT has a Duckietown course that teaches self-driving cars programming. With duckies.",
+        "RT from IEEESpectrum: MIT's Duckietown is an affordable, modular, scalable, duckie-filled introduction to autonomous vehicles."
+      ],
+      "uri": "https://spectrum.ieee.org/automaton/robotics/artificial-intelligence/learn-to-program-self-driving-cars-and-help-duckies-commute-with-duckietown",
+      "altmetric_jid": "ieee_spectrum",
+      "cohorts": {
+        "pub": 79,
+        "com": 6,
+        "sci": 8
+      },
+      "context": {
+        "all": {
+          "count": 11654965,
+          "mean": 7.4292027355765,
+          "rank": 200150,
+          "pct": 98,
+          "higher_than": 11454782
+        },
+        "journal": {
+          "count": 4710,
+          "mean": 43.873738373328,
+          "rank": 906,
+          "pct": 80,
+          "higher_than": 3804
+        },
+        "similar_age_3m": {
+          "count": 115076,
+          "mean": 12.285045144471,
+          "rank": 4143,
+          "pct": 96,
+          "higher_than": 110932
+        },
+        "similar_age_journal_3m": {
+          "count": 1,
+          "mean": 0,
+          "rank": 1,
+          "pct": 1,
+          "higher_than": 0
+        }
+      },
+      "type": "article",
+      "altmetric_id": 46748214,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_fbwalls_count": 3,
+      "cited_by_gplus_count": 1,
+      "cited_by_posts_count": 114,
+      "cited_by_rdts_count": 1,
+      "cited_by_tweeters_count": 93,
+      "cited_by_accounts_count": 98,
+      "last_updated": 1535216973,
+      "score": 64.55,
+      "history": {
+        "1y": 64.55,
+        "6m": 64.55,
+        "3m": 64.55,
+        "1m": 64.55,
+        "1w": 64.55,
+        "6d": 64.55,
+        "5d": 64.55,
+        "4d": 30.95,
+        "3d": 17.85,
+        "2d": 11.15,
+        "1d": 8.3,
+        "at": 64.55
+      },
+      "url": "https://spectrum.ieee.org/automaton/robotics/artificial-intelligence/learn-to-program-self-driving-cars-and-help-duckies-commute-with-duckietown?utm_source=dlvr.it&utm_medium=twitter",
+      "added_on": 1534788578,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=65&types=rtttttfg",
+        "medium": "https://badges.altmetric.com/?size=100&score=65&types=rtttttfg",
+        "large": "https://badges.altmetric.com/?size=180&score=65&types=rtttttfg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46748214"
+    },
+    {
+      "title": "Don't Believe Your Eyes",
+      "doi": "10.1038/scientificamerican0418-12",
+      "pmid": "29557948",
+      "tq": [
+        "Spot the Fake: #ArtificialIntelligence Can Produce Lifelike Photographs",
+        "Spot the Fake: #ArtificialIntelligence Can Produce Lifelike #Photographs - Scientific American",
+        "By pitting AIs against one another, tech companies are creating realistic computer-generated images",
+        "Spot the Fake: #AI Can Produce Lifelike Photographs #fintech ➡️",
+        "Spot the #Fake: Artificial Intelligence Can Produce Lifelike #Photographs - #AI"
+      ],
+      "isbns": [],
+      "altmetric_jid": "4f6fa4d33cf058f610000f42",
+      "issns": [
+        "0036-8733"
+      ],
+      "journal": "Scientific American",
+      "cohorts": {
+        "pub": 598,
+        "sci": 28,
+        "com": 15,
+        "doc": 6
+      },
+      "context": {
+        "all": {
+          "count": 11654965,
+          "mean": 7.4292027355765,
+          "rank": 8614,
+          "pct": 99,
+          "higher_than": 11646384
+        },
+        "journal": {
+          "count": 4909,
+          "mean": 46.01882803586,
+          "rank": 48,
+          "pct": 99,
+          "higher_than": 4861
+        },
+        "similar_age_3m": {
+          "count": 264957,
+          "mean": 14.008629334682,
+          "rank": 630,
+          "pct": 99,
+          "higher_than": 264327
+        },
+        "similar_age_journal_3m": {
+          "count": 71,
+          "mean": 106.96882857143,
+          "rank": 4,
+          "pct": 94,
+          "higher_than": 67
+        }
+      },
+      "authors": [
+        "Greenemeier, Lawrence",
+        "Lawrence Greenemeier"
+      ],
+      "type": "article",
+      "handles": [],
+      "altmetric_id": 34635001,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 982,
+      "cited_by_msm_count": 1,
+      "cited_by_tweeters_count": 649,
+      "cited_by_fbwalls_count": 3,
+      "cited_by_accounts_count": 653,
+      "last_updated": 1535216820,
+      "score": 590.9,
+      "history": {
+        "1y": 590.9,
+        "6m": 590.9,
+        "3m": 278.4,
+        "1m": 126,
+        "1w": 21,
+        "6d": 20,
+        "5d": 14.5,
+        "4d": 12.5,
+        "3d": 8.5,
+        "2d": 6.5,
+        "1d": 4,
+        "at": 590.9
+      },
+      "url": "http://dx.doi.org/10.1038/scientificamerican0418-12",
+      "added_on": 1521563397,
+      "published_on": 1521504000,
+      "subjects": [
+        "science"
+      ],
+      "scopus_subjects": [
+        "General"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 1,
+        "connotea": 0
+      },
+      "readers_count": 1,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=591&types=mttttttf",
+        "medium": "https://badges.altmetric.com/?size=100&score=591&types=mttttttf",
+        "large": "https://badges.altmetric.com/?size=180&score=591&types=mttttttf"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=34635001"
+    },
+    {
+      "title": "Research Priorities for Robust and Beneficial Artificial Intelligence",
+      "doi": "10.1609/aimag.v36i4.2577",
+      "altmetric_jid": "4f6fa5163cf058f610003773",
+      "issns": [
+        "0738-4602"
+      ],
+      "journal": "AI Magazine",
+      "cohorts": [],
+      "context": {
+        "all": {
+          "count": 11655218,
+          "mean": 7.4288288420415,
+          "rank": 3282253,
+          "pct": 49,
+          "higher_than": 5804309
+        },
+        "journal": {
+          "count": 24,
+          "mean": 47.608434782609,
+          "rank": 3,
+          "pct": 8,
+          "higher_than": 2
+        },
+        "similar_age_3m": {
+          "count": 106839,
+          "mean": 12.154885508901,
+          "rank": 37560,
+          "pct": 64,
+          "higher_than": 68688
+        },
+        "similar_age_journal_3m": {
+          "count": 1,
+          "mean": 0,
+          "rank": 1,
+          "pct": 1,
+          "higher_than": 0
+        }
+      },
+      "authors": [
+        "Stuart Russell",
+        "Daniel Dewey",
+        "Max Tegmark"
+      ],
+      "type": "article",
+      "altmetric_id": 47073986,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Artificial Intelligence And Image Processing",
+          "scheme": "era"
+        },
+        {
+          "name": "Cognitive Science",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_posts_count": 1,
+      "cited_by_wikipedia_count": 1,
+      "cited_by_accounts_count": 1,
+      "last_updated": 1535204716,
+      "score": 3,
+      "history": {
+        "1y": 3,
+        "6m": 3,
+        "3m": 3,
+        "1m": 3,
+        "1w": 3,
+        "6d": 3,
+        "5d": 3,
+        "4d": 3,
+        "3d": 3,
+        "2d": 3,
+        "1d": 3,
+        "at": 3
+      },
+      "url": "http://dx.doi.org/10.1609/aimag.v36i4.2577",
+      "added_on": 1535204721,
+      "published_on": 1451520000,
+      "scopus_subjects": [
+        "Physical Sciences",
+        "Computer Science"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 373,
+        "connotea": 0
+      },
+      "readers_count": 373,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=3&types=wwwwwwww",
+        "medium": "https://badges.altmetric.com/?size=100&score=3&types=wwwwwwww",
+        "large": "https://badges.altmetric.com/?size=180&score=3&types=wwwwwwww"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=47073986"
+    },
+    {
+      "title": "Video Tuesday: Robot Film Festival Highlights",
+      "tq": [
+        "Enjoy these selections from the 2018 Robot Film Festival",
+        "Video Tuesday: Robot Film Festival Highlights - IEEE Spectrum #robotic #machinelearning #AI #IA #BigData #DataScience #artificialintelligence #computerintelligence",
+        "Video Tuesday: Robot Film Festival Highlights - IEEE Spectrum #AI #IA #machinelearning #BigData #DataScience #artificialintelligence #computerintelligence",
+        "What, what! #robotfilmfeat",
+        "Video Tuesday: Robot Film Festival Highlights #ieee #spectrum #technology #computing #science #energy #robotics"
+      ],
+      "uri": "https://spectrum.ieee.org/automaton/robotics/artificial-intelligence/video-tuesday-robot-film-festival-highlights",
+      "altmetric_jid": "ieee_spectrum",
+      "cohorts": {
+        "com": 8,
+        "pub": 48,
+        "sci": 7,
+        "doc": 1
+      },
+      "context": {
+        "all": {
+          "count": 11652092,
+          "mean": 7.4267637248842,
+          "rank": 347248,
+          "pct": 97,
+          "higher_than": 11304834
+        },
+        "journal": {
+          "count": 4707,
+          "mean": 43.760355716107,
+          "rank": 1354,
+          "pct": 71,
+          "higher_than": 3352
+        },
+        "similar_age_3m": {
+          "count": 110298,
+          "mean": 12.214018803775,
+          "rank": 6495,
+          "pct": 94,
+          "higher_than": 103795
+        },
+        "similar_age_journal_3m": {
+          "count": 1,
+          "mean": 0,
+          "rank": 1,
+          "pct": 1,
+          "higher_than": 0
+        }
+      },
+      "type": "article",
+      "altmetric_id": 46806219,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_fbwalls_count": 2,
+      "cited_by_posts_count": 72,
+      "cited_by_tweeters_count": 64,
+      "cited_by_accounts_count": 66,
+      "last_updated": 1535130243,
+      "score": 36.6,
+      "history": {
+        "1y": 36.6,
+        "6m": 36.6,
+        "3m": 36.6,
+        "1m": 36.6,
+        "1w": 36.6,
+        "6d": 36.6,
+        "5d": 36.6,
+        "4d": 36.6,
+        "3d": 36.6,
+        "2d": 7.8,
+        "1d": 2.95,
+        "at": 36.6
+      },
+      "url": "https://spectrum.ieee.org/automaton/robotics/artificial-intelligence/video-tuesday-robot-film-festival-highlights",
+      "added_on": 1534902053,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=37&types=tttttttf",
+        "medium": "https://badges.altmetric.com/?size=100&score=37&types=tttttttf",
+        "large": "https://badges.altmetric.com/?size=180&score=37&types=tttttttf"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46806219"
+    },
+    {
+      "title": "How Artificial Intelligence Can Supercharge the Search for New Particles",
+      "tq": [
+        "How Artificial Intelligence Can Supercharge the Search for New Particles - Facts So Romantic - Nau... #ai #ml #dl",
+        "Faced with the challenge of intelligent data reduction, some physicists are using machine learning to dredge the sea of familiar events for new physics phenomena.",
+        "How Artificial Intelligence Can Supercharge the Search for New Particles - Facts So Romantic #Science",
+        "computers will soon understand things humans never will. this is as awe-inspiring as it is terrifying",
+        "ML algorithms don't need to assume anything, a precious skill set. #dataiseverything #STEM"
+      ],
+      "uri": "http://nautil.us/blog/how-artificial-intelligence-can-supercharge-the-search-for-new-particles",
+      "altmetric_jid": "nautilus",
+      "journal": "Nautilus",
+      "cohorts": {
+        "pub": 54,
+        "com": 3,
+        "sci": 8
+      },
+      "context": {
+        "all": {
+          "count": 11655083,
+          "mean": 7.4292539664545,
+          "rank": 291411,
+          "pct": 97,
+          "higher_than": 11363483
+        },
+        "journal": {
+          "count": 1937,
+          "mean": 16.072982438017,
+          "rank": 117,
+          "pct": 93,
+          "higher_than": 1820
+        },
+        "similar_age_3m": {
+          "count": 185016,
+          "mean": 12.765537669919,
+          "rank": 9848,
+          "pct": 94,
+          "higher_than": 175159
+        },
+        "similar_age_journal_3m": {
+          "count": 67,
+          "mean": 92.224757575758,
+          "rank": 39,
+          "pct": 41,
+          "higher_than": 28
+        }
+      },
+      "authors": [
+        "Charlie Wood"
+      ],
+      "type": "article",
+      "altmetric_id": 45506402,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 71,
+      "cited_by_tweeters_count": 65,
+      "cited_by_accounts_count": 65,
+      "last_updated": 1535219614,
+      "score": 44.35,
+      "history": {
+        "1y": 44.35,
+        "6m": 44.35,
+        "3m": 44.35,
+        "1m": 13.15,
+        "1w": 2,
+        "6d": 2,
+        "5d": 2,
+        "4d": 2,
+        "3d": 2,
+        "2d": 2,
+        "1d": 2,
+        "at": 44.35
+      },
+      "url": "http://nautil.us/blog/how-artificial-intelligence-can-supercharge-the-search-for-new-particles?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "added_on": 1532503652,
+      "published_on": 1532476800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=45&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=45&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=45&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=45506402"
+    },
+    {
+      "title": "Video Friday: Teaching a Robot to Pick Up a Knife, and More",
+      "tq": [
+        "Great selection of awesome robot videos, Enjoy! Video Friday: Teaching a Robot to Pick Up a Knife, and More",
+        "Video weekly selection #Robotics",
+        "🤖📺 Video Friday: Teaching a Robot to Pick Up a Knife, and More. Your weekly selection of awesome robot videos”",
+        "Video Friday: Teaching a Robot to Pick Up a Knife, and More - IEEE Spectrum #robotic #machinelearning #AI #IA #BigData #DataScience #artificialintelligence #computerintelligence",
+        "Video Friday: Teaching a Robot to Pick Up a Knife, and More #ieee #spectrum #technology #computing #science #energy #robotics"
+      ],
+      "uri": "https://spectrum.ieee.org/automaton/robotics/artificial-intelligence/video-friday-teaching-a-robot-pick-up-a-knife-and-more",
+      "altmetric_jid": "ieee_spectrum",
+      "cohorts": {
+        "pub": 57,
+        "com": 4,
+        "sci": 3
+      },
+      "context": {
+        "all": {
+          "count": 11651311,
+          "mean": 7.4264538193433,
+          "rank": 254198,
+          "pct": 97,
+          "higher_than": 11397096
+        },
+        "journal": {
+          "count": 4702,
+          "mean": 43.868811742183,
+          "rank": 1084,
+          "pct": 76,
+          "higher_than": 3618
+        },
+        "similar_age_3m": {
+          "count": 120296,
+          "mean": 12.349431564072,
+          "rank": 5413,
+          "pct": 95,
+          "higher_than": 114878
+        },
+        "similar_age_journal_3m": {
+          "count": 1,
+          "mean": 0,
+          "rank": 1,
+          "pct": 1,
+          "higher_than": 0
+        }
+      },
+      "type": "article",
+      "altmetric_id": 46640536,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_msm_count": 1,
+      "cited_by_posts_count": 68,
+      "cited_by_tweeters_count": 64,
+      "cited_by_accounts_count": 65,
+      "last_updated": 1535120475,
+      "score": 51.1,
+      "history": {
+        "1y": 51.1,
+        "6m": 51.1,
+        "3m": 51.1,
+        "1m": 51.1,
+        "1w": 51.1,
+        "6d": 8.75,
+        "5d": 7.9,
+        "4d": 4.8,
+        "3d": 3.45,
+        "2d": 1.75,
+        "1d": 1.5,
+        "at": 51.1
+      },
+      "url": "https://spectrum.ieee.org/automaton/robotics/artificial-intelligence/video-friday-teaching-a-robot-pick-up-a-knife-and-more",
+      "added_on": 1534519073,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=52&types=mttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=52&types=mttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=52&types=mttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46640536"
+    },
+    {
+      "title": "Layoffs at Watson Health Reveal IBM’s Problem with AI",
+      "tq": [
+        "Inside scoop from employees laid off",
+        "Lots of #healthcare news today;",
+        "Artificial intelligence is not enough. We need augmented intelligence #AI",
+        "For #AI to work, #naturalintelligence is required",
+        "Great ##Healthcare #AI but bad/no business model?"
+      ],
+      "uri": "https://spectrum.ieee.org/the-human-os/robotics/artificial-intelligence/layoffs-at-watson-health-reveal-ibms-problem-with-ai",
+      "altmetric_jid": "ieee_spectrum",
+      "cohorts": {
+        "com": 56,
+        "sci": 133,
+        "pub": 1088,
+        "doc": 33
+      },
+      "context": {
+        "all": {
+          "count": 11653181,
+          "mean": 7.4276003767083,
+          "rank": 2425,
+          "pct": 99,
+          "higher_than": 11650804
+        },
+        "journal": {
+          "count": 4709,
+          "mean": 43.83891971113,
+          "rank": 7,
+          "pct": 99,
+          "higher_than": 4702
+        },
+        "similar_age_3m": {
+          "count": 236003,
+          "mean": 13.219187981458,
+          "rank": 144,
+          "pct": 99,
+          "higher_than": 235859
+        },
+        "similar_age_journal_3m": {
+          "count": 1,
+          "mean": 0,
+          "rank": 1,
+          "pct": 1,
+          "higher_than": 0
+        }
+      },
+      "type": "article",
+      "altmetric_id": 44122194,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_fbwalls_count": 7,
+      "cited_by_feeds_count": 1,
+      "cited_by_gplus_count": 15,
+      "cited_by_msm_count": 3,
+      "cited_by_posts_count": 1510,
+      "cited_by_rdts_count": 9,
+      "cited_by_tweeters_count": 1310,
+      "cited_by_accounts_count": 1345,
+      "last_updated": 1535145030,
+      "score": 1065.534,
+      "history": {
+        "1y": 1065.534,
+        "6m": 1065.534,
+        "3m": 1065.534,
+        "1m": 336.9,
+        "1w": 25.45,
+        "6d": 23.6,
+        "5d": 21.05,
+        "4d": 7.75,
+        "3d": 2.5,
+        "2d": 2.5,
+        "1d": 1.5,
+        "at": 1065.534
+      },
+      "url": "https://spectrum.ieee.org/the-human-os/robotics/artificial-intelligence/layoffs-at-watson-health-reveal-ibms-problem-with-ai?utm_source=dlvr.it&utm_medium=twitter",
+      "added_on": 1529942113,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=1066&types=mbrtttfg",
+        "medium": "https://badges.altmetric.com/?size=100&score=1066&types=mbrtttfg",
+        "large": "https://badges.altmetric.com/?size=180&score=1066&types=mbrtttfg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=44122194"
+    },
+    {
+      "title": "Hacking the Brain With Adversarial Images",
+      "tq": [
+        "Adversarial examples for humans in IEEE Spectrum",
+        "New research from a team at Google Brain shows adversarial images can fool both humans and neural networks",
+        "RT from IEEESpectrum: New research from a team at Google Brain shows adversarial images can fool both humans and neural networks",
+        "Hacking the Brain With Adversarial Images --Researchers from Google Brain show that adversarial images can trick both humans and computers, and the implications are scary",
+        "Researchers from #Google Brain show that adversarial images can trick both humans and computers #AI #ML #MachineLearning #NeuralNetworks"
+      ],
+      "uri": "https://spectrum.ieee.org/the-human-os/robotics/artificial-intelligence/hacking-the-brain-with-adversarial-images",
+      "altmetric_jid": "ieee_spectrum",
+      "cohorts": {
+        "pub": 314,
+        "sci": 56,
+        "com": 17,
+        "doc": 2
+      },
+      "context": {
+        "all": {
+          "count": 11654965,
+          "mean": 7.4292027355765,
+          "rank": 30320,
+          "pct": 99,
+          "higher_than": 11624702
+        },
+        "journal": {
+          "count": 4710,
+          "mean": 43.873738373328,
+          "rank": 115,
+          "pct": 97,
+          "higher_than": 4595
+        },
+        "similar_age_3m": {
+          "count": 266371,
+          "mean": 14.010188925179,
+          "rank": 1953,
+          "pct": 99,
+          "higher_than": 264418
+        },
+        "similar_age_journal_3m": {
+          "count": 1,
+          "mean": 0,
+          "rank": 1,
+          "pct": 1,
+          "higher_than": 0
+        }
+      },
+      "type": "article",
+      "altmetric_id": 33772362,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 433,
+      "cited_by_tweeters_count": 389,
+      "cited_by_fbwalls_count": 6,
+      "cited_by_wikipedia_count": 1,
+      "cited_by_gplus_count": 8,
+      "cited_by_rdts_count": 2,
+      "cited_by_accounts_count": 406,
+      "last_updated": 1535217433,
+      "score": 301.85,
+      "history": {
+        "1y": 301.85,
+        "6m": 301.85,
+        "3m": 3.5,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 301.85
+      },
+      "url": "https://spectrum.ieee.org/the-human-os/robotics/artificial-intelligence/hacking-the-brain-with-adversarial-images?utm_source=dlvr.it&utm_medium=twitter",
+      "added_on": 1519827416,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=302&types=rttttwfg",
+        "medium": "https://badges.altmetric.com/?size=100&score=302&types=rttttwfg",
+        "large": "https://badges.altmetric.com/?size=180&score=302&types=rttttwfg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=33772362"
+    },
+    {
+      "title": "Artificial intelligence is the weapon of the next Cold War",
+      "tq": [
+        "Artificial intelligence is the weapon of the next Cold War #ArtificialIntelligence #AI #IoT #InternetOfThings #IIoT #IndustrialIoT #Industry40 #ML #DL #MachineLearning #DeepLearning #BigData #BlockChain #Technology #Business",
+        "Advancing sex technologies Artificial intelligence is the weapon of the next Cold War - The Conversation US",
+        "AI could win the next Cold War",
+        "Add cyberwarfare to growing worries over nuclear war #AI #ColdWar",
+        "Artificial intelligence is the weapon of the next Cold War - The Conversation US #artificial #intelligence"
+      ],
+      "uri": "http://theconversation.com/artificial-intelligence-is-the-weapon-of-the-next-cold-war-86086",
+      "altmetric_jid": "theconversation",
+      "journal": "The Conversation",
+      "cohorts": {
+        "pub": 283,
+        "doc": 3,
+        "com": 11,
+        "sci": 19
+      },
+      "abstract": "As tensions between the US and Russia escalate, both sides are developing technological capabilities, including artificial intelligence that could be used in conflict.",
+      "context": {
+        "all": {
+          "count": 11651834,
+          "mean": 7.4266543059666,
+          "rank": 15586,
+          "pct": 99,
+          "higher_than": 11636434
+        },
+        "journal": {
+          "count": 62204,
+          "mean": 69.364362683472,
+          "rank": 624,
+          "pct": 98,
+          "higher_than": 61580
+        },
+        "similar_age_3m": {
+          "count": 304244,
+          "mean": 12.586791781569,
+          "rank": 1035,
+          "pct": 99,
+          "higher_than": 303209
+        },
+        "similar_age_journal_3m": {
+          "count": 3539,
+          "mean": 93.084258338044,
+          "rank": 55,
+          "pct": 98,
+          "higher_than": 3484
+        }
+      },
+      "authors": [
+        "Jeremy Straub"
+      ],
+      "type": "news",
+      "altmetric_id": 32366408,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 511,
+      "cited_by_msm_count": 22,
+      "cited_by_feeds_count": 2,
+      "cited_by_tweeters_count": 316,
+      "cited_by_fbwalls_count": 5,
+      "cited_by_gplus_count": 9,
+      "cited_by_rdts_count": 1,
+      "cited_by_accounts_count": 355,
+      "last_updated": 1535077814,
+      "score": 447.96,
+      "history": {
+        "1y": 447.96,
+        "6m": 44.21,
+        "3m": 5.7,
+        "1m": 3.85,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 1,
+        "3d": 1,
+        "2d": 1,
+        "1d": 1,
+        "at": 447.96
+      },
+      "url": "http://theconversation.com/artificial-intelligence-is-the-weapon-of-the-next-cold-war-86086?utm_source=dlvr.it&utm_medium=twitter",
+      "added_on": 1517226458,
+      "published_on": 1517184000,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=448&types=mbrtttfg",
+        "medium": "https://badges.altmetric.com/?size=100&score=448&types=mbrtttfg",
+        "large": "https://badges.altmetric.com/?size=180&score=448&types=mbrtttfg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=32366408"
+    },
+    {
+      "title": "Artificial intelligence seeks out new anticancer drugs",
+      "tq": [
+        "#ArtificialIntelligence seeks out new anticancer drugs. #AI #healthcare @jjkardwell @georgiadienst @InterestRateArb @Mike_Gambacorta @MMinevich @CenturysoftPL @Healthtechtalkn @aparanjape @mikeokhravi",
+        "Artificial intelligence seeks out new anticancer drugs Research Chemistry World #ai #ml #dl",
+        "Artificial intelligence seeks out new anticancer drugs Research Chemistry World",
+        "As Fernando points out, chemistry and computer science are good friends. But now drug discoverers have a new, efficient-looking addition to their address books. I'm tempted to play, seeing as they do it on a regular desktop PC.",
+        "#AI for drug discovery. current computational methods are often too drawn out and inefficient to identify the mechanism of action of drugs. Now, a multidisciplinary team of researchers believes artificial intelligence could help out @gomobel"
+      ],
+      "uri": "https://www.chemistryworld.com/news/artificial-intelligence-seeks-out-new-anticancer-drugs/3009308.article",
+      "altmetric_jid": "chemistryworld",
+      "journal": "Chemistry World",
+      "cohorts": {
+        "sci": 25,
+        "pub": 82,
+        "com": 1,
+        "doc": 1
+      },
+      "context": {
+        "all": {
+          "count": 11648047,
+          "mean": 7.4250725788558,
+          "rank": 171198,
+          "pct": 98,
+          "higher_than": 11476811
+        },
+        "journal": {
+          "count": 2238,
+          "mean": 5.4608877961556,
+          "rank": 21,
+          "pct": 99,
+          "higher_than": 2217
+        },
+        "similar_age_3m": {
+          "count": 180649,
+          "mean": 12.700109195784,
+          "rank": 6003,
+          "pct": 96,
+          "higher_than": 174643
+        },
+        "similar_age_journal_3m": {
+          "count": 236,
+          "mean": 24.431787234043,
+          "rank": 18,
+          "pct": 92,
+          "higher_than": 218
+        }
+      },
+      "type": "article",
+      "altmetric_id": 45568655,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_fbwalls_count": 2,
+      "cited_by_gplus_count": 1,
+      "cited_by_posts_count": 135,
+      "cited_by_tweeters_count": 109,
+      "cited_by_accounts_count": 112,
+      "last_updated": 1535068975,
+      "score": 74.35,
+      "history": {
+        "1y": 74.35,
+        "6m": 74.35,
+        "3m": 74.35,
+        "1m": 74.35,
+        "1w": 0.85,
+        "6d": 0.85,
+        "5d": 0.85,
+        "4d": 0.85,
+        "3d": 0.85,
+        "2d": 0.85,
+        "1d": 0.85,
+        "at": 74.35
+      },
+      "url": "https://www.chemistryworld.com/news/artificial-intelligence-seeks-out-new-anticancer-drugs/3009308.article?utm_source=dlvr.it&utm_medium=twitter",
+      "added_on": 1532613135,
+      "published_on": 1532615520,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=75&types=ttttttfg",
+        "medium": "https://badges.altmetric.com/?size=100&score=75&types=ttttttfg",
+        "large": "https://badges.altmetric.com/?size=180&score=75&types=ttttttfg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=45568655"
+    },
+    {
+      "title": "Artificial Intelligence and Machine Learning to Accelerate Translational ResearchProceedings of a Workshop—in Brief",
+      "doi": "10.17226/25197",
+      "pmid": "30048078",
+      "tq": [
+        "An interesting and quick read from the National Academies. “#ArtificialIntelligence and #MachineLearning to AccelerateTranslational Research: Proceedings of a Workshop in Brief” @theNASEM",
+        "“The lab has found that the answer to big data is #machinelearning; it is the only technique that can absorb that much data and continue to improve,” -",
+        "Artificial Intelligence and Machine Learning to Accelerate Translational Research: Proceedings of ... #ai #ml #dl"
+      ],
+      "uri": "http://www.nap.edu/catalog.php?record_id=25197",
+      "isbns": [
+        "9780309479745"
+      ],
+      "altmetric_jid": "nap_reports",
+      "journal": "The National Academies Press",
+      "cohorts": {
+        "pub": 12,
+        "sci": 4,
+        "doc": 1
+      },
+      "context": {
+        "all": {
+          "count": 11651517,
+          "mean": 7.4264729727746,
+          "rank": 708586,
+          "pct": 93,
+          "higher_than": 10942987
+        },
+        "journal": {
+          "count": 7588,
+          "mean": 21.318057466719,
+          "rank": 1164,
+          "pct": 84,
+          "higher_than": 6424
+        },
+        "similar_age_3m": {
+          "count": 182757,
+          "mean": 12.723634211736,
+          "rank": 20276,
+          "pct": 88,
+          "higher_than": 162474
+        },
+        "similar_age_journal_3m": {
+          "count": 66,
+          "mean": 59.671630769231,
+          "rank": 24,
+          "pct": 63,
+          "higher_than": 42
+        }
+      },
+      "authors": [
+        "Government-University-Industry Research Roundtable; Policy and Global Affairs; National Academies of Sciences, Engineering, and Medicine"
+      ],
+      "type": "book",
+      "altmetric_id": 45498209,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_feeds_count": 1,
+      "cited_by_posts_count": 22,
+      "cited_by_tweeters_count": 17,
+      "cited_by_accounts_count": 18,
+      "last_updated": 1535123107,
+      "score": 16.78,
+      "history": {
+        "1y": 16.78,
+        "6m": 16.78,
+        "3m": 16.78,
+        "1m": 16.53,
+        "1w": 0.85,
+        "6d": 0.85,
+        "5d": 0.85,
+        "4d": 0.85,
+        "3d": 0.85,
+        "2d": 0.85,
+        "1d": 0.85,
+        "at": 16.78
+      },
+      "url": "http://dx.doi.org/10.17226/25197",
+      "added_on": 1532482923,
+      "published_on": 1532390400,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 4,
+        "connotea": 0
+      },
+      "readers_count": 4,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=17&types=bttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=17&types=bttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=17&types=bttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=45498209"
+    },
+    {
+      "title": "How artificial intelligence can detect – and create – fake news",
+      "tq": [
+        "How artificial intelligence can detect – and create – fake news ArtificialIntelligence AI",
+        "How artificial intelligence can detect – and create – fake news by @ConversationUS #artificialintelligence",
+        "Can #artificialintelligence be used to combat #deepfakes and #fakenews that were created by other #AI?",
+        "How #AI #ArtificialIntelligence can detect – and create – #fake #news.",
+        "Cómo la inteligencia artificial puede detectar y crear noticias falsas"
+      ],
+      "uri": "http://theconversation.com/how-artificial-intelligence-can-detect-and-create-fake-news-95404",
+      "altmetric_jid": "theconversation",
+      "journal": "The Conversation",
+      "cohorts": {
+        "pub": 240,
+        "sci": 32,
+        "com": 17,
+        "doc": 3
+      },
+      "abstract": "By 2022, people in developed countries may see more fake news than accurate information. Artificial intelligence may be to blame – but could also help people sort out the truth from lies.",
+      "context": {
+        "all": {
+          "count": 11653797,
+          "mean": 7.4281772059376,
+          "rank": 29072,
+          "pct": 99,
+          "higher_than": 11624769
+        },
+        "journal": {
+          "count": 62207,
+          "mean": 69.38113850754,
+          "rank": 1509,
+          "pct": 97,
+          "higher_than": 60698
+        },
+        "similar_age_3m": {
+          "count": 252264,
+          "mean": 13.892738364326,
+          "rank": 1721,
+          "pct": 99,
+          "higher_than": 250543
+        },
+        "similar_age_journal_3m": {
+          "count": 4073,
+          "mean": 82.320421905697,
+          "rank": 115,
+          "pct": 97,
+          "higher_than": 3958
+        }
+      },
+      "authors": [
+        "Anjana Susarla"
+      ],
+      "type": "news",
+      "altmetric_id": 40661865,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 355,
+      "cited_by_msm_count": 9,
+      "cited_by_feeds_count": 3,
+      "cited_by_tweeters_count": 292,
+      "cited_by_fbwalls_count": 4,
+      "cited_by_gplus_count": 1,
+      "cited_by_accounts_count": 309,
+      "last_updated": 1535172140,
+      "score": 312.088,
+      "history": {
+        "1y": 312.088,
+        "6m": 312.088,
+        "3m": 28.908,
+        "1m": 9.208,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 0.85,
+        "3d": 0.85,
+        "2d": 0.85,
+        "1d": 0.85,
+        "at": 312.088
+      },
+      "url": "http://theconversation.com/how-artificial-intelligence-can-detect-and-create-fake-news-95404?utm_source=dlvr.it&utm_medium=twitter",
+      "added_on": 1525345631,
+      "published_on": 1525305600,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=313&types=mbttttfg",
+        "medium": "https://badges.altmetric.com/?size=100&score=313&types=mbttttfg",
+        "large": "https://badges.altmetric.com/?size=180&score=313&types=mbttttfg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=40661865"
+    },
+    {
+      "title": "AI-Powered Microscope Counts Malaria Parasites in Blood Samples",
+      "tq": [
+        "#AI -Powered Microscope Counts Malaria Parasites in Blood Samples #DeepLearning #IoT #IIoT #ML #DL #BigData #InternetOfThings #ArtificialIntelligence #MachineLearning #BlockChain #IndustrialIoT #Industry40 #Technology #Business",
+        "Here's how our AI-powered microscope could speed up diagnosis standardize detection of malaria,",
+        "An AI-powered microscope can detect malaria parasites on par with well-trained microscopists.",
+        "#ArtificialIntelligence Powered Microscope Counts Malaria Parasites in Blood Samples",
+        "We love to see tech in the medical field. #tech #AI #medical"
+      ],
+      "uri": "https://spectrum.ieee.org/the-human-os/robotics/artificial-intelligence/aipowered-microscope-counts-malaria-parasites",
+      "isbns": [],
+      "altmetric_jid": "ieee_spectrum",
+      "issns": [],
+      "cohorts": {
+        "pub": 230,
+        "com": 12,
+        "sci": 14,
+        "doc": 7
+      },
+      "context": {
+        "all": {
+          "count": 11654003,
+          "mean": 7.4283662503106,
+          "rank": 56055,
+          "pct": 99,
+          "higher_than": 11597983
+        },
+        "journal": {
+          "count": 4710,
+          "mean": 43.819947759609,
+          "rank": 244,
+          "pct": 94,
+          "higher_than": 4466
+        },
+        "similar_age_3m": {
+          "count": 313105,
+          "mean": 11.827568239307,
+          "rank": 3211,
+          "pct": 98,
+          "higher_than": 309894
+        },
+        "similar_age_journal_3m": {
+          "count": 1,
+          "mean": 0,
+          "rank": 1,
+          "pct": 1,
+          "higher_than": 0
+        }
+      },
+      "authors": [],
+      "type": "article",
+      "handles": [],
+      "altmetric_id": 29896206,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 305,
+      "cited_by_tweeters_count": 263,
+      "cited_by_fbwalls_count": 9,
+      "cited_by_gplus_count": 1,
+      "cited_by_accounts_count": 273,
+      "last_updated": 1535181904,
+      "score": 185.35,
+      "history": {
+        "1y": 185.35,
+        "6m": 17.05,
+        "3m": 16.8,
+        "1m": 16.8,
+        "1w": 16.8,
+        "6d": 16.8,
+        "5d": 16.8,
+        "4d": 4.25,
+        "3d": 2.55,
+        "2d": 0.85,
+        "1d": 0.85,
+        "at": 185.35
+      },
+      "url": "https://spectrum.ieee.org/the-human-os/robotics/artificial-intelligence/aipowered-microscope-counts-malaria-parasites?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+IeeeSpectrumFullText+%28IEEE+Spectrum+Full+Text%29",
+      "added_on": 1512226199,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=186&types=ttttttfg",
+        "medium": "https://badges.altmetric.com/?size=100&score=186&types=ttttttfg",
+        "large": "https://badges.altmetric.com/?size=180&score=186&types=ttttttfg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=29896206"
+    },
+    {
+      "title": "Will the Future of AI Learning Depend More on Nature or Nurture?",
+      "tq": [
+        "Will the Future of AI Learning Depend More on Nature or Nurture? #AI #MachineLearning #DeepLearning #ML #DL #tech",
+        "Nature, nurture, and the future AI. Excellent write up of",
+        "Future of Artificial Intelligence - Nature or Nuture? #AI #MachineLearning #DeepLearning #psychology",
+        "A new kind of AI will need to predict. I alluded to this in my tweet about uncomfortable objects",
+        "Will the Future of #AI Learning Depend More on Nature or Nurture? #fintech @IEEESpectrum #MachineLearning ➡️"
+      ],
+      "uri": "https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/ai-and-psychology-researchers-debate-the-future-of-deep-learning",
+      "isbns": [],
+      "altmetric_jid": "ieee_spectrum",
+      "issns": [],
+      "cohorts": {
+        "pub": 863,
+        "com": 26,
+        "sci": 93,
+        "doc": 9
+      },
+      "context": {
+        "all": {
+          "count": 11654215,
+          "mean": 7.4285160013237,
+          "rank": 4967,
+          "pct": 99,
+          "higher_than": 11649294
+        },
+        "journal": {
+          "count": 4710,
+          "mean": 43.854583563389,
+          "rank": 20,
+          "pct": 99,
+          "higher_than": 4690
+        },
+        "similar_age_3m": {
+          "count": 313351,
+          "mean": 11.762228332535,
+          "rank": 304,
+          "pct": 99,
+          "higher_than": 313047
+        },
+        "similar_age_journal_3m": {
+          "count": 1,
+          "mean": 0,
+          "rank": 1,
+          "pct": 1,
+          "higher_than": 0
+        }
+      },
+      "authors": [],
+      "type": "article",
+      "handles": [],
+      "altmetric_id": 29296179,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1265,
+      "cited_by_tweeters_count": 993,
+      "cited_by_fbwalls_count": 23,
+      "cited_by_gplus_count": 7,
+      "cited_by_accounts_count": 1023,
+      "last_updated": 1535188547,
+      "score": 770.15000000001,
+      "history": {
+        "1y": 770.15000000001,
+        "6m": 4.35,
+        "3m": 1.85,
+        "1m": 1.85,
+        "1w": 0.85,
+        "6d": 0.85,
+        "5d": 0.85,
+        "4d": 0.85,
+        "3d": 0.85,
+        "2d": 0.85,
+        "1d": 0.85,
+        "at": 770.15000000001
+      },
+      "url": "https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/ai-and-psychology-researchers-debate-the-future-of-deep-learning",
+      "added_on": 1511379019,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=771&types=ttttttfg",
+        "medium": "https://badges.altmetric.com/?size=100&score=771&types=ttttttfg",
+        "large": "https://badges.altmetric.com/?size=180&score=771&types=ttttttfg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=29296179"
+    },
+    {
+      "title": "Facebook's DensePose Tech Raises Concerns About Potential Misuse",
+      "tq": [
+        "RT from IEEESpectrum: Last month, Facebook released the code for a new deep learning program called DensePose that can use images of people to make 3D models of their bodies and how they move.",
+        "RT from IEEESpectrum: Facebook's DensePose tech for turning 2D images of people into 3D models is causing some experts to warn that such a system could be misused.",
+        "Facebook's DensePose Tech Raises Concerns About Potential Misuse But there is a troubling implication of this research that could enable real-time surveillance, said Jack Clark, strategy and communications director at OpenAI #ArtificialIntelligence",
+        "Facebook's DensePose Tech Raises Concerns About Potential Misuse #ieee #spectrum #technology #computing #science #energy #robotics",
+        "Facebook's DensePose Tech Raises Concerns About Potential Misuse! #AI #ArtificialIntelligence #DensePose #OpenAI #Cybersecurity #images #potentialthreat #facebook"
+      ],
+      "uri": "https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/surveillance-concerns-follow-facebooks-densepose-tech",
+      "altmetric_jid": "ieee_spectrum",
+      "cohorts": {
+        "pub": 111,
+        "com": 9,
+        "sci": 20
+      },
+      "context": {
+        "all": {
+          "count": 11648782,
+          "mean": 7.4252505093755,
+          "rank": 122015,
+          "pct": 98,
+          "higher_than": 11526765
+        },
+        "journal": {
+          "count": 4703,
+          "mean": 43.759659719268,
+          "rank": 572,
+          "pct": 87,
+          "higher_than": 4131
+        },
+        "similar_age_3m": {
+          "count": 225997,
+          "mean": 12.818454937255,
+          "rank": 5499,
+          "pct": 97,
+          "higher_than": 220498
+        },
+        "similar_age_journal_3m": {
+          "count": 1,
+          "mean": 0,
+          "rank": 1,
+          "pct": 1,
+          "higher_than": 0
+        }
+      },
+      "type": "article",
+      "altmetric_id": 44889164,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_fbwalls_count": 3,
+      "cited_by_feeds_count": 1,
+      "cited_by_gplus_count": 2,
+      "cited_by_posts_count": 163,
+      "cited_by_rdts_count": 1,
+      "cited_by_tweeters_count": 140,
+      "cited_by_accounts_count": 147,
+      "last_updated": 1535083231,
+      "score": 99.13,
+      "history": {
+        "1y": 99.13,
+        "6m": 99.13,
+        "3m": 99.13,
+        "1m": 7.7,
+        "1w": 1.75,
+        "6d": 0.75,
+        "5d": 0.75,
+        "4d": 0.75,
+        "3d": 0.75,
+        "2d": 0.75,
+        "1d": 0.5,
+        "at": 99.13
+      },
+      "url": "https://spectrum.ieee.org/tech-talk/robotics/artificial-intelligence/surveillance-concerns-follow-facebooks-densepose-tech",
+      "added_on": 1531326979,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=100&types=brttttfg",
+        "medium": "https://badges.altmetric.com/?size=100&score=100&types=brttttfg",
+        "large": "https://badges.altmetric.com/?size=180&score=100&types=brttttfg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=44889164"
+    },
+    {
+      "title": "How Artificial Intelligence Could Increase the Risk of Nuclear War",
+      "tq": [
+        "How an AI analysis of a potential enemy's defences could make future nuclear war MORE likely. #futurist",
+        "In the coming decades, artificial intelligence could affect the risk of nuclear war. Here's how",
+        "Artificial intelligence has the potential to upend the foundations of nuclear deterrence by the year 2040.",
+        "Artificial intelligence may challenge the basic rules of nuclear deterrence and lead humans into making devastating decisions. #Security2040",
+        "Advanced artificial intelligence could sow distrust among nuclear powers. Here's how"
+      ],
+      "uri": "https://www.rand.org/blog/articles/2018/04/how-artificial-intelligence-could-increase-the-risk.html",
+      "altmetric_jid": "wwwrandorg",
+      "journal": "RAND Corporation",
+      "cohorts": {
+        "pub": 605,
+        "com": 28,
+        "sci": 62,
+        "doc": 10
+      },
+      "context": {
+        "all": {
+          "count": 11654343,
+          "mean": 7.4285403414319,
+          "rank": 6665,
+          "pct": 99,
+          "higher_than": 11648039
+        },
+        "journal": {
+          "count": 7590,
+          "mean": 34.76409487416,
+          "rank": 38,
+          "pct": 99,
+          "higher_than": 7552
+        },
+        "similar_age_3m": {
+          "count": 254269,
+          "mean": 13.842351699781,
+          "rank": 473,
+          "pct": 99,
+          "higher_than": 253796
+        },
+        "similar_age_journal_3m": {
+          "count": 303,
+          "mean": 53.763,
+          "rank": 4,
+          "pct": 98,
+          "higher_than": 299
+        }
+      },
+      "type": "article",
+      "altmetric_id": 39038773,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 1087,
+      "cited_by_msm_count": 10,
+      "cited_by_feeds_count": 4,
+      "cited_by_tweeters_count": 705,
+      "cited_by_fbwalls_count": 4,
+      "cited_by_gplus_count": 8,
+      "cited_by_accounts_count": 731,
+      "last_updated": 1535171881,
+      "score": 668.48,
+      "history": {
+        "1y": 668.48,
+        "6m": 668.48,
+        "3m": 79.48,
+        "1m": 2.6,
+        "1w": 0.5,
+        "6d": 0.5,
+        "5d": 0.5,
+        "4d": 0.5,
+        "3d": 0.5,
+        "2d": 0.5,
+        "1d": 0.5,
+        "at": 668.48
+      },
+      "url": "https://www.rand.org/blog/articles/2018/04/how-artificial-intelligence-could-increase-the-risk.html",
+      "added_on": 1524543496,
+      "published_on": 1524528000,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=669&types=mbttttfg",
+        "medium": "https://badges.altmetric.com/?size=100&score=669&types=mbttttfg",
+        "large": "https://badges.altmetric.com/?size=180&score=669&types=mbttttfg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=39038773"
+    },
+    {
+      "title": "Life 3.0",
+      "tq": [
+        "English title 'Life 3.0: Being Human in the Age of Artificial Intelligence'",
+        "*Life 3.0: Being Human in the Age of Artificial Intelligence* (Hardcover) by Max Tegmark",
+        "The future of #digital is #AI!",
+        "#Bitcoin could be the universal currency 'literally' I highly recommend you buy 'Life3.0 Being Human in Age of #AI'",
+        "#Books #Good_to_Read Life 3.0: Being Human in the Age of Artificial Intelligence Book by Max Tegmark"
+      ],
+      "uri": "http://books.google.com/books?id=qoJ2AQAACAAJ&hl=&source=gbs_api",
+      "isbns": [
+        "9780241237199"
+      ],
+      "cohorts": {
+        "pub": 20,
+        "sci": 2
+      },
+      "authors": [
+        "Max Tegmark"
+      ],
+      "authors_or_editors": [
+        "Max Tegmark"
+      ],
+      "type": "book",
+      "attribution": "Google Books",
+      "altmetric_id": 24211750,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 108,
+      "cited_by_msm_count": 4,
+      "cited_by_book_reviews_count": 1,
+      "cited_by_feeds_count": 1,
+      "cited_by_tweeters_count": 22,
+      "cited_by_accounts_count": 28,
+      "last_updated": 1535135418,
+      "score": 70.604,
+      "history": {
+        "1y": 52.1,
+        "6m": 36.4,
+        "3m": 16.55,
+        "1m": 13,
+        "1w": 0.5,
+        "6d": 0.5,
+        "5d": 0.5,
+        "4d": 0.5,
+        "3d": 0.5,
+        "2d": 0.5,
+        "1d": 0.5,
+        "at": 70.604
+      },
+      "url": "https://bookshop.theguardian.com/life-3-0.html",
+      "added_on": 1503478319,
+      "published_on": 1503964800,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=71&types=mmbkkttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=71&types=mmbkkttt",
+        "large": "https://badges.altmetric.com/?size=180&score=71&types=mmbkkttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=24211750"
+    },
+    {
+      "title": "The future of artificial intelligence: two experts disagree",
+      "tq": [
+        "Very good perspectives – talk about #AI.",
+        "Interesting debate on the future of #AI. One thing we agree on, #securityguardrobots are part of the future",
+        "The future of #AI: two experts disagree #QUT's @maththrills UQ's Peter Stratton @ConversationEDU @UQ_News",
+        "The future of #artificialintelligence: two experts disagree - super interesting conversation",
+        "Thought-provoking article on the future of AI co-written by QUT's"
+      ],
+      "uri": "http://theconversation.com/the-future-of-artificial-intelligence-two-experts-disagree-79904",
+      "isbns": [],
+      "altmetric_jid": "theconversation",
+      "issns": [],
+      "journal": "The Conversation",
+      "cohorts": {
+        "pub": 376,
+        "sci": 33,
+        "doc": 5,
+        "com": 12
+      },
+      "abstract": "Not everyone agrees on how artificial intelligence will change the way we live. But it's not all doom and gloom either.",
+      "context": {
+        "all": {
+          "count": 11652092,
+          "mean": 7.4267637248842,
+          "rank": 22249,
+          "pct": 99,
+          "higher_than": 11630067
+        },
+        "journal": {
+          "count": 62204,
+          "mean": 69.368552513544,
+          "rank": 966,
+          "pct": 98,
+          "higher_than": 61238
+        },
+        "similar_age_3m": {
+          "count": 235872,
+          "mean": 13.897046122669,
+          "rank": 1318,
+          "pct": 99,
+          "higher_than": 234554
+        },
+        "similar_age_journal_3m": {
+          "count": 3806,
+          "mean": 104.93787700394,
+          "rank": 121,
+          "pct": 96,
+          "higher_than": 3685
+        }
+      },
+      "authors": [
+        "Michael Milford",
+        "Peter Stratton"
+      ],
+      "type": "news",
+      "handles": [],
+      "altmetric_id": 21991650,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 524,
+      "cited_by_msm_count": 4,
+      "cited_by_feeds_count": 1,
+      "cited_by_tweeters_count": 426,
+      "cited_by_fbwalls_count": 13,
+      "cited_by_gplus_count": 3,
+      "cited_by_rdts_count": 2,
+      "cited_by_accounts_count": 449,
+      "last_updated": 1535130103,
+      "score": 376.608,
+      "history": {
+        "1y": 41.7,
+        "6m": 24.5,
+        "3m": 24.5,
+        "1m": 0.5,
+        "1w": 0.5,
+        "6d": 0.5,
+        "5d": 0.5,
+        "4d": 0.5,
+        "3d": 0.5,
+        "2d": 0.5,
+        "1d": 0.5,
+        "at": 376.608
+      },
+      "url": "http://theconversation.com/the-future-of-artificial-intelligence-two-experts-disagree-79904",
+      "added_on": 1500270924,
+      "published_on": 1500249600,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=377&types=mbrtttfg",
+        "medium": "https://badges.altmetric.com/?size=100&score=377&types=mbrtttfg",
+        "large": "https://badges.altmetric.com/?size=180&score=377&types=mbrtttfg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=21991650"
+    },
+    {
+      "title": "What an artificial intelligence researcher fears about AI",
+      "tq": [
+        "Should We Fear the Rise of Intelligent Robots?",
+        "As an AI expert, what do I fear about artificial intelligence?",
+        "It's the human we need to be afraid of more than the #AI itself. Be afraid of Elon Musk, not the machine.",
+        "An AI researcher explains what scares him the most about robots",
+        "What makes #AI researcher"
+      ],
+      "uri": "http://theconversation.com/what-an-artificial-intelligence-researcher-fears-about-ai-78655",
+      "isbns": [],
+      "altmetric_jid": "theconversation",
+      "issns": [],
+      "journal": "The Conversation",
+      "cohorts": {
+        "pub": 393,
+        "com": 16,
+        "sci": 38,
+        "doc": 4
+      },
+      "abstract": "He spends his days developing artificial intelligence systems. What about AI keeps him up at night?",
+      "context": {
+        "all": {
+          "count": 11653506,
+          "mean": 7.4278402655555,
+          "rank": 7641,
+          "pct": 99,
+          "higher_than": 11645988
+        },
+        "journal": {
+          "count": 62207,
+          "mean": 69.376791659969,
+          "rank": 258,
+          "pct": 99,
+          "higher_than": 61949
+        },
+        "similar_age_3m": {
+          "count": 262949,
+          "mean": 13.395538836576,
+          "rank": 505,
+          "pct": 99,
+          "higher_than": 262444
+        },
+        "similar_age_journal_3m": {
+          "count": 3818,
+          "mean": 104.82025517422,
+          "rank": 41,
+          "pct": 98,
+          "higher_than": 3777
+        }
+      },
+      "authors": [
+        "Arend Hintze"
+      ],
+      "type": "news",
+      "handles": [],
+      "altmetric_id": 21872274,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 590,
+      "cited_by_msm_count": 32,
+      "cited_by_feeds_count": 4,
+      "cited_by_tweeters_count": 451,
+      "cited_by_fbwalls_count": 7,
+      "cited_by_gplus_count": 7,
+      "cited_by_rdts_count": 2,
+      "cited_by_accounts_count": 503,
+      "last_updated": 1535154734,
+      "score": 626.12,
+      "history": {
+        "1y": 193.84,
+        "6m": 11.8,
+        "3m": 2.5,
+        "1m": 0.5,
+        "1w": 0.5,
+        "6d": 0.5,
+        "5d": 0.5,
+        "4d": 0.5,
+        "3d": 0.5,
+        "2d": 0.5,
+        "1d": 0.5,
+        "at": 626.12
+      },
+      "url": "http://theconversation.com/what-an-artificial-intelligence-researcher-fears-about-ai-78655",
+      "added_on": 1500001611,
+      "published_on": 1499990400,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=627&types=mbrtttfg",
+        "medium": "https://badges.altmetric.com/?size=100&score=627&types=mbrtttfg",
+        "large": "https://badges.altmetric.com/?size=180&score=627&types=mbrtttfg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=21872274"
+    },
+    {
+      "title": "Artificial Intelligence Is Already Weirdly Inhuman",
+      "uri": "http://nautil.us/issue/27/dark-matter/artificial-intelligence-is-already-weirdly-inhuman",
+      "isbns": [],
+      "altmetric_jid": "nautilus",
+      "issns": [],
+      "journal": "Nautilus",
+      "cohorts": {
+        "pub": 2
+      },
+      "context": {
+        "all": {
+          "count": 11649222,
+          "mean": 7.425477590463,
+          "rank": 671102,
+          "pct": 94,
+          "higher_than": 10978120
+        },
+        "journal": {
+          "count": 1935,
+          "mean": 15.905488107549,
+          "rank": 471,
+          "pct": 75,
+          "higher_than": 1464
+        },
+        "similar_age_3m": {
+          "count": 265572,
+          "mean": 13.358461202465,
+          "rank": 28592,
+          "pct": 89,
+          "higher_than": 236980
+        },
+        "similar_age_journal_3m": {
+          "count": 164,
+          "mean": 12.988085889571,
+          "rank": 37,
+          "pct": 77,
+          "higher_than": 127
+        }
+      },
+      "authors": [
+        "David Berreby"
+      ],
+      "type": "article",
+      "altmetric_id": 18599908,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 8,
+      "cited_by_feeds_count": 2,
+      "cited_by_tweeters_count": 2,
+      "cited_by_gplus_count": 4,
+      "cited_by_accounts_count": 8,
+      "last_updated": 1535094048,
+      "score": 17.76,
+      "history": {
+        "1y": 1,
+        "6m": 1,
+        "3m": 1,
+        "1m": 1,
+        "1w": 1,
+        "6d": 1,
+        "5d": 1,
+        "4d": 0.5,
+        "3d": 0.5,
+        "2d": 0.5,
+        "1d": 0.5,
+        "at": 17.76
+      },
+      "url": "http://nautil.us/issue/27/dark-matter/artificial-intelligence-is-already-weirdly-inhuman",
+      "added_on": 1491580504,
+      "published_on": 1438819200,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=18&types=bbttgggg",
+        "medium": "https://badges.altmetric.com/?size=100&score=18&types=bbttgggg",
+        "large": "https://badges.altmetric.com/?size=180&score=18&types=bbttgggg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=18599908"
+    },
+    {
+      "title": "How understanding animals can help us make the most of artificial intelligence",
+      "tq": [
+        "understanding animals can help us make the most of artificial intelligence",
+        "How intelligent is the artificial intelligence that driverless cars rely on? #AI #tech cc",
+        "How understanding animals could be the key to #AI",
+        "Have a pet? You already understand how #AI works. Good news for animal lovers like us, we're 1 step ahead!",
+        "Maybe techniques for training dogs can give us insight in how to approach artificial intelligence"
+      ],
+      "uri": "http://theconversation.com/how-understanding-animals-can-help-us-make-the-most-of-artificial-intelligence-74742",
+      "altmetric_jid": "theconversation",
+      "journal": "The Conversation",
+      "cohorts": {
+        "pub": 176,
+        "sci": 14,
+        "com": 6,
+        "doc": 2
+      },
+      "abstract": "A former animal trainer explains how we might usefully think about the limitations of artificial intelligence systems.",
+      "context": {
+        "all": {
+          "count": 11653629,
+          "mean": 7.4277153341305,
+          "rank": 39848,
+          "pct": 99,
+          "higher_than": 11613926
+        },
+        "journal": {
+          "count": 62207,
+          "mean": 69.380790791885,
+          "rank": 2655,
+          "pct": 95,
+          "higher_than": 59552
+        },
+        "similar_age_3m": {
+          "count": 264132,
+          "mean": 13.460682441667,
+          "rank": 2457,
+          "pct": 99,
+          "higher_than": 261675
+        },
+        "similar_age_journal_3m": {
+          "count": 3896,
+          "mean": 97.409622079589,
+          "rank": 289,
+          "pct": 92,
+          "higher_than": 3607
+        }
+      },
+      "type": "news",
+      "altmetric_id": 18331563,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 272,
+      "cited_by_msm_count": 10,
+      "cited_by_feeds_count": 1,
+      "cited_by_tweeters_count": 198,
+      "cited_by_fbwalls_count": 6,
+      "cited_by_gplus_count": 5,
+      "cited_by_accounts_count": 220,
+      "last_updated": 1535157678,
+      "score": 242.468,
+      "history": {
+        "1y": 8.95,
+        "6m": 2.5,
+        "3m": 2.5,
+        "1m": 2.5,
+        "1w": 0.5,
+        "6d": 0.5,
+        "5d": 0.5,
+        "4d": 0.5,
+        "3d": 0.5,
+        "2d": 0.5,
+        "1d": 0.5,
+        "at": 242.468
+      },
+      "url": "http://theconversation.com/how-understanding-animals-can-help-us-make-the-most-of-artificial-intelligence-74742",
+      "added_on": 1490926125,
+      "published_on": 1490918400,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=243&types=mbttttfg",
+        "medium": "https://badges.altmetric.com/?size=100&score=243&types=mbttttfg",
+        "large": "https://badges.altmetric.com/?size=180&score=243&types=mbttttfg"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=18331563"
+    },
+    {
+      "title": "Model-Aided Wireless Artificial Intelligence: Embedding Expert Knowledge\n  in Deep Neural Networks Towards Wireless Systems Optimization",
+      "arxiv_id": "1808.01672",
+      "tq": [
+        "Model-Aided Wireless Artificial Intelligence: Embedding Expert Knowledge in Deep Neural Networks Towards Wireless Systems Optimization. Alessio Zappone, Marco Di Renzo, Mérouane Debbah, Thanh Tu Lam, and Xuewen Qian",
+        "Alessio Zappone, Marco Di Renzo, Mérouane Debbah, Thanh Tu Lam, Xuewen Qian : Model-Aided Wireless Artificial Intelligence: Embedding Expert Knowledge in Deep Neural Networks Towards Wireless Systems Optimization",
+        "Model-Aided Wireless Artificial Intelligence: Embedding Expert Knowledge in Deep Neural Networks Towards Wireless Sy"
+      ],
+      "altmetric_jid": "arxiv",
+      "journal": "arXiv",
+      "cohorts": {
+        "pub": 9
+      },
+      "context": {
+        "all": {
+          "count": 11653506,
+          "mean": 7.4278402655555,
+          "rank": 5863193,
+          "pct": 49,
+          "higher_than": 5745260
+        },
+        "journal": {
+          "count": 584682,
+          "mean": 2.9707430923872,
+          "rank": 87481,
+          "pct": 84,
+          "higher_than": 495533
+        },
+        "similar_age_3m": {
+          "count": 158819,
+          "mean": 12.22907374479,
+          "rank": 57426,
+          "pct": 63,
+          "higher_than": 100244
+        },
+        "similar_age_journal_3m": {
+          "count": 21180,
+          "mean": 4.1217438972567,
+          "rank": 5036,
+          "pct": 75,
+          "higher_than": 16036
+        }
+      },
+      "authors": [
+        "Alessio Zappone",
+        "Marco Di Renzo",
+        "Mérouane Debbah",
+        "Thanh Tu Lam",
+        "Xuewen Qian"
+      ],
+      "type": "article",
+      "altmetric_id": 46179776,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "cited_by_posts_count": 9,
+      "cited_by_tweeters_count": 9,
+      "cited_by_accounts_count": 9,
+      "last_updated": 1535154289,
+      "score": 2.85,
+      "history": {
+        "1y": 2.85,
+        "6m": 2.85,
+        "3m": 2.85,
+        "1m": 2.85,
+        "1w": 0.25,
+        "6d": 0.25,
+        "5d": 0.25,
+        "4d": 0.25,
+        "3d": 0.25,
+        "2d": 0.25,
+        "1d": 0.25,
+        "at": 2.85
+      },
+      "url": "https://arxiv.org/abs/1808.01672",
+      "added_on": 1533603712,
+      "published_on": 1533495621,
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 0,
+        "connotea": 0
+      },
+      "readers_count": 0,
+      "downloads": [],
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=3&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=3&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=3&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=46179776"
+    },
+    {
+      "title": "Machine learning & artificial intelligence in the quantum domain: a review of recent progress",
+      "doi": "10.1088/1361-6633/aab406",
+      "pmid": "29504942",
+      "tq": [
+        "#Machine_Learning #Artificial_Intelligence in the Quantum domain: a Review of recent Progress #AI #ML",
+        "#review on Machine learning and artificial intelligence in the quantum domain - in #RepProgPhys",
+        "Machine learning artificial intelligence in the quantum domain: a review of recent progress",
+        "#AcceptedManuscript Machine learning artificial intelligence in the quantum domain: a review of recent progress in Reports on Progress in Physics our dedicated reviews journal #RepProgPhys"
+      ],
+      "isbns": [],
+      "altmetric_jid": "4f6fa5133cf058f610003457",
+      "issns": [
+        "0034-4885",
+        "1361-6633"
+      ],
+      "journal": "Reports on Progress in Physics",
+      "cohorts": {
+        "pub": 6,
+        "sci": 1
+      },
+      "abstract": "Quantum information technologies, on the one side, and intelligent learning&#13; systems, on the other, are both emergent technologies that will likely have a&#13; transforming impact on our society in the future.&#13; The respective underlying fields of basic research -- quantum information (QI) versus&#13; machine learning and artificial intelligence (AI)&#13; -- have their own specific questions and challenges, which have hitherto been&#13; investigated largely independently. However, in a growing body of recent work,&#13; researchers have been probing the question to what extent these fields can indeed&#13; learn and benefit from each other. QML explores the interaction between quantum&#13; computing and machine learning, investigating how results and techniques from one&#13; field can be used to solve the problems of the other. In recent time, we have&#13; witnessed significant breakthroughs in both directions of influence. For instance,&#13; quantum computing is finding a vital application in providing speed-ups for machine&#13; learning problems, critical in our ``big data'' world. Conversely, machine learning&#13; already permeates many cutting-edge technologies, and may become instrumental in&#13; advanced quantum technologies. Aside from quantum speed-up in data analysis, or&#13; classical machine learning optimization used in quantum experiments, quantum&#13; enhancements have also been (theoretically) demonstrated for interactive learning&#13; tasks, highlighting the potential of quantum-enhanced learning agents. Finally,&#13; works exploring the use of artificial intelligence for the very design of quantum&#13; experiments, and for performing parts of genuine research autonomously, have&#13; reported their first successes. Beyond the topics of mutual enhancement -- exploring what&#13; ML/AI can do for quantum physics, and vice versa -- researchers have also broached&#13; the fundamental issue of quantum generalizations of learning and AI concepts. This&#13; deals with questions of the very meaning of learning and intelligence in a world&#13; that is fully described by quantum mechanics. In this review, we describe the main&#13; ideas, recent developments, and progress in a broad spectrum of research&#13; investigating machine learning and artificial intelligence in the quantum domain.",
+      "context": {
+        "all": {
+          "count": 11649004,
+          "mean": 7.4254037623518,
+          "rank": 6004549,
+          "pct": 47,
+          "higher_than": 5573766
+        },
+        "journal": {
+          "count": 720,
+          "mean": 5.0314603616134,
+          "rank": 434,
+          "pct": 38,
+          "higher_than": 277
+        },
+        "similar_age_3m": {
+          "count": 244717,
+          "mean": 13.56704207326,
+          "rank": 97498,
+          "pct": 59,
+          "higher_than": 145329
+        },
+        "similar_age_journal_3m": {
+          "count": 19,
+          "mean": 2.0527777777778,
+          "rank": 6,
+          "pct": 68,
+          "higher_than": 13
+        }
+      },
+      "authors": [
+        "Vedran Dunjko",
+        "Hans J Briegel"
+      ],
+      "type": "article",
+      "handles": [],
+      "altmetric_id": 43592907,
+      "schema": "1.5.4",
+      "is_oa": false,
+      "publisher_subjects": [
+        {
+          "name": "Mathematical Sciences",
+          "scheme": "era"
+        },
+        {
+          "name": "Physical Sciences",
+          "scheme": "era"
+        }
+      ],
+      "cited_by_posts_count": 13,
+      "cited_by_tweeters_count": 7,
+      "cited_by_accounts_count": 7,
+      "last_updated": 1535090025,
+      "score": 2.5,
+      "history": {
+        "1y": 2.5,
+        "6m": 2.5,
+        "3m": 2.5,
+        "1m": 0.75,
+        "1w": 0.25,
+        "6d": 0.25,
+        "5d": 0.25,
+        "4d": 0.25,
+        "3d": 0.25,
+        "2d": 0.25,
+        "1d": 0.25,
+        "at": 2.5
+      },
+      "url": "http://dx.doi.org/10.1088/1361-6633/aab406",
+      "added_on": 1528726529,
+      "published_on": 1520208000,
+      "subjects": [
+        "biophysics"
+      ],
+      "scopus_subjects": [
+        "Physical Sciences",
+        "Physics and Astronomy"
+      ],
+      "readers": {
+        "citeulike": 0,
+        "mendeley": 64,
+        "connotea": 0
+      },
+      "readers_count": 64,
+      "images": {
+        "small": "https://badges.altmetric.com/?size=64&score=3&types=tttttttt",
+        "medium": "https://badges.altmetric.com/?size=100&score=3&types=tttttttt",
+        "large": "https://badges.altmetric.com/?size=180&score=3&types=tttttttt"
+      },
+      "details_url": "http://www.altmetric.com/details.php?citation_id=43592907"
+    }
+  ]
+}
