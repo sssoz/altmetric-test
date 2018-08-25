@@ -2,4 +2,41 @@
 
 {% block content %}
 <h2>KnowledgeTracker</h2>
+
+<form method="get">
+  {{ form }}
+  <button type="submit">search</button>
+</form>
+
+<hr/>
+
+{% if search_results %}
+<h3>{{ search_results.query.total }} results</h3>
+<ol>
+  {% for article in search_results.results %}
+  <li>
+    <h4><a href="{{ article.url }}" target="_blank">{{ article.title }}</a></h4>
+    <p>{{ article.type|title }} from <em>{{ article.journal }}</em></p>
+    {% if article.is_oa %}
+    <p><strong>Available in Open Access</strong></p>
+    {% endif %}
+    <ul>
+    {% for author in article.authors %}
+      <li>{{ author }}</li>
+    {% endfor %}
+    </ul>
+    <dl>
+      <dt>Published on</dt>
+      <dd>{{ article.published_on }}</dd>
+    </dl>
+    <p>
+      <a href="{{ article.details_url }}" title="View additional Altmetric data" target="_blank">
+        <img src="{{ article.images.medium }}" alt="Donut representation of this article’s Altmetric Attention Score: {{ article.score }}"/>
+      </a>
+    </p>
+  </li>
+  {% endfor %}
+</ol>
+{% endif %}
+
 {% endblock %}
