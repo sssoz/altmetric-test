@@ -5,8 +5,10 @@
 <h2>KnowledgeTracker</h2>
 
 <form method="get">
-  {{ form }}
-  <button type="submit">search</button>
+  {% for field in form %}
+  <label for="{{ field.id_for_label }}">{{ field.label }}</label> {{ field }}
+  {% endfor %}
+  <button type="submit">?</button>
 </form>
 
 <hr/>
