@@ -17,15 +17,10 @@
   {% for article in search_results.results|dictsortreversed:"score" %}
   <li>
     <h4><a href="{{ article.url }}" target="_blank">{{ article.title }}</a></h4>
-    <p>{{ article.type|title }} from <em>{{ article.journal }}</em></p>
+    <p>{{ article.type|title }}{% if article.journal %} from <em>{{ article.journal }}</em>{% endif %}</p>
     {% if article.is_oa %}
     <p><strong>Available in Open Access</strong></p>
     {% endif %}
-    <ul>
-    {% for author in article.authors %}
-      <li>{{ author }}</li>
-    {% endfor %}
-    </ul>
     <dl>
       <dt>Published on</dt>
       <dd>{{ article.published_on|print_timestamp }}</dd>
