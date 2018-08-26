@@ -12,10 +12,10 @@
 <hr/>
 
 {% if search_results %}
-<h3>{{ search_results.query.total }} results</h3>
-<ol>
+<section>
+  <h3>{{ search_results.query.total }} results for <strong>{{ request.GET.q }}</strong></h3>
   {% for article in search_results.results|dictsortreversed:"score" %}
-  <li>
+  <article>
     <h4><a href="{{ article.url }}" target="_blank">{{ article.title }}</a></h4>
     <p>{{ article.type|title }}{% if article.journal %} from <em>{{ article.journal }}</em>{% endif %}</p>
     {% if article.is_oa %}
@@ -30,11 +30,11 @@
         <img src="{{ article.images.medium }}" alt="Donut representation of this article’s Altmetric Attention Score: {{ article.score }}"/>
       </a>
     </p>
-  </li>
+  </article>
   {% empty %}
   {{ search_results.message }}
   {% endfor %}
-</ol>
+</section>
 {% endif %}
 
 {% endblock %}
