@@ -2,10 +2,14 @@
 {% load timestamps %}
 
 {% block content %}
-<h2>KnowledgeTracker</h2>
+<h2>KnowledgeTracker <sup><a href="#" title="What’s this?">?</a></sup></h2>
 
 <form method="get">
-  {% for field in form %}
+  {% for hidden_field in form.hidden_fields %}
+  {{ hidden_field }}
+  {% endfor %}
+
+  {% for field in form.visible_fields %}
   <label for="{{ field.id_for_label }}">{{ field.label }}</label> {{ field }}
   {% endfor %}
   <button type="submit">?</button>
@@ -13,15 +17,26 @@
 
 <hr/>
 
+{# Get number of pages for this query #}
+{% widthratio search_results.query.total search_results.query.num_results 1 as page_number %}
+
 {% if search_results %}
-<section>
-  <h3>{{ search_results.query.total }} results for <strong>{{ request.GET.q }}</strong></h3>
+<section class="results">
+  <h3 class="results__title">{{ search_results.query.total }} results for <strong>{{ request.GET.q }}</strong></h3>
+
   {% for article in search_results.results|dictsortreversed:"score" %}
-  <article>
-    <h4><a href="{{ article.url }}" target="_blank">{{ article.title }}</a></h4>
-    <p>{{ article.type|title }}{% if article.journal %} from <em>{{ article.journal }}</em>{% endif %}</p>
+  <article class="article">
+    <h4 class="article__title">
+      <a href="{{ article.url }}" target="_blank">{{ article.title }}</a>
+    </h4>
+    <p>
+      {{ article.type|title }}
+      {% if article.journal %} from <em>{{ article.journal|safe }}</em>{% endif %}
+    </p>
     {% if article.is_oa %}
-    <p><strong>Available in Open Access</strong></p>
+    <p>
+      <strong>Available in Open Access</strong>
+    </p>
     {% endif %}
     <dl>
       <dt>Published on</dt>
@@ -35,6 +50,13 @@
   </article>
   {% empty %}
   {{ search_results.message }}
+  {% endfor %}
+  {% for i in x|ljust:page_number %}
+  <nav>
+  {% if not forloop.first %}
+    <a class="" href="{{ request.get_full_path }}&page={{ forloop.counter }}">{{ forloop.counter }}</a>
+  {% endif %}
+  </nav>
   {% endfor %}
 </section>
 {% endif %}
