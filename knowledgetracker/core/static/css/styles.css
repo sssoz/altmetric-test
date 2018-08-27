@@ -4,6 +4,9 @@ body {
   font-family: 'Rubik', sans-serif;
   font-size: 18px;
   line-height: 1.15;
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
 }
 
 h1 {
@@ -193,6 +196,12 @@ button:focus {
 .modal-content a {
   color: #FFF;
   font-weight: 500;
+}
+
+.modal-content a:hover,
+.modal-content a:focus,
+.modal-content a:active {
+  color: rgba(255, 255, 255, 0.5);
 }
 
 .modal-content img {
