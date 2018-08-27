@@ -147,8 +147,21 @@ button:focus {
   font-size: 1em;
 }
 
-.article__score-img {
+.article__score-figure {
   margin-top: 1rem;
+}
+
+.article__score-link:hover:before {
+  display: inline-block;
+  position: absolute;
+  height: 64px;
+  width: 64px;
+  content: attr(data-more);
+  background: rgba(255, 243, 242, 0.75);
+  color: #454545;
+  font-size: small;
+  text-align: center;
+  line-height: 64px;
 }
 
 .page-nav {

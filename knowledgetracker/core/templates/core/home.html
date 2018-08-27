@@ -54,8 +54,8 @@
         {% endif %}
 
         <h4 class="sr-only">More information</h4>
-        <figure class="article__score-img">
-          <a href="{{ article.details_url }}" title="View additional Altmetric data" target="_blank" rel="noopener">
+        <figure class="article__score-figure">
+          <a href="{{ article.details_url }}" title="View additional Altmetric data" target="_blank" rel="noopener" class="article__score-link" data-more="More info">
             <img src="{{ article.images.small }}" alt="Donut representation of this article’s Altmetric Attention Score: {{ article.score }}"/>
           </a>
         </figure>
