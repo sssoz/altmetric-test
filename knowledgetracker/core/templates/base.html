@@ -1,26 +1,57 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <title>KnowledgeTracker — search trending scholarly content</title>
+
+    <meta name="application-name" content="KnowledgeTracker">
+    <meta name="theme-color" content="#000">
+    <meta name="description" content="Search scholarly works recently mentioned across the social web.">
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
-
-    <title>KnowledgeTracker — Altmetric</title>
-
   </head>
   <body>
     <header>
-      <h1><a href="https://www.altmetric.com" title="Go to Altmetric’s homepage" target="_blank">Altmetric</a></h1>
+      <h1>KnowledgeTracker <sup><a href="#" data-toggle="modal" data-target="#moreInfo" title="What’s this?">?</a></sup></h1>
     </header>
+
     <main>
       {% block content %}{% endblock %}
     </main>
+
+    <!-- Altmetric detailed description modal -->
+    <section class="modal fade" id="moreInfo" tabindex="-1" role="dialog" aria-labelledby="moreInfo" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-body">
+            <h3>What’s this?</h3>
+            <p><strong>KnowledgeTracker</strong> allows searches of scholarly works recently mentioned across the social web: policy documents, <a href="https://www.altmetric.com/about-our-data/our-sources/news/" target="_blank">mainstream media</a>, blogs, online reference managers, post-publication peer-review forums, social media, patent citations and <a href="https://help.altmetric.com/support/solutions/articles/6000060968-what-outputs-and-sources-does-altmetric-track-" target="_blank">other online sources</a>. It is based on <a href="https://www.altmetric.com" target="_blank">Altmetric</a>’s data.</p>
+            <h4>What’s Altmetric?</h4>
+            <p>Altmetrics data is provided by <strong><a href="https://www.altmetric.com" target="_blank">Altmetric.com</a></strong>, a research metrics company who track and collect the online conversations around millions of scholarly outputs. Altmetric continually monitors a variety of non-traditional <a href="https://www.altmetric.com/about-altmetrics/our-sources/" target="_blank">sources</a> to provide real-time updates on new mentions and shares of individual research outputs, which are collated and presented to users via the Altmetric <a href="https://www.altmetric.com/about-altmetrics/altmetric-details-page/" target="_blank">details pages</a> and <a href="https://www.altmetric.com/products/altmetric-badges/" target="_blank">badge visualisations</a>. Each research output that Altmetric finds attention for is also given a score; a weighted count of the online attention it has received. Further information about how the Altmetric Attention Score is calculated is available <a href="https://www.altmetric.com/about-altmetrics/the-donut-and-score/" target="_blank">here</a>.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+
+    <!-- Infinite Scroll -->
+    <script src="https://unpkg.com/infinite-scroll@3/dist/infinite-scroll.pkgd.min.js"></script>
+
+    <script>
+    $('.results').infiniteScroll({
+      // options
+      path: '.pagination__next',
+      append: '.article',
+      history: false,
+    });
+    </script>
+
   </body>
 </html>

@@ -2,8 +2,6 @@
 {% load timestamps %}
 
 {% block content %}
-<h2>KnowledgeTracker <sup><a href="#" title="What’s this?">?</a></sup></h2>
-
 <form method="get">
   {% for hidden_field in form.hidden_fields %}
   {{ hidden_field }}
@@ -22,13 +20,13 @@
 
 {% if search_results %}
 <section class="results">
-  <h3 class="results__title">{{ search_results.query.total }} results for <strong>{{ request.GET.q }}</strong></h3>
+  <h2 class="results__title">{{ search_results.query.total }} results for <strong>{{ request.GET.q }}</strong></h2>
 
   {% for article in search_results.results|dictsortreversed:"score" %}
   <article class="article">
-    <h4 class="article__title">
+    <h3 class="article__title">
       <a href="{{ article.url }}" target="_blank">{{ article.title }}</a>
-    </h4>
+    </h3>
     <p>
       {{ article.type|title }}
       {% if article.journal %} from <em>{{ article.journal|safe }}</em>{% endif %}
