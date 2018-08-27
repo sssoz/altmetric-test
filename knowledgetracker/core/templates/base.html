@@ -1,10 +1,11 @@
 <!doctype html>
+{% load static %}
 <html lang="en">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>KnowledgeTracker — search trending scholarly content</title>
+    <title>KnowledgeTracker — {% block title %}Search trending scholarly content{% endblock %}</title>
 
     <meta name="application-name" content="KnowledgeTracker">
     <meta name="theme-color" content="#000">
@@ -12,13 +13,21 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+    <!-- Google Font: Rubik -->
+    <link href="https://fonts.googleapis.com/css?family=Rubik:400,400i,500,500i" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="{% static 'css/styles.css' %}" rel="stylesheet">
   </head>
   <body>
-    <header class="container">
-      <h1>KnowledgeTracker <sup><a href="#" data-toggle="modal" data-target="#moreInfo" title="What’s this?">?</a></sup></h1>
+    <header class="header">
+      <div class="container">
+        <h1 class="header__title">KnowledgeTracker<sup><a href="#" data-toggle="modal" data-target="#moreInfo" title="What’s this?"><ion-icon name="ios-help-circle-outline" size="large"></ion-icon></a></sup></h1>
+      </div>
     </header>
 
-    <main class="container">
+    <main>
       {% block content %}{% endblock %}
     </main>
 
@@ -27,10 +36,21 @@
       <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
           <div class="modal-body">
-            <h3>What’s this?</h3>
-            <p><strong>KnowledgeTracker</strong> allows searches of scholarly works recently mentioned across the social web: policy documents, <a href="https://www.altmetric.com/about-our-data/our-sources/news/" target="_blank">mainstream media</a>, blogs, online reference managers, post-publication peer-review forums, social media, patent citations and <a href="https://help.altmetric.com/support/solutions/articles/6000060968-what-outputs-and-sources-does-altmetric-track-" target="_blank">other online sources</a>. It is based on <a href="https://www.altmetric.com" target="_blank">Altmetric</a>’s data.</p>
-            <h4>What’s Altmetric?</h4>
-            <p>Altmetrics data is provided by <strong><a href="https://www.altmetric.com" target="_blank">Altmetric.com</a></strong>, a research metrics company who track and collect the online conversations around millions of scholarly outputs. Altmetric continually monitors a variety of non-traditional <a href="https://www.altmetric.com/about-altmetrics/our-sources/" target="_blank">sources</a> to provide real-time updates on new mentions and shares of individual research outputs, which are collated and presented to users via the Altmetric <a href="https://www.altmetric.com/about-altmetrics/altmetric-details-page/" target="_blank">details pages</a> and <a href="https://www.altmetric.com/products/altmetric-badges/" target="_blank">badge visualisations</a>. Each research output that Altmetric finds attention for is also given a score; a weighted count of the online attention it has received. Further information about how the Altmetric Attention Score is calculated is available <a href="https://www.altmetric.com/about-altmetrics/the-donut-and-score/" target="_blank">here</a>.</p>
+            <header class="modal-header">
+              <h2>What’s this?</h2>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </header>
+            <p><em>KnowledgeTracker</em> retrieves scholarly works recently mentioned across the social web, using <a href="https://www.altmetric.com" target="_blank">Altmetric</a>’s data : policy documents, <a href="https://www.altmetric.com/about-our-data/our-sources/news/" target="_blank">mainstream media</a>, blogs, online reference managers, post-publication peer-review forums, social media, patent citations and <a href="https://help.altmetric.com/support/solutions/articles/6000060968-what-outputs-and-sources-does-altmetric-track-" target="_blank">other online sources</a>.</p>
+            <hr/>
+            <h3>What’s Altmetric?</h3>
+            <p>Altmetrics data is provided by <em><a href="https://www.altmetric.com" target="_blank">Altmetric.com</a></em>, a research metrics company who track and collect the online conversations around millions of scholarly outputs. Altmetric continually monitors a variety of non-traditional <a href="https://www.altmetric.com/about-altmetrics/our-sources/" target="_blank">sources</a> to provide real-time updates on new mentions and shares of individual research outputs, which are collated and presented to users via the Altmetric <a href="https://www.altmetric.com/about-altmetrics/altmetric-details-page/" target="_blank">details pages</a> and <a href="https://www.altmetric.com/products/altmetric-badges/" target="_blank">badge visualisations</a>. Each research output that Altmetric finds attention for is also given a score; a weighted count of the online attention it has received. Further information about how the Altmetric Attention Score is calculated is available <a href="https://www.altmetric.com/about-altmetrics/the-donut-and-score/" target="_blank">here</a>.</p>
+            <p>
+              <a href="https://www.altmetric.com" title="Go to Altmetric’s website" target="_blank">
+                <img src="{% static 'img/altmetric_logo.png' %}" alt="Almetric’s logo" class="img-fluid"/>
+              </a>
+            </p>
           </div>
         </div>
       </div>
@@ -41,17 +61,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
 
-    <!-- Infinite Scroll -->
-    <script src="https://unpkg.com/infinite-scroll@3/dist/infinite-scroll.pkgd.min.js"></script>
-
-    <script>
-    $('.results > .row').infiniteScroll({
-      // options
-      path: '.pagination__next',
-      append: '.article',
-      history: false,
-    });
-    </script>
+    <!-- Ionicons -->
+    <script src="https://unpkg.com/ionicons@4.4.1/dist/ionicons.js"></script>
 
   </body>
 </html>
