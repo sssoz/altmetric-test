@@ -14,11 +14,11 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
   </head>
   <body>
-    <header>
+    <header class="container">
       <h1>KnowledgeTracker <sup><a href="#" data-toggle="modal" data-target="#moreInfo" title="What’s this?">?</a></sup></h1>
     </header>
 
-    <main>
+    <main class="container">
       {% block content %}{% endblock %}
     </main>
 
@@ -45,7 +45,7 @@
     <script src="https://unpkg.com/infinite-scroll@3/dist/infinite-scroll.pkgd.min.js"></script>
 
     <script>
-    $('.results').infiniteScroll({
+    $('.results > .row').infiniteScroll({
       // options
       path: '.pagination__next',
       append: '.article',

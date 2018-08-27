@@ -13,49 +13,52 @@
   <button type="submit">?</button>
 </form>
 
-<hr/>
-
+{% if search_results %}
 {# Get number of pages for this query #}
 {% widthratio search_results.query.total search_results.query.num_results 1 as page_number %}
 
-{% if search_results %}
 <section class="results">
   <h2 class="results__title">{{ search_results.query.total }} results for <strong>{{ request.GET.q }}</strong></h2>
 
-  {% for article in search_results.results|dictsortreversed:"score" %}
-  <article class="article">
-    <h3 class="article__title">
-      <a href="{{ article.url }}" target="_blank">{{ article.title }}</a>
-    </h3>
-    <p>
-      {{ article.type|title }}
-      {% if article.journal %} from <em>{{ article.journal|safe }}</em>{% endif %}
-    </p>
-    {% if article.is_oa %}
-    <p>
-      <strong>Available in Open Access</strong>
-    </p>
-    {% endif %}
-    <dl>
-      <dt>Published on</dt>
-      <dd>{{ article.published_on|print_timestamp }}</dd>
-    </dl>
-    <p>
-      <a href="{{ article.details_url }}" title="View additional Altmetric data" target="_blank">
-        <img src="{{ article.images.medium }}" alt="Donut representation of this article’s Altmetric Attention Score: {{ article.score }}"/>
-      </a>
-    </p>
-  </article>
-  {% empty %}
-  {{ search_results.message }}
-  {% endfor %}
+  <div class="row">
+    {% for article in search_results.results|dictsortreversed:"score" %}
+    <article class="col-sm-6 col-md-4 col-lg-3 article">
+      <h3 class="article__title">
+        <a href="{{ article.url }}" target="_blank">{{ article.title }}</a>
+      </h3>
+      <p>
+        {{ article.type|title }}
+        {% if article.journal %} from <em>{{ article.journal|safe }}</em>{% endif %}
+      </p>
+      {% if article.is_oa %}
+      <p>
+        <strong>Available in Open Access</strong>
+      </p>
+      {% endif %}
+      <dl>
+        <dt>Published on</dt>
+        <dd>{{ article.published_on|print_timestamp }}</dd>
+      </dl>
+      <p>
+        <a href="{{ article.details_url }}" title="View additional Altmetric data" target="_blank">
+          <img src="{{ article.images.medium }}" alt="Donut representation of this article’s Altmetric Attention Score: {{ article.score }}"/>
+        </a>
+      </p>
+    </article>
+    {% empty %}
+    {{ search_results.message }}
+    {% endfor %}
+  </div>
+
+
+  {# Display pagination #}
+  <nav class="row">
   {% for i in x|ljust:page_number %}
-  <nav>
   {% if not forloop.first %}
     <a class="" href="{{ request.get_full_path }}&page={{ forloop.counter }}">{{ forloop.counter }}</a>
   {% endif %}
-  </nav>
   {% endfor %}
+  </nav>
 </section>
 {% endif %}
 
