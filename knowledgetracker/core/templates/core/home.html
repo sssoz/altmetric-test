@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 {% load timestamps static %}
 
-{% block title %}Currently trending on “{{ request.GET.q }}”{% endblock %}
+{% block title %}{% if request.GET.q %}on “{{ request.GET.q }}”{% endif %}{% endblock %}
 
 {% block content %}
 <section class="form">

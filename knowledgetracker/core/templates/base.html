@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <title>KnowledgeTracker — {% block title %}Search trending scholarly content{% endblock %}</title>
+    <title>KnowledgeTracker — Search trending scholarly works {% block title %}{% endblock %}</title>
 
     <meta name="application-name" content="KnowledgeTracker">
     <meta name="theme-color" content="#B47B76">
@@ -24,7 +24,14 @@
   <body>
     <header class="header">
       <div class="container">
-        <h1 class="header__title">KnowledgeTracker<sup><a href="#" data-toggle="modal" data-target="#moreInfo" title="What’s this?"><ion-icon name="ios-help-circle-outline" size="large"></ion-icon></a></sup></h1>
+        <h1 class="header__title">
+          <a href="{% url 'home' %}" title="Homepage">KnowledgeTracker</a>
+          <sup>
+            <a href="#" data-toggle="modal" data-target="#moreInfo" title="What’s this?">
+              <ion-icon name="ios-help-circle-outline" size="large"></ion-icon>
+            </a>
+          </sup>
+        </h1>
       </div>
     </header>
 
