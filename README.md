@@ -10,9 +10,9 @@ A mini web application for searching Altmetric’s API.
   git clone https://github.com/sssoz/altmetric-test.git
   cd altmetric-test
   ```  
-2. Create a virtualenv and activate it.
+2. Create a Python 3 virtualenv and activate it.
   ```
-  virtualenv env
+  virtualenv env -p python3
   . env/bin/activate
   ```
 3. Install the requirements:
