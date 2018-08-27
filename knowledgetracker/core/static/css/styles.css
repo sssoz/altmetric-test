@@ -56,14 +56,19 @@ a:active {
   text-decoration: none;
 }
 
+::selection {
+  background-color: #BC8E8A;;
+  color: #FFF;
+}
+
 /* General form styles */
 label {
-  margin-right: 0.5rem;
+  margin: 0 0.5rem 1.25rem 0;
 }
 
 input, select {
   height: 50px;
-  margin-right: 0.5rem;
+  margin: 0 0.5rem 1.25rem 0;
   background: transparent;
   border: 0;
   border-bottom: 2px solid #FFF;
@@ -90,6 +95,7 @@ select {
 }
 
 button {
+  margin-bottom: 1.25rem;
   cursor: pointer;
   background-color: transparent;
   vertical-align: bottom;
