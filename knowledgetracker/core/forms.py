@@ -43,7 +43,7 @@ class KnowledgeTrackerForm(forms.Form):
         url = endpoint.format(
             tf=timeframe,
             q=q,
-            num_results=24,
+            num_results=60,
             p=page,
             order_by='at_score',
         )

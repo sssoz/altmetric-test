@@ -137,6 +137,10 @@ button:focus {
   font-size: 1em;
 }
 
+.results__section_is-empty {
+  height: 35vh;
+}
+
 .article {
   margin: 5vh 0 10vh 0;
   padding-right: 2.5vw;
@@ -164,7 +168,12 @@ button:focus {
   line-height: 64px;
 }
 
-.page-nav {
+.page-nav__title {
+  color: #B47B76;
+  font-size: 1em;
+}
+
+.page-nav__list {
   padding: 0;
   margin: 0;
   list-style: none;
@@ -175,7 +184,22 @@ button:focus {
 }
 
 .page-nav__link {
+  display: inline-block;
+  margin: 0 0.25em 0.5em 0;
+  width: 40px;
+  height: 40px;
+  background-color: #B47B76;
+  color: #FFF;
+  text-align: center;
+  line-height: 40px;
+}
 
+.page-nav__link:hover,
+.page-nav__link:focus,
+.page-nav__link:active,
+.page-nav__link_is-active {
+  background-color: #454545;
+  color: #FFF;
 }
 
 /* Bootstrap modals */
@@ -224,7 +248,7 @@ button:focus {
 }
 
 .modal-content img {
-  width: 15%;
+  width: 7.5vw;
 }
 
 .modal-content hr {

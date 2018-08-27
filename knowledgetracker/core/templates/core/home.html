@@ -28,7 +28,10 @@
 <section class="results">
   <div class="container">
     {% if search_results.results %}
-    <h2 class="results__title">{{ search_results.query.total }} results for <strong>{{ request.GET.q }}</strong></h2>
+    <h2 class="results__title">
+      {% if page_number|add:"0" > 1 %}Page {{ request.GET.page }} of {% endif %}
+      <strong>{{ search_results.query.total }}</strong> results for <strong>{{ request.GET.q }}</strong>
+    </h2>
     <p>
       <small>Click the <a href="#" data-toggle="modal" data-target="#moreInfo" title="What’s this?"><img src="{% static 'img/donut.png' %}" alt="Image of the Altmetric donut"/> <strong>badge</strong></a> to view additional data about each article.</small>
     </p>
@@ -72,6 +75,20 @@
       {% endfor %}
 
     </div>
+
+    {# Very hacky way to display pagination #}
+    {% if page_number|add:"0" > 1 %}
+    <nav aria-label="pageNavigation" class="page-nav">
+      <h3 class="page-nav__title">Page navigation</h3>
+      <ul class="page-nav__list">
+      {% for i in x|ljust:page_number %}
+        <li class="page-nav__item">
+          <a href="{{ request.get_full_path }}&page={{ forloop.counter }}" class="page-nav__link">{{ forloop.counter }}</a>
+        </li>
+      {% endfor %}
+      </ul>
+    </nav>
+    {% endif %}
   </div>
 </section>
 {% endif %}

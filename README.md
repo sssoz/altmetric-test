@@ -33,7 +33,7 @@ A mini web application for searching Altmetric’s API.
 
 ## Todo
 
-- [ ] Pagination: either use infinite scroll or display page navigation widget
+- [x] Pagination: ~~either use infinite scroll or~~ display page navigation widget
 - [ ] Use SASS as CSS pre-processor and minify CSS output
 - [ ] Declare SASS variables for colour palette and typography
 - [ ] Break up and organise CSS into separate files
