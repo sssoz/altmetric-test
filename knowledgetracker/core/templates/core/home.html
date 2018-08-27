@@ -41,13 +41,16 @@
 
       {% for article in search_results.results|dictsortreversed:"score" %}
       <article class="col-sm-6 col-md-4 col-lg-3 article">
+
+        {% if article.journal or article.type %}
         <small>
-          {{ article.type|title }}
+          {% if article.type %}{{ article.type|title }}{% endif %}
           {% if article.journal %} from <em>{{ article.journal|safe }}</em>{% endif %}
         </small>
+        {% endif %}
 
         <h3 class="article__title">
-          <a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title }}</a>
+          <a href="{{ article.url }}" title="Visit original source" target="_blank" rel="noopener">{{ article.title }}</a>
         </h3>
 
         {% if article.published_on %}
@@ -56,12 +59,14 @@
         </small>
         {% endif %}
 
+        {% if article.images %}
         <h4 class="sr-only">More information</h4>
         <figure class="article__score-figure">
           <a href="{{ article.details_url }}" title="View additional Altmetric data" target="_blank" rel="noopener" class="article__score-link" data-more="More info">
             <img src="{{ article.images.small }}" alt="Donut representation of this article’s Altmetric Attention Score: {{ article.score }}"/>
           </a>
         </figure>
+        {% endif %}
 
         {% if article.is_oa %}
         <p>
@@ -71,7 +76,10 @@
       </article>
 
       {% empty %}
-      <h2 class="col-sm-12">{{ search_results.message|safe }}</h2>
+      <section class="col-sm-12 results__section_is-empty">
+        <h2>{{ search_results.message|safe }}</h2>
+      </section>
+
       {% endfor %}
 
     </div>
@@ -83,7 +91,7 @@
       <ul class="page-nav__list">
       {% for i in x|ljust:page_number %}
         <li class="page-nav__item">
-          <a href="{{ request.get_full_path }}&page={{ forloop.counter }}" class="page-nav__link">{{ forloop.counter }}</a>
+          <a href="{{ request.get_full_path }}&page={{ forloop.counter }}" class="page-nav__link{% if request.GET.page|add:"0" == forloop.counter %} page-nav__link_is-active{% endif %}">{{ forloop.counter }}</a>
         </li>
       {% endfor %}
       </ul>
