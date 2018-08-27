@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="10px" viewBox="0 0 18 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>caret</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="caret" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M8.70466321,7 L15.2849741,0.414507772 C15.7720207,-0.0725388601 16.5595855,-0.0725388601 17.0414508,0.414507772 C17.5233161,0.901554404 17.5233161,1.68911917 17.0414508,2.1761658 L9.58549223,9.6373057 C9.11398964,10.1088083 8.35751295,10.119171 7.87046632,9.67357513 L0.362694301,2.18134715 C0.119170984,1.93782383 0,1.61658031 0,1.30051813 C0,0.984455959 0.119170984,0.663212435 0.362694301,0.419689119 C0.849740933,-0.067357513 1.6373057,-0.067357513 2.11917098,0.419689119 L8.70466321,7 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
