@@ -8,7 +8,7 @@
     <title>KnowledgeTracker — {% block title %}Search trending scholarly content{% endblock %}</title>
 
     <meta name="application-name" content="KnowledgeTracker">
-    <meta name="theme-color" content="#000">
+    <meta name="theme-color" content="#B47B76">
     <meta name="description" content="Search scholarly works recently mentioned across the social web.">
 
     <link rel="shortcut icon" type="image/png" href="{% static '/img/favicon.ico' %}?ver=1"/>
@@ -43,12 +43,16 @@
                 <span aria-hidden="true">&times;</span>
               </button>
             </header>
-            <p><em>KnowledgeTracker</em> retrieves scholarly works recently mentioned across the social web, using <a href="https://www.altmetric.com" target="_blank">Altmetric</a>’s data : policy documents, <a href="https://www.altmetric.com/about-our-data/our-sources/news/" target="_blank">mainstream media</a>, blogs, online reference managers, post-publication peer-review forums, social media, patent citations and <a href="https://help.altmetric.com/support/solutions/articles/6000060968-what-outputs-and-sources-does-altmetric-track-" target="_blank">other online sources</a>.</p>
+            <p><em>KnowledgeTracker</em> retrieves scholarly works recently mentioned across the social web, using <a href="https://www.altmetric.com" target="_blank" rel="noopener">Altmetric</a>’s data : policy documents, <a href="https://www.altmetric.com/about-our-data/our-sources/news/" target="_blank" rel="noopener">mainstream media</a>, blogs, online reference managers, post-publication peer-review forums, social media, patent citations and <a href="https://help.altmetric.com/support/solutions/articles/6000060968-what-outputs-and-sources-does-altmetric-track-" target="_blank" rel="noopener">other online sources</a>.</p>
             <hr/>
             <h3>What’s Altmetric?</h3>
-            <p>Altmetrics data is provided by <em><a href="https://www.altmetric.com" target="_blank">Altmetric.com</a></em>, a research metrics company who track and collect the online conversations around millions of scholarly outputs. Altmetric continually monitors a variety of non-traditional <a href="https://www.altmetric.com/about-altmetrics/our-sources/" target="_blank">sources</a> to provide real-time updates on new mentions and shares of individual research outputs, which are collated and presented to users via the Altmetric <a href="https://www.altmetric.com/about-altmetrics/altmetric-details-page/" target="_blank">details pages</a> and <a href="https://www.altmetric.com/products/altmetric-badges/" target="_blank">badge visualisations</a>. Each research output that Altmetric finds attention for is also given a score; a weighted count of the online attention it has received. Further information about how the Altmetric Attention Score is calculated is available <a href="https://www.altmetric.com/about-altmetrics/the-donut-and-score/" target="_blank">here</a>.</p>
+            <p>Altmetrics data is provided by <em><a href="https://www.altmetric.com" target="_blank" rel="noopener">Altmetric.com</a></em>, a research metrics company who track and collect the online conversations around millions of scholarly outputs. </p>
+
+            <p>Altmetric continually monitors a variety of non-traditional <a href="https://www.altmetric.com/about-altmetrics/our-sources/" target="_blank" rel="noopener">sources</a> to provide real-time updates on new mentions and shares of individual research outputs, which are collated and presented to users via the Altmetric <a href="https://www.altmetric.com/about-altmetrics/altmetric-details-page/" target="_blank" rel="noopener">details pages</a> and <a href="https://www.altmetric.com/products/altmetric-badges/" target="_blank" rel="noopener">badge visualisations</a>. </p>
+
+            <p>Each research output that Altmetric finds attention for is also given a score; a weighted count of the online attention it has received. See further information about <a href="https://www.altmetric.com/about-altmetrics/the-donut-and-score/" title="Learn more about the donut badge and score" target="_blank" rel="noopener">how the Altmetric Attention Score is calculated is available</a>.</p>
             <p>
-              <a href="https://www.altmetric.com" title="Go to Altmetric’s website" target="_blank">
+              <a href="https://www.altmetric.com" title="Go to Altmetric’s website" target="_blank" rel="noopener">
                 <img src="{% static 'img/altmetric_logo.png' %}" alt="Almetric’s logo" class="img-fluid"/>
               </a>
             </p>

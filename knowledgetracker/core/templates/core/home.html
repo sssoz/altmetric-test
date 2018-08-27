@@ -44,7 +44,7 @@
         </small>
 
         <h3 class="article__title">
-          <a href="{{ article.url }}" target="_blank">{{ article.title }}</a>
+          <a href="{{ article.url }}" target="_blank" rel="noopener">{{ article.title }}</a>
         </h3>
 
         {% if article.published_on %}
@@ -55,7 +55,7 @@
 
         <h4 class="sr-only">More information</h4>
         <figure class="article__score-img">
-          <a href="{{ article.details_url }}" title="View additional Altmetric data" target="_blank">
+          <a href="{{ article.details_url }}" title="View additional Altmetric data" target="_blank" rel="noopener">
             <img src="{{ article.images.small }}" alt="Donut representation of this article’s Altmetric Attention Score: {{ article.score }}"/>
           </a>
         </figure>
