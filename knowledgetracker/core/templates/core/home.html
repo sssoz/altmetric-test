@@ -2,63 +2,69 @@
 {% load timestamps %}
 
 {% block content %}
-<form method="get">
-  {% for hidden_field in form.hidden_fields %}
-  {{ hidden_field }}
-  {% endfor %}
+<section class="form">
+  <div class="container">
+    <h2 class="sr-only">Search by keyword and timeframe</h2>
+    <form method="get">
+      {% for hidden_field in form.hidden_fields %}
+      {{ hidden_field }}
+      {% endfor %}
 
-  {% for field in form.visible_fields %}
-  <label for="{{ field.id_for_label }}">{{ field.label }}</label> {{ field }}
-  {% endfor %}
-  <button type="submit">?</button>
-</form>
+      {% for field in form.visible_fields %}
+      <label for="{{ field.id_for_label }}">{{ field.label }}</label> {{ field }}
+      {% endfor %}
+
+      <button type="submit"><ion-icon name="ios-search" size="large"></ion-icon><span class="sr-only"> Search</span></button>
+    </form>
+  </div>
+</section>
 
 {% if search_results %}
 {# Get number of pages for this query #}
 {% widthratio search_results.query.total search_results.query.num_results 1 as page_number %}
 
 <section class="results">
-  <h2 class="results__title">{{ search_results.query.total }} results for <strong>{{ request.GET.q }}</strong></h2>
+  <div class="container">
+    <h2 class="results__title">{{ search_results.query.total }} results for <strong>{{ request.GET.q }}</strong></h2>
+    <p>
+      <small><em>Click the <a href="#" data-toggle="modal" data-target="#moreInfo" title="What’s this?"><strong>badge</strong></a> to view additional data about each article.</em></small>
+    </p>
+    <div class="row">
+      {% for article in search_results.results|dictsortreversed:"score" %}
+      <article class="col-sm-6 col-md-4 col-lg-3 article">
+        <small>
+          {{ article.type|title }}
+          {% if article.journal %} from <em>{{ article.journal|safe }}</em>{% endif %}
+        </small>
 
-  <div class="row">
-    {% for article in search_results.results|dictsortreversed:"score" %}
-    <article class="col-sm-6 col-md-4 col-lg-3 article">
-      <h3 class="article__title">
-        <a href="{{ article.url }}" target="_blank">{{ article.title }}</a>
-      </h3>
-      <p>
-        {{ article.type|title }}
-        {% if article.journal %} from <em>{{ article.journal|safe }}</em>{% endif %}
-      </p>
-      {% if article.is_oa %}
-      <p>
-        <strong>Available in Open Access</strong>
-      </p>
-      {% endif %}
-      <dl>
-        <dt>Published on</dt>
-        <dd>{{ article.published_on|print_timestamp }}</dd>
-      </dl>
-      <p>
-        <a href="{{ article.details_url }}" title="View additional Altmetric data" target="_blank">
-          <img src="{{ article.images.medium }}" alt="Donut representation of this article’s Altmetric Attention Score: {{ article.score }}"/>
-        </a>
-      </p>
-    </article>
-    {% empty %}
-    {{ search_results.message }}
-    {% endfor %}
+        <h3 class="article__title">
+          <a href="{{ article.url }}" target="_blank">{{ article.title }}</a>
+        </h3>
+
+        {% if article.published_on %}
+        <small>
+          {{ article.published_on|print_timestamp }}
+        </small>
+        {% endif %}
+
+        <h4 class="sr-only">More information</h4>
+        <figure class="article__score-img">
+          <a href="{{ article.details_url }}" title="View additional Altmetric data" target="_blank">
+            <img src="{{ article.images.small }}" alt="Donut representation of this article’s Altmetric Attention Score: {{ article.score }}"/>
+          </a>
+        </figure>
+
+        {% if article.is_oa %}
+        <p>
+          <strong>Available in Open Access</strong>
+        </p>
+        {% endif %}
+      </article>
+      {% empty %}
+      {{ search_results.message }}
+      {% endfor %}
+    </div>
   </div>
-
-
-  {# Display pagination #}
-  <nav class="row">
-  {% for i in x|ljust:page_number %}
-  {% if not forloop.first %}
-    <a class="" href="{{ request.get_full_path }}&page={{ forloop.counter }}">{{ forloop.counter }}</a>
-  {% endif %}
-  {% endfor %}
-  </nav>
 </section>
 {% endif %}
 

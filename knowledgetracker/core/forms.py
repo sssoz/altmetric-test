@@ -13,7 +13,7 @@ TIMEFRAMES = (
 class KnowledgeTrackerForm(forms.Form):
     q = forms.CharField(
         max_length=250,
-        label='What’s trending on the subject of',
+        label='See what’s trending on the subject of',
         widget=forms.TextInput(attrs={
             'placeholder': 'keywords…',
             'required': 'required',
