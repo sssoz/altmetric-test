@@ -18,6 +18,13 @@ class KnowledgeTrackerForm(forms.Form):
             'placeholder': 'keywords…',
             'required': 'required',
             'autofocus': 'autofocus',
+            'data-toggle': 'tooltip',
+            'data-placement': 'top',
+            'data-html': 'true',
+            'data-template': '<div class="tooltip form__tooltip" role="tooltip">\
+            <div class="arrow"></div><div class="tooltip-inner"></div></div>',
+            'title': 'Use <code>\"quotes\"</code> to search for an \
+            exact phrase.'
             }
         ),
     )

@@ -62,7 +62,49 @@
         {% if article.images %}
         <h4 class="sr-only">More information</h4>
         <figure class="article__score-figure">
-          <a href="{{ article.details_url }}" title="View additional Altmetric data" target="_blank" rel="noopener" class="article__score-link" data-more="More info">
+          <a
+            href="{{ article.details_url }}"
+            target="_blank"
+            rel="noopener"
+            class="article__score-link"
+            data-more="More info"
+            data-toggle="tooltip"
+            data-placement="right"
+            data-html="true"
+            data-template="
+              <div class='tooltip results__tooltip' role='tooltip'>
+                  <div class='arrow'></div>
+                  <div class='tooltip-inner'></div>
+                </div>"
+            title="
+              <section class='sources'>
+                <h5 class='sources__title'>Mentions by source</h5>
+                <ul class='sources__list'>
+                  {% with 'core/partials/sources_list.html' as source %}
+                  {% include source with count=article.cited_by_posts_count type='<strong>total mentions</strong>' %}
+                  {% include source with count=article.cited_by_delicious_count type='by Delicious users' %}
+                  {% include source with count=article.cited_by_fbwalls_count type='on Facebook pages' %}
+                  {% include source with count=article.cited_by_feeds_count type='in blog posts' %}
+                  {% include source with count=article.cited_by_forum_count type='in forum answers' %}
+                  {% include source with count=article.cited_by_gplus_count type='in Google+ posts' %}
+                  {% include source with count=article.cited_by_linkedin_count type='in Linkedin posts' %}
+                  {% include source with count=article.cited_by_msm_count type='mentions in the news' %}
+                  {% include source with count=article.cited_by_peer_review_sites_count type='on peer review sites' %}
+                  {% include source with count=article.cited_by_pinners_count type='by Pinterest users' %}
+                  {% include source with count=article.cited_by_policies_count type='in policy sources' %}
+                  {% include source with count=article.cited_by_qs_count type='in a StackExchange comment' %}
+                  {% include source with count=article.cited_by_rdts_count type='in Reddit comments' %}
+                  {% include source with count=article.cited_by_rh_count type='on research highlight platforms' %}
+                  {% include source with count=article.cited_by_tweeters_count type='tweets' %}
+                  {% include source with count=article.cited_by_videos_count type='on YouTube channels' %}
+                  {% include source with count=article.cited_by_weibo_count type='on Sina Weibo posts' %}
+                  {% include source with count=article.cited_by_wikipedia_count type='on Wikipedia pages' %}
+                  {% endwith %}
+                </ul>
+                <p class='sources__text'><em>Click for more details</em></p>
+              </section>
+              "
+          >
             <img src="{{ article.images.small }}" alt="Donut representation of this article’s Altmetric Attention Score: {{ article.score }}"/>
           </a>
         </figure>

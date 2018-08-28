@@ -33,6 +33,10 @@ p {
   line-height: 1.65;
 }
 
+code {
+  color: #454545;
+}
+
 small {
   font-size: 70%;
 }
@@ -149,6 +153,7 @@ button:focus {
 .article__title {
   margin: 1rem 0;
   font-size: 1em;
+  word-wrap: break-word;
 }
 
 .article__score-figure {
@@ -202,6 +207,25 @@ button:focus {
   color: #FFF;
 }
 
+.sources {
+  text-align: left;
+}
+
+.sources__title {
+  margin-bottom: 0.5em;
+  font-size: 1rem;
+}
+
+.sources__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.sources__text {
+  margin: 0.5em 0 0 0;
+}
+
 /* Bootstrap modals */
 .modal-header .close {
   color: #FFF;
@@ -253,6 +277,24 @@ button:focus {
 
 .modal-content hr {
   border-color: #FFF;
+}
+
+/* Bootstrap tooltips */
+.tooltip-inner {
+  border-radius: 0;
+}
+
+.form__tooltip .tooltip-inner {
+  background: #FFF3F2;
+  color: #454545;
+}
+
+.results__tooltip .tooltip-inner {
+  background: #B47B76;
+}
+
+.tooltip .arrow {
+  display: none;
 }
 
 /* Animations & keyframes */
